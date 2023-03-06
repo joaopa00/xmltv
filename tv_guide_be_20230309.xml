@@ -244,34 +244,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230308224100" channel="C187.api.telerama.fr" stop="20230309001700">
-    <title>Incarnate</title>
-    <desc lang="fr">Le docteur Ember, scientifique tétraplégique, est capable d'entrer en contact avec la psyché de ses patients. Le Vatican fait appel à lui pour exorciser Cameron, un adolescent de 14 ans. Le garçon serait possédé par un démon particulièrement puissant et insensible aux méthodes habituelles de l'Eglise. Sous le contrôle de l'esprit, Cameron a assassiné une sans-abri. Lorsqu'Ember rencontre Cameron, il comprend aussitôt que le démon auquel il a affaire ne lui est pas inconnu...</desc>
-    <credits>
-      <director>Brad Peyton</director>
-      <actor>Aaron Eckhart</actor>
-      <actor>Paul Vincent O'Connor</actor>
-      <actor>Carice van</actor>
-      <actor>Keir O'Donnell</actor>
-      <actor>Natalija Nogulich</actor>
-      <actor>Emjay Anthony</actor>
-      <actor>David Mazouz</actor>
-      <actor>John Pirruccello</actor>
-      <actor>Matt Nable</actor>
-      <actor>Breanne Parhiala</actor>
-      <actor>Catalina Sandino</actor>
-      <actor>Emily Jackson</actor>
-      <writer>Ronnie Christensen</writer>
-    </credits>
-    <date>2016</date>
-    <category lang="fr">film d'horreur</category>
-    <length units="minutes">96</length>
-    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/218332c8aaac1852401ff6d406fb8c737309ce7c.jpg" />
-    <rating system="CSA">
-      <value>-16</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
-    </rating>
-  </programme>
   <programme start="20230309231000" channel="C187.api.telerama.fr" stop="20230309231900">
     <title>Vews</title>
     <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>

@@ -51,37 +51,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304224500" channel="C59.api.telerama.fr" stop="20230305001500">
-    <title>Commissaire Brunetti : enquêtes à Venise</title>
-    <sub-title>Stille Wasser</sub-title>
-    <desc lang="fr">Saison:1 - Episode:26 - Im Krankenurlaub auf der Laguneninsel San Erasmo lernt Guido Brunetti den Bienenzüchter Davide Casati kennen, mit dem er beim Rudern schnell eine ungewöhnliche Vertrautheit aufbaut. Erstaunt stellt der Commissario fest, dass sein neuer Bekannter schon früher mit seinem Vater in einem Boot sass. Als Brunetti nach einem Sturm die Leiche von Casati findet, fühlt er sich dem Toten und dessen Tochter Federica verpflichtet, der Sache auf den Grund zu gehen.</desc>
-    <credits>
-      <director>Sigi Rothemund</director>
-      <actor>Uwe Kockisch</actor>
-      <actor>Gerhard Garbers</actor>
-      <actor>Julia Jäger</actor>
-      <actor>Roman Knizka</actor>
-      <actor>Beyer Hermann</actor>
-      <actor>Annett Renneberg</actor>
-      <actor>Syniawa Laura-Charlotte</actor>
-      <actor>Karl Fischer</actor>
-      <actor>Kai Schumann</actor>
-      <actor>Marie Leuenberger</actor>
-      <actor>Suzanne von</actor>
-      <actor>Paul Fassnacht</actor>
-      <writer>Iwersen Florian</writer>
-      <writer>Holtz Stefan</writer>
-      <writer>Donna Leon</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="fr">série policière</category>
-    <length units="minutes">90</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/07/05/73ee9380e55ae739acd91573ab39ac9f2c8d2b71.jpg" />
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305232000" channel="C183.api.telerama.fr" stop="20230305232500">
     <title>Allocutions, déclarations</title>
     <sub-title>Allocution de Alain Berset, Président de la Confédération à l'occasion de la Journée des malades</sub-title>

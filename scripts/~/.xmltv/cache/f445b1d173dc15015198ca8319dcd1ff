@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 05f7b8f9fef9b1033776cf7e5b64b1b2
+MD5 2cb7d3511dfe6cf6e13d2ad7a335495e
 Url https://www.tvguide.co.uk/detail/5025331/81972640/bbc-news
-X-HCT-LastUpdated 1677891802
+X-HCT-LastUpdated 1678143568
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677891802
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663521890" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664282308" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663521890" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664282308" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -701,7 +701,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663521890</div>
+<div style="color:#000000">664282308</div>
 
 
 <script>

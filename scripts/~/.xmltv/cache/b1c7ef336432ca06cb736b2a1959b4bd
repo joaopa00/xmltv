@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 6e6ef023685dc53c21865c8edb67a7bd
+MD5 78565b0d64492d499b40beb19d89ebb1
 Url https://www.tvguide.co.uk/detail/953963/81984544/the-devil-wears-prada
-X-HCT-LastUpdated 1677899062
+X-HCT-LastUpdated 1678150805
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677899062
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -514,10 +514,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663443640" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664347573" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663443640" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664347573" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -587,15 +587,15 @@ $('#articleCarousel').carousel({
     
 	<div id="divCentre">
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
-        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">6.1</div>
+        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">6.2</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>231 votes
+            	USER RATING<br>236 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
                     <script language="javascript" src="https://cdn.tvguide.co.uk/_ui/rateit/jquery.rateit.min.js"></script>
                     <div id="rateit" class="rateit tvgstars" data-rateit-starwidth="16" data-rateit-starheight="15" data-rateit-resetable="false" data-rateit-max="10" 
-                    	data-rateit-step="1" data-rateit-value="6.1"></div>
+                    	data-rateit-step="1" data-rateit-value="6.2"></div>
                     <script type="text/javascript">
                         $('#rateit').on('beforerated', function (e, value) {
                           if (!confirm('Are you sure you want to rate this item: ' +  value + ' out of 10?')) {
@@ -648,7 +648,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="The Devil Wears Prada (2006)"/>
-                                <meta itemprop="votes" content="231"/>
+                                <meta itemprop="votes" content="236"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -656,9 +656,9 @@ $('#articleCarousel').carousel({
                                         Rating<br></span>
                                     <span class="programmeheading" itemprop="average" 
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
-                                        6.1</span><br>
+                                        6.2</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        231 votes</span>
+                                        236 votes</span>
                                  </span>
                             </span>
                         
@@ -801,7 +801,7 @@ OVERALL, DON'T WASTE YOU TIME WATHING THIS FILM!</span></a><br>
 
 
 
-<div style="color:#000000">663443640</div>
+<div style="color:#000000">664347573</div>
 
 
 <script>

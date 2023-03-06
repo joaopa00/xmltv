@@ -1,9 +1,9 @@
 Code 200
-Content-Length 82685
+Content-Length 82683
 Content-Type text/html;charset=UTF-8
-MD5 24f870f0c95b5628f8f83e91f66feba3
+MD5 9248a0414a272d0536fac16696ce557c
 Url https://www.tvguide.co.uk/channellistings.asp?ch=89&cTime=03%2F09%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677893996
+X-HCT-LastUpdated 1678145674
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677893996
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -306,7 +306,7 @@ X-HCT-LastUpdated 1677893996
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">1.3</span>
+		</span><span class="programmeheading">1.4</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -618,7 +618,7 @@ X-HCT-LastUpdated 1677893996
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">2.9</span>
+		</span><span class="programmeheading">3</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1110,7 +1110,7 @@ X-HCT-LastUpdated 1677893996
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">9.1</span>
+		</span><span class="programmeheading">9.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1416,7 +1416,7 @@ X-HCT-LastUpdated 1677893996
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">5.8</span>
+		</span><span class="programmeheading">7.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

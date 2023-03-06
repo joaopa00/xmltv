@@ -1,15 +1,15 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 f02c33a55dc51df5407fb68d8665177d
+MD5 3bf90232b8151704334027416476f48b
 Url https://www.tvguide.co.uk/detail/5031826/81986382/bbc-news
-X-HCT-LastUpdated 1677905708
+X-HCT-LastUpdated 1678157434
 
 
 <!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 <title>TV Guide - TVguide.co.uk</title>
-<meta property="og:title" content="BBC News (11/03/2023 - 2) on BBC One Northern Ireland, Sat 11 Mar 5:15pm - TV Guide UK TVGuide.co.uk"/>
+<meta property="og:title" content="BBC News (11/03/2023 - 2) on BBC One Northern Ireland, Sat 11 Mar 5:20pm - TV Guide UK TVGuide.co.uk"/>
 <meta property="og:image" content="https://images.tvguide.co.uk/pa/640/e0ac0a28-1d1d-526b-a9ba-23d7f5060192.jpg"/>
 <meta property="og:description" content="TV Guide, The UK's No 1 TV guide showing your TV listings in an easy to read grid format. Visit us to check Sports, News, Freeview, Freesat, Sky TV, Virgin TV, History, Discovery, TLC, BBC, and more."/>
 <meta property="og:url" content="https://www.tvguide.co.uk/detail/5031826/81986382/bbc-news"/>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677905708
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -335,97 +335,7 @@ input:checked + .slider:before { -webkit-transform: translateX(10px); -ms-transf
 <div style="width:100%;min-width:1300px;height:84px;padding:0 0 10px 0;z-index:99;">
 	<div id="popStories">News</div>
 	<div id="articleCarousel" style='z-index:99;'> 
-    	<ul>
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/23113928/netflixmar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-netflix-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-netflix-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Netflix in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/21122343/nowtvmar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-now-tv-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-now-tv-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to NOW TV in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/22110908/disneymar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-disney-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-disney-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Disney+ in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/22134544/eastenders2-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/shock-murder-awaits-christmas-eastenders-soap-premieres-epic-flash-forward/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/shock-murder-awaits-christmas-eastenders-soap-premieres-epic-flash-forward/" target="_blank" class="div-blog-article-text-title">Shock murder awaits this Christmas on EastEnders as soap premieres epic flash-forward</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/08111129/trafficked-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/trafficked-mariana-van-zeller-brand-new-season-national-geographic/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/trafficked-mariana-van-zeller-brand-new-season-national-geographic/" target="_blank" class="div-blog-article-text-title">Discover the devastating human cost of MDMA and more in brand new Trafficked with Mariana ...</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/09152316/SkyKids-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/everything-need-know-new-channel-sky-kids/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/everything-need-know-new-channel-sky-kids/" target="_blank" class="div-blog-article-text-title">Everything you need to know about new channel Sky Kids</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2020/02/03110112/AirCraftInvestigation5-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/brand-new-air-crash-investigation-explores-deadly-corporate-airlines-5966-crash/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/brand-new-air-crash-investigation-explores-deadly-corporate-airlines-5966-crash/" target="_blank" class="div-blog-article-text-title">Brand new Air Crash Investigation explores the deadly Corporate Airlines 5966 crash</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/01113111/yourplaceormine-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-netflix-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-netflix-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Netflix in February 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/01/12111959/nowtvfeb2023-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-now-tv-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-now-tv-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to NOW TV in February 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/01/24120512/disneyfebruary2023-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-disney-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-disney-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Disney+ in February 2023</a>
-            </div>
-        </div>
-    </li>
- </ul>
+    	<ul> </ul>
 	</div>
 </div>
 
@@ -480,7 +390,7 @@ $('#articleCarousel').carousel({
             
 			<div style="clear:both; margin-bottom:10px;">
  <div style="margin-bottom:7px;"><span class="channelno">Sky:979</span><span class="channelno" style="margin-right:0">Freesat:957</span></div>Sat 11 Mar<br>
-				5:15pm-5:30pm 
+				5:20pm-5:35pm 
                 <span style="color:#999">
 					 (15 minutes)<br>
                     
@@ -498,10 +408,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20BBC+News&dates=20230311T171500Z/20230311T173000Z&details=A+round%2Dup+of+the+latest+headlines%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Northern+Ireland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20BBC+News&dates=20230311T172000Z/20230311T173500Z&details=A+round%2Dup+of+the+latest+headlines%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Northern+Ireland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20BBC+News&dates=20230311T171500Z/20230311T173000Z&details=A+round%2Dup+of+the+latest+headlines%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Northern+Ireland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20BBC+News&dates=20230311T172000Z/20230311T173500Z&details=A+round%2Dup+of+the+latest+headlines%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Northern+Ireland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
                 Add to Google Calendar</a>
             </td>
 		</tr>
@@ -512,10 +422,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663427672" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664361228" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663427672" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664361228" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -701,7 +611,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663427672</div>
+<div style="color:#000000">664361228</div>
 
 
 <script>

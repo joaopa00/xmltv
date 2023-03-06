@@ -1,0 +1,1400 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20230311235500 +0100" channel="C59.api.telerama.fr" stop="20230312020500 +0100">
+    <title>Get on Up</title>
+    <desc lang="fr">Issu d'un milieu défavorisé en Caroline du Sud, James Brown est né et élevé dans la souffrance. Après avoir commis plusieurs méfaits qui le font passer par la case prison, il intègre une chorale de gospel où il fait montre de ses talents de chanteur et de bête de scène. A force de travail et grâce à sa rage de vivre, il devient bientôt l'empereur de la musique soul et funk et connaît une ascension fulgurante. Entre les coups durs de la vie, des relations amoureuses mouvementées et le monde impitoyable du show business, celui que l'on surnomme "Le parrain de la soul" ou "Monsieur dynamite" s'érige bientôt en véritable icône, l'un des musiciens les plus influents du XXe siècle... - Critique : Hollywood n'a pas eu la peau de James Brown. Après plus de dix ans de chantier intensif et une multitude de séances de brainstorming fiévreux, le film sur sa vie garde fermement le cap du biopic ultra psychologique, à l'américaine, sans épuiser l'énergie cyclonique et les facettes multiples de « Mister Dynamite », alias « The Boss », alias « Sex Machine ». Enrôlé après le succès de son chromo antiraciste, La Couleur des sentiments, Tate Taylor, réalisateur blanc du Mississippi, met pourtant tout son coeur à tirer les ficelles d'un récit bien cadré où les douleurs d'une enfance déchirée dans le Sud ségrégationniste attisent la flamme d'un destin hors du commun. Pour chahuter un peu l'édifice, le cinéaste construit son film comme un « megamix » où les époques se croisent et se télescopent. Les tableaux s'enchaînent et se répondent sur un ­tempo soutenu (2h19 pour cinquante ans de carrière pied au plancher), certains un peu fades, d'autres ébouriffants. Comme la surboum en pull de ski chez les minets blancs et la répétition où James Brown invente le funk en direct, déclarant à ses musiciens que tous leurs instruments sont des batteries et le seul Dieu à honorer, celui du rythme. Le black power, la drogue, les femmes et les affaires sont traités à vitesse grand V, mais, ­côté musique, Get on up prend ses aises et ne mégote pas sur la dépense. Tate Taylor reconstitue avec faste les concerts historiques à l'Apollo de Harlem ou à l'Olympia (en 1971) et les années d'apprentissage où James Brown convertit les hymnes de l'Eglise noire en transes érotiques. Il s'appuie sur la performance euphorique d'un Chadwick Boseman au sourire carnassier, qui se glisse à la perfection dans les chorégraphies sophistiquées du chanteur de Night Train. Et approche son mystère : comment un tel contrôle, une autorité aussi verrouillée peuvent accoucher, sur scène ou dans la vie, d'un abandon aussi vertigineux. — Laurent Rigoulet   Lire aussi notre portrait de Chadwick Boseman, p. 16, et notre rencontre avec Mick Jagger, coproducteur de Get on up, dans notre numéro précédent.</desc>
+    <credits>
+      <director>Tate Taylor</director>
+      <actor>Dan Aykroyd</actor>
+      <actor>Lennie James</actor>
+      <actor>Viola Davis</actor>
+      <actor>Scott Jill</actor>
+      <actor>Craig Robinson</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Ellis Nelsan</actor>
+      <actor>Fred Melamed</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Tika Sumpter</actor>
+      <actor>Mychal Brandon</actor>
+      <actor>Josh Hopkins</actor>
+      <writer>Jez Butterworth</writer>
+      <writer>John-Henry Butterworth</writer>
+      <guest>Aakomon "AJ"</guest>
+      <guest>David Sincere Aiken</guest>
+      <guest>Codie L.</guest>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : biographie</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/e9afc76c-945d-4006-81b2-e81f37560ef9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312020500 +0100" channel="C59.api.telerama.fr" stop="20230312034000 +0100">
+    <title>Stadt Land Talent</title>
+    <sub-title>Casting-Show aus Langenthal BE - Die Spannung steigt</sub-title>
+    <desc lang="fr">Die Scouts reisen weiter und machen Halt im Stadttheater Langenthal. Nachwuchskünstlerinnen und -künstler aus der ganzen Schweiz zeigen ihr Können und versuchen, die Jury von ihrem Talent zu überzeugen. Wer wird es in die Final-Show schaffen und dem Sieg einen Schritt näherkommen?</desc>
+    <category lang="fr">musical</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/582088582f2ea740e0e37443db95cc199892c158.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312034000 +0100" channel="C59.api.telerama.fr" stop="20230312035500 +0100">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/06/13/58c0423f204898a039b8742273de60f1a07809c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312035500 +0100" channel="C59.api.telerama.fr" stop="20230312042500 +0100">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Bückerflug</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312042500 +0100" channel="C59.api.telerama.fr" stop="20230312050500 +0100">
+    <title>Kuppelkids</title>
+    <desc lang="fr">Kinder auf Partnersuche: Vier Elternteile wagen in der neuen Reihe "SRF Kuppelkids" das Experiment und legen ihr Liebesglück in die Hände ihrer Kinder. Mit ihrem unverstellten Blick wollen die Kinder versuchen, ihren alleinerziehenden Eltern einen neuen Partner oder eine neue Partnerin zu finden.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/07446bedcc626d4162a6e9f8fb688acef9880d6c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312050500 +0100" channel="C59.api.telerama.fr" stop="20230312055000 +0100">
+    <title>Refuges de montagne</title>
+    <sub-title>Fitze übernimmt</sub-title>
+    <desc lang="fr">Une série de télévision suisse qui essaie de nous évoquer une culture populaire dans sa diversité. On apprend tout de la culture suisse quotidienne contemporaine.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/21/6729384555bb56266db7712f371044bc6890d965.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312055000 +0100" channel="C59.api.telerama.fr" stop="20230312062500 +0100">
+    <title>Samschtig-Jass</title>
+    <sub-title>Mit Judoka Sergei Aschwanden</sub-title>
+    <desc lang="fr">Sergei Aschwanden, erfolgreichster Judoka der Schweiz, setzt sich im Aquatis in Lausanne an den Jasstisch. Ob der ehemalige Spitzenathlet seine Jassgegner bezwingen kann? Musikalisch umrahmt wird der Jassabend von Jesse Ritch, der im "Samschtig-Jass" sein Debutalbum "Farbtupfer" vorstellt.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/10/31/1d2ab226c03f4c02c3076e79bf996cc6f6fba184.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312062500 +0100" channel="C59.api.telerama.fr" stop="20230312073000 +0100">
+    <title>News-Schlagzeilen</title>
+    <desc lang="fr">Betont sachlich und gebündelt wird in der Nachrichtensendung tagesaktuell über das Geschehen in aller Welt berichtet. Mit den wichtigsten Neuigkeiten aus Wirtschaft, Politik, Gesellschaft und Sport bleibt man stets auf dem Laufenden, was weltpolitische Vorgänge, die Finanzmärkte, Unglücke, Naturkatastrophen, Verbrechen, Jubiläen, Sportergebnisse oder sonstige relevante Dinge betrifft.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/217e1ea11e689d1b2348394c88d1aeef7da35da0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312073000 +0100" channel="C59.api.telerama.fr" stop="20230312093000 +0100">
+    <title>Wetterkanal</title>
+    <desc lang="fr">Ein Mix aus Kamerabildern von 36 Schweizer Wetterstationen, den Wetterprognosen für heute und morgen mit aktuellem Luftdruck und Windgeschwindigkeiten. Gegebenenfalls informiert die Sendung auch über Schnee- und Pistenverhältnisse. Dies alles wird akustisch unterlegt mit dem Radioprogramm von SRF 4.</desc>
+    <category lang="fr">météo</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/b14c72016b0122b26e83e850cf737fbe3e54afc1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312093000 +0100" channel="C59.api.telerama.fr" stop="20230312100000 +0100">
+    <title>gesundheitheute</title>
+    <sub-title>Kurzsichtigkeit behandeln</sub-title>
+    <desc lang="fr">Kurzsichtig ist, wer auf kurze Distanz gut sieht, in der Ferne die Dinge jedoch nur verschwommen wahrnimmt. Oft zeigt sich dies bereits im Kindesalter, doch lässt sich das Fortschreiten einer Kurzsichtigkeit bremsen?</desc>
+    <category lang="fr">magazine médical</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e9a005ab08ad25b11df07388b85b796718027b19.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312100000 +0100" channel="C59.api.telerama.fr" stop="20230312110000 +0100">
+    <title>Sternstunde Religion</title>
+    <desc lang="fr">Das Magazin erzählt vom Umgang der Menschen mit Religion und Lebensfragen. Die Sendung ordnet ein, fragt nach und schafft Zusammenhänge - in Form von Dokumentarfilmen oder Gesprächen. Unter anderem kommen folgende Themen zur Sprache: die Rolle der Religion, Hölle und Paradies, Islamisten, Spirituelle Wege, Sterbehilfe, Lebensgeschichten, Verschwörungsmythen, Sünden und Tugenden, Wiedergeburt.</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/13/5bea34cde45715c958d476ca0ec8aba07e4b4327.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312110000 +0100" channel="C59.api.telerama.fr" stop="20230312120000 +0100">
+    <title>Sternstunde Philosophie</title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/7765ecacfaf647c05a5307ee81f0d5bd59673cf9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312120000 +0100" channel="C59.api.telerama.fr" stop="20230312130000 +0100">
+    <title>Sternstunde Musik</title>
+    <sub-title>Choreograf Merce Cunningham</sub-title>
+    <desc lang="fr">Er ist der vielleicht grösste Choreograf der Postmoderne: Merce Cunningham. Mit seinen gewagten, unkonventionellen Methoden brachte er seine Tänzerinnen an ihre Grenzen und revolutionierte gleichzeitig die Welt des Modern Dance.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/44b07921021cdc431bf63ed7eb4cca3e662d63c9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312130000 +0100" channel="C59.api.telerama.fr" stop="20230312131000 +0100">
+    <title>Tagesschau</title>
+    <sub-title>Mittagsausgabe</sub-title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/12/ef84927975902c8dc40218cd42a903ea780bfc2a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312131000 +0100" channel="C59.api.telerama.fr" stop="20230312140000 +0100">
+    <title>NZZ Standpunkte</title>
+    <desc lang="fr">In der Gesprächssendung "NZZ-Standpuntke" unterhalten sich bekannte Moderatoren mit illustren Gästen über ein aktuelles Thema aus den Bereichen Politik, Wirtschaft, Gesellschaft und Kultur.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/6f8fb356c89d9da238fbcf770a9e3a85a5a2743d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312140000 +0100" channel="C59.api.telerama.fr" stop="20230312145000 +0100">
+    <title>Kuppelkids</title>
+    <desc lang="fr">Kinder auf Partnersuche: Vier Elternteile wagen in der neuen Reihe "SRF Kuppelkids" das Experiment und legen ihr Liebesglück in die Hände ihrer Kinder. Mit ihrem unverstellten Blick wollen die Kinder versuchen, ihren alleinerziehenden Eltern einen neuen Partner oder eine neue Partnerin zu finden.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/07446bedcc626d4162a6e9f8fb688acef9880d6c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312145000 +0100" channel="C59.api.telerama.fr" stop="20230312152500 +0100">
+    <title>Programme non communiqué</title>
+    <sub-title>(detaillierte Angaben folgen)</sub-title>
+    <desc lang="fr">Malheureusement, aucune information sur les programmes n'était disponible auprès de la chaîne au moment de la mise sous presse. Pour savoir ce qui est diffusé, nous vous recommandons de consulter le site web de la chaîne de télévision.</desc>
+    <category lang="fr">programme indéterminé</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/eaca5b81c2c95dd146c74f567f5b45f93bf9bcb0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312152500 +0100" channel="C59.api.telerama.fr" stop="20230312155500 +0100">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Die Bienenflüsterer - Slowenien</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - L'Apis mellifera carnica, ou abeille carniolienne, est originaire de Slovénie. Les habitants nourrissent un profond respect pour cette espèce autochtone.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/06ae6a66b8017cb36d898aefbb7462f02a99fd00.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312155500 +0100" channel="C59.api.telerama.fr" stop="20230312162500 +0100">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Die Bienenflüsterer - Nepal</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Au Népal, dans la région du Manaslu, à 2000 mètres d'altitude, vit l'ethnie Gurung. Chaque année, quelques-uns des siens sont élus pour affronter l'abeille géante de l'Himalaya.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/06/07/0e5eccece086f093930fc6c403d4d7d006c33f40.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312162500 +0100" channel="C59.api.telerama.fr" stop="20230312171000 +0100">
+    <title>Enfants du soleil, les papillons</title>
+    <sub-title>Unsere Schmetterlinge</sub-title>
+    <desc lang="fr">Avec leurs couleurs chatoyantes et leurs mouvements graciles, les papillons sont les seuls insectes qui attirent universellement la sympathie et l'émerveillement. Si on les perçoit généralement comme des créatures infiniment fragiles, les papillons peuvent s'avérer très résistants et même endurants : certaines espèces se mesurent aux oiseaux migrateurs en traversant les Alpes – ou même des océans – sans escale. Leurs stratégies de défense, entre cocktails empoisonnés et motifs terrifiants sur leurs ailes, sont également surprenantes.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/27/8491d4fa9e984082960ac275b209f6987502f4ad.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312171000 +0100" channel="C59.api.telerama.fr" stop="20230312172500 +0100">
+    <title>Minisguard</title>
+    <desc lang="fr">Die Nachrichtensendung für Kinder und Jugendliche. Warum ist der Himmel blau? Was sind Menschenrechte? Was macht die Digitalisierung und was bewegt die Welt? "Minisguard" präsentiert aktuelle Themen verständlich und kinderleicht.</desc>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/467aca17bc68995232c5f39b52ec27e308bcc892.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312172500 +0100" channel="C59.api.telerama.fr" stop="20230312180000 +0100">
+    <title>Telesguard spezial</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/c2c3a0e502eb2aef151f7ea96640687d2c34b95e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312180000 +0100" channel="C59.api.telerama.fr" stop="20230312180500 +0100">
+    <title>Tagesschau</title>
+    <sub-title>Vorabendausgabe</sub-title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/ea717dfd25cef4573b7fc34156b9e4fb118ba80e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312180500 +0100" channel="C59.api.telerama.fr" stop="20230312181500 +0100">
+    <title>Meteo</title>
+    <sub-title>Vorabendausgabe</sub-title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/a3417b7bbb29094ad3f692057b27fb72326df59b_4C76AEB188ACC8F0464D56B02BCC03BB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312181500 +0100" channel="C59.api.telerama.fr" stop="20230312184500 +0100">
+    <title>Schweiz aktuell extra</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/f4e6d3c5b97cca5445488c83db695796156bccff.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312184500 +0100" channel="C59.api.telerama.fr" stop="20230312191500 +0100">
+    <title>Glanz &amp; Gloria Weekend</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Das People-Magazin des Schweizer Fernsehens ist mit dabei, wenn Promis bei glänzenden Empfängen in Bern oder gloriosen Auftritten auf dem roten Teppich von Hollywood anzutreffen sind. Die Reporter berichten heute, worüber die Schweiz morgen spricht.</desc>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/68232e9cff071f07e54d1c1cdfca0a5d3f371f6b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312191500 +0100" channel="C59.api.telerama.fr" stop="20230312193000 +0100">
+    <title>mitenand</title>
+    <sub-title>Café für aktive Senioren</sub-title>
+    <desc lang="fr">Die Sendung "mitenand" berichtet über soziale und ökologische Projekte in der Schweiz und der Dritten Welt. Im Vordergrund stehen die Betroffenen in ihrem Alltag, mit ihren Problemen und deren allfälligen Lösungen.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/10/891c6f53e8593f228db8b56b152552809ea6b23d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312193000 +0100" channel="C59.api.telerama.fr" stop="20230312195500 +0100">
+    <title>Tagesschau</title>
+    <sub-title>Hauptausgabe</sub-title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/ea717dfd25cef4573b7fc34156b9e4fb118ba80e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312195500 +0100" channel="C59.api.telerama.fr" stop="20230312200500 +0100">
+    <title>Meteo</title>
+    <sub-title>Abendausgabe</sub-title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/a3417b7bbb29094ad3f692057b27fb72326df59b_4C76AEB188ACC8F0464D56B02BCC03BB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312200500 +0100" channel="C59.api.telerama.fr" stop="20230312214000 +0100">
+    <title>Tatort</title>
+    <sub-title>Hackl</sub-title>
+    <desc lang="fr">Episode:1228 - Série pionnière du genre policier allemand, chaque épisode traite d'un crime commit quelque part en Allemagne où la police locale doit enquêter, mettant donc en scène différents commissaires et quelques personnages réguliers. Les enquêtes soulèvent régulièrement des questions sociales en lien direct avec les lieux du crimes, c'est le défi que doivent relever les forces de police locales.</desc>
+    <credits>
+      <director>Katharina Bischof</director>
+      <actor>Wachtveitl Udo</actor>
+      <actor>Miroslav Nemec</actor>
+      <actor>Kaya Berivan</actor>
+      <actor>Burghart Klaussner</actor>
+      <actor>Irina Kurbanova</actor>
+      <actor>Scheibe Hannah</actor>
+      <actor>Ferdinand Hofer</actor>
+      <actor>Robert Joseph</actor>
+      <actor>Germeno Lorenzo</actor>
+      <actor>Pia Amofa-Antwi</actor>
+      <actor>Carolin Conrad</actor>
+      <actor>Aaron Reitberger</actor>
+      <writer>Gabler Dagmar</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/6142f7ef294e700361608269b0495489410de95c.jpg" />
+    <episode-num system="xmltv_ns">.1227.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312214000 +0100" channel="C59.api.telerama.fr" stop="20230312222500 +0100">
+    <title>Deville</title>
+    <desc lang="fr">Unverschämt schlagfertig und charmant, kombiniert mit einer Prise Provokation, so führt Dominic Deville durch die Sendung. Der Schweizer Komiker wirft einen amüsant-provokanten Blick auf das aktuelle Geschehen. Was anfangs wie eine klassische Late-Night-Comedy nach amerikanischem Vorbild ausschaut, entpuppt sich schnell als Spielwiese für den multitalentierten Entertainer und Improvisator.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/19/10274c9801864d93cf13617af85aeddf518fbdb0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312222500 +0100" channel="C59.api.telerama.fr" stop="20230312223500 +0100">
+    <title>Tagesschau</title>
+    <sub-title>Spätausgabe</sub-title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/ea717dfd25cef4573b7fc34156b9e4fb118ba80e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312223500 +0100" channel="C59.api.telerama.fr" stop="20230312224000 +0100">
+    <title>Meteo</title>
+    <sub-title>Spätausgabe</sub-title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/a3417b7bbb29094ad3f692057b27fb72326df59b_4C76AEB188ACC8F0464D56B02BCC03BB.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312224000 +0100" channel="C59.api.telerama.fr" stop="20230312234000 +0100">
+    <title>Hypermarchés, la chute de l'empire</title>
+    <sub-title>Auslaufmodell Supermarkt</sub-title>
+    <desc lang="fr">Le modèle de l'hypermarché a-t-il fait son temps ? Ce concept révolutionnaire du "tout sous le même toit", popularisé en 1963 par Carrefour, a conquis le monde entier. Aujourd'hui pourtant, le pionnier français, comme ses concurrents, a un genou à terre. En cause notamment, la crise du gigantisme, associé à une déshumanisation du commerce et à la surconsommation, pointée du doigt à l'heure des grands défis écologiques, mais aussi la concurrence du e-commerce. Désormais, tout le secteur cherche à sauver ce qui peut l'être, quitte à verser dans des pratiques à la limite de la légalité. Pour obtenir des prix toujours plus bas, sans lesquels elles seraient désertées, les grandes enseignes mettent les fournisseurs de plus en plus sous pression.</desc>
+    <category lang="fr">documentaire economie</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/30/cbcc54a28616279c63fa0ac187297de7f73e4e69.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312234000 +0100" channel="C59.api.telerama.fr" stop="20230313003000 +0100">
+    <title>Sternstunde Kunst</title>
+    <desc lang="fr">Die schweizerisch-japanische Regisseurin Aya Domenig porträtiert fünf Kunstschaffende, die sich in ihren Werken mit Hartnäckigkeit und auch Humor gegen das Verdrängen und Vergessen der Atomkatastrophe von Fukushima wehren.</desc>
+    <category lang="fr">documentaire beaux-arts</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/67fb1593e580cf034684545abf0db81b28eb0242.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230311231500 +0100" channel="C183.api.telerama.fr" stop="20230312005500 +0100">
+    <title>ABBA-mania, 50 ans de tubes cultes</title>
+    <desc lang="fr">Référence mondiale du disco avec 400 millions d'albums vendus, des titres inoubliables comme Waterloo, Mamma Mia ! ou Dancing Queen, ABBA est un véritable succès planétaire.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/05/a8e21169deae3bad72b6ba65fcbffea074605d31.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312005500 +0100" channel="C183.api.telerama.fr" stop="20230312012500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312012500 +0100" channel="C183.api.telerama.fr" stop="20230312055500 +0100">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">270</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312055500 +0100" channel="C183.api.telerama.fr" stop="20230312070000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312070000 +0100" channel="C183.api.telerama.fr" stop="20230312085000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312085000 +0100" channel="C183.api.telerama.fr" stop="20230312092000 +0100">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312092000 +0100" channel="C183.api.telerama.fr" stop="20230312103000 +0100">
+    <title>Ski alpin : Coupe du monde à Kranjska Gora</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/26aaa6422a86d623238fb387fa065940792b3acb.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312103000 +0100" channel="C183.api.telerama.fr" stop="20230312105500 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312105500 +0100" channel="C183.api.telerama.fr" stop="20230312122000 +0100">
+    <title>Ski freestyle : Coupe du monde à Veysonnaz</title>
+    <category lang="fr">sport : ski freestyle</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/26/9e53f920a58762b5c3c74b2e42f1502cc94d7057.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312122000 +0100" channel="C183.api.telerama.fr" stop="20230312134500 +0100">
+    <title>Ski alpin : Coupe du monde à Are</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/21/2e7173c6253bf5b6c1e8b64c597c56fb9bbb7532.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312134500 +0100" channel="C183.api.telerama.fr" stop="20230312150000 +0100">
+    <title>Cyclisme : Paris-Nice</title>
+    <category lang="fr">sport : cyclisme</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/26/f36b08439ad758ec251f3e5f1ce64223408efeef.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312150000 +0100" channel="C183.api.telerama.fr" stop="20230312151500 +0100">
+    <title>Adrénaline</title>
+    <category lang="fr">sports extrêmes</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/cf682ba26feeda3e1400f15750518aaa2e254a2a.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312151500 +0100" channel="C183.api.telerama.fr" stop="20230312154000 +0100">
+    <title>Les saisons de pique-assiette</title>
+    <desc lang="fr">Pour la troisième année consécutive, Annick Jeanmairet sillonne la Suisse romande à la recherche de produits et producteurs innovants, soucieux de la préservation de l'environnement, amoureux du bon goût et adeptes du circuit court. Cette semaine : salade de patate douce et quenelles de patates douces avec Carlo Crisci, consultant culinaire à Cossonay.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/05/7efd7c0076f778ce0de557916236f2fe620c8eb6.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312154000 +0100" channel="C183.api.telerama.fr" stop="20230312163000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312163000 +0100" channel="C183.api.telerama.fr" stop="20230312172000 +0100">
+    <title>52 minutes</title>
+    <desc lang="fr">Vincent Kucholl et Vincent Veillon de retour avec 52 minutes ! Présentation: Vincent Veillon</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/d8cbe6c2d0340b26438d9474ee3f4b2be5810a68.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312172000 +0100" channel="C183.api.telerama.fr" stop="20230312180000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312180000 +0100" channel="C183.api.telerama.fr" stop="20230312190500 +0100">
+    <title>Forum</title>
+    <desc lang="fr">Magazine de décryptage, de débat et d'échange d'idées: l'actualité du jour; grand débat d'approfondissement; séquence initiative citoyenne. Une émission diffusée en tri-média - radio, tv et web.</desc>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/a82e5018aa9d1329c42f3748c87a4f2d84fbdae5.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312190500 +0100" channel="C183.api.telerama.fr" stop="20230312193000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/c42790f544e4b6d31861509eaa523c87541059fe.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312193000 +0100" channel="C183.api.telerama.fr" stop="20230312201000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312201000 +0100" channel="C183.api.telerama.fr" stop="20230312205500 +0100">
+    <title>9-1-1: Lone Star</title>
+    <sub-title>Père et fils</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - La brigade de la caserne 126 d'Austin est confrontée à une fête qui a mal tourné, ainsi qu'à une intervention risquée pour venir en aide à un père et son fils bloqués dans une cavité souterraine. Pendant ce temps, Owen décide d'aider T.K à se réconcilier avec ses traumatismes du passé afin qu'il puisse réintégrer sereinement l'équipe de la 126. De leur côté, Judd et Grace veillent sur le père assez âgé de Judd. Alors que Michelle travaille dans un camp pour sans-abri elle apprend une terrible nouvelle sur sa sœur disparue, Iris, qui remet en cause toute l'enquête. - Critique : Owen Strand, capitaine d’une caserne de pompiers new-yorkaise, survivant du 11 Septembre, est atteint d’un cancer du poumon provoqué par la poussière des décombres du World Trade Center. Pour changer d’air, il prend la tête d’une nouvelle équipe de la capitale texane, Austin. Chargé de diversifier les effectifs, il embauche une musulmane rebelle, un trans champion de la déduction, un redneck atteint de troubles post-traumatiques, et son propre fils, T.K., gay et toxicomane en cours de sevrage… Le charme de 9-1-1, série sur les exploits des pompiers et sauveteurs de Los Angeles, c’est qu’elle n’essaye pas d’être crédible, et enchaîne les accidents si énormes qu’ils en deviennent amusants. Ce spin-off texan poursuit dans la même veine, rajoutant un côté « woke » assumé avec le même second degré joyeusement provocateur. Les héros de ce gros divertissement bourré de bons sentiments sont modernes, charismatiques, et sauvent la veuve et l’orphelin en faisant un doigt d’honneur à l’Amérique de Trump. Guère subtil, mais très efficace.</desc>
+    <credits>
+      <director>David Grossman</director>
+      <actor>Liv Tyler</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Barry Corbin</actor>
+      <actor>Griffin Tim</actor>
+      <actor>Brian Michael</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Jim Parrack</actor>
+      <actor>Aylina Sierra</actor>
+      <actor>Rubinstein Ronen</actor>
+      <actor>Julian Works</actor>
+      <actor>Natacha Karam</actor>
+      <actor>Silva Rafael</actor>
+      <writer>Raisani Rashad</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/15/84ebb67dcbbabf4324ca0c43568c9359d811d188_D261F930682389F6DB0DB27A5AAA4C43.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312205500 +0100" channel="C183.api.telerama.fr" stop="20230312215500 +0100">
+    <title>Salazar, le Portugal à quitte ou double</title>
+    <desc lang="fr">La Seconde guerre mondiale plonge l'Europe dans la destruction et l'effroi, et le Portugal est pris en étau entre Churchill et Hitler. Allié historique de l'Angleterre, le régime fasciste de Salazar est aussi proche du IIIe Reich et de l'Italie de Mussolini. Pour rester à l'écart du conflit, Salazar proclame la neutralité du Portugal. Unique point de passage entre Londres et Berlin, Lisbonne devient ainsi la capitale de l'espionnage. Mais alors que son allié britannique recrute ses opposants communistes, les espions allemands infiltrent jusqu'aux flottes de pêcheurs de l'Atlantique nord.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/03/07/c30866fff22a97fb257ed8cf636bddca2e96de01_EA0977A045A785784D3A1973278DF5B4.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312215500 +0100" channel="C183.api.telerama.fr" stop="20230312221000 +0100">
+    <title>Tous les buts!</title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/13/1b07ec5f69fd5a4104ed9c71730c9aae30bd3ed6_E4C85F4C3019A7A1A9E5D6D7B9C840D9.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312221000 +0100" channel="C183.api.telerama.fr" stop="20230312230500 +0100">
+    <title>Je suis noires</title>
+    <desc lang="fr">En Suisse, terre de consensus et de neutralité, des voix inédites s'élèvent, celles de femmes qui se battent pour la reconnaissance du racisme structurel, déconstruisent les stéréotypes et revendiquent leur double identité suisse et noire. Dans ce contexte, Rachel, journaliste suisso-congolaise, entame sa propre quête identitaire.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/c91f2534d1878c599403a3c5ff861f7b71812b27.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312230500 +0100" channel="C183.api.telerama.fr" stop="20230313003500 +0100">
+    <title>Enquête sur un double assassinat : Jan Kuciak</title>
+    <desc lang="fr">Jeune journaliste d'investigation slovaque, Jan Kuciak a été assassiné le 21 février 2018 de même que sa compagne, Martina Kusnirova, à la veille de leur mariage. Il enquêtait sur des affaires de fraude fiscale concernant des oligarques influents, qui révélaient une infiltration par la mafia calabraise. Secouant l'opinion publique, ce double meurtre a entraîné des manifestations dans tout le pays et a conduit à la démission du gouvernement de Robert Fico. L'enquête policière, efficace, a permis d'identifier les tueurs, dévoilant la corruption qui gangrenait la Slovaquie au plus haut niveau. Lié au pouvoir, l'homme d'affaires Marian Kocner a finalement été accusé d'avoir commandité l'assassinat.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/10/e9828a610a29b75bb0560b7963a546724fc255c6.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230311223000 +0100" channel="C202.api.telerama.fr" stop="20230312002000 +0100">
+    <title>L'art du mensonge</title>
+    <desc lang="fr">Escroc expérimenté, Roy décide de s'attaquer à Betty, une ancienne professeur à Oxford qui a hérité d'une fortune à la mort de son mari. Pour cela, il se rapproche d'elle peu à peu et tente de la séduire. Prétextant une blessure au genou, il lui demande de l'héberger. Il compte lui soumettre son idée d'ouvrir un compte commun pour y placer leur argent. Dans le même temps, Roy et Vincent montent une arnaque bancaire en s'associant avec un boucher polonais crédule et un autre homme trop crédule. Mais ces derniers ne se laissent pas manipuler si facilement... - Critique : On s’attendait à un film d’arnaque bien ficelé et porté par deux cadors britanni­ques. Or ce jeu de dupes entre un vieil escroc antipathique et une riche veuve se met en place très mollement, alors qu’il est évident, dès le début, que le rapport de force va s’inverser. Au moment tant attendu (en bâillant) des ­révélations, les motivations de la victime sont explicitées par de mauvais flash-back. Même le traumatisme qu’elle a vécu ne semble être qu’un complaisant alibi de scé­nario. Quand Ian McKellen, en plein ­cabotinage, et Helen Mirren finissent par se battre à même le sol, le film touche le fond du déplaisant.</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Helen Mirren</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Jim Carter</actor>
+      <actor>Russell Tovey</actor>
+      <actor>Lucian Msamati</actor>
+      <actor>Jóhannes Haukur</actor>
+      <actor>Phil Dunster</actor>
+      <actor>Laurie Davidson</actor>
+      <actor>Mark Lewis</actor>
+      <actor>Spike White</actor>
+      <actor>Tunji Kasim</actor>
+      <actor>Stella Stocker</actor>
+      <writer>Jeffrey Hatcher</writer>
+      <guest>Anthony Van</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/031724c3-71db-4d31-bb6f-f7cae7ba49c4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312002000 +0100" channel="C202.api.telerama.fr" stop="20230312024100 +0100">
+    <title>Sale temps à l'hôtel El Royale</title>
+    <desc lang="fr">Autrefois, l'hôtel El Royale, situé à la frontière de la Californie et du Nevada sur les rives du lac Tahoe, était le refuge des crooners, des politiciens et des criminels. Après avoir perdu sa licence de jeu, l'établissement a été déserté. Une nuit en 1969, y débarquent Laramie Seymour Sullivan, un vendeur d'aspirateurs beau parleur, Darlene Sweet, une chanteuse soul en route pour Reno, le père Daniel Flynn qui perd la mémoire et Emily Summerspring, une hippie au langage fleuri. Les arrivants n'ont rien en commun en apparence mais au fil de la nuit, leurs motivations vont peu à peu se révéler. Et tous ont quelque chose à cacher ou à se faire pardonner, avant éventuellement d'être envoyé en enfer... - Critique : L’Amérique des sixties, un hôtel rétro, des millions de dollars planqués sous le plancher d’une chambre, et sept personnages qui se tiennent en embuscade, prêts à tous les règlements de comptes. Qui s’en sortira ? Le faux prêtre, la chanteuse de soul, l’agent du FBI déguisé en VRP ? Le concours de pronostics est lancé. C’est dire l’humeur joueuse du réalisateur, qui mêle hommage au film noir, violence, ­comédie, parodie. Drew Goddard donne pourtant l’impression de s’appliquer parfois, comme s’il était à la traîne de Tarantino et avait besoin de souligner son talent de manière un peu ostentatoire. Les comédiens s’amusent en tout cas beaucoup et parviennent à transformer cet exercice de style en un divertissement presque royal.</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>William B.</actor>
+      <actor>Jim O'Heir</actor>
+      <actor>Shea Whigham</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Dakota Johnson</actor>
+      <actor>Lewis Pullman</actor>
+      <actor>Cynthia Erivo</actor>
+      <actor>Alvina August</actor>
+      <actor>Cailee Spaeny</actor>
+      <writer>Drew Goddard</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">141</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/01/0c72c59b62be3f3b3f84fda5a561ee04de863bd0.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312024100 +0100" channel="C202.api.telerama.fr" stop="20230312024200 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312024200 +0100" channel="C202.api.telerama.fr" stop="20230312031000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312031000 +0100" channel="C202.api.telerama.fr" stop="20230312050000 +0100">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/95b8817884ce52055fe2fcaf21eb2fb115be2d34.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312050000 +0100" channel="C202.api.telerama.fr" stop="20230312060000 +0100">
+    <title>La Suisse vue du ciel</title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312060000 +0100" channel="C202.api.telerama.fr" stop="20230312102000 +0100">
+    <title>RTS Kids</title>
+    <desc lang="fr">Le magazine jeunesse de la RTS qui propose les plus récentes, amusantes et intéressantes séries d'animation. Un vrai bonheur et une source d'étonnement pour les plus jeunes à ne pas manquer!</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">260</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/9a6a4e25fd807fc19b4558dd3094e323f7b67412.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312102000 +0100" channel="C202.api.telerama.fr" stop="20230312103000 +0100">
+    <title>Quel temps fait-il ?</title>
+    <desc lang="fr">Magazine d'info sur le temps qu'il fait en Suisse et sur les différents titres de l'actualité.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/b2ad3f3399e25f46a17e010c7be7ed7e69ee38c7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312103000 +0100" channel="C202.api.telerama.fr" stop="20230312110000 +0100">
+    <title>Signes</title>
+    <sub-title>Accès aux HUG</sub-title>
+    <desc lang="fr">Un magazine de société consacré aux différents problèmes liés à la malentendance.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/35cd83066975f29c0b603883262e5ad58c960841.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312110000 +0100" channel="C202.api.telerama.fr" stop="20230312123000 +0100">
+    <title>Les beaux parleurs</title>
+    <desc lang="fr">Jonas Schneiter anime cette émission aux côtés de trois chroniqueurs et un humoriste qui revisitent l'actualité de la semaine écoulée sur le ton d'une dispute intelligente et spirituelle.</desc>
+    <category lang="fr">talk-show</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/03/08/7b40309936178ee8c9f175e094a2c7c119b180e0.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312123000 +0100" channel="C202.api.telerama.fr" stop="20230312124500 +0100">
+    <title>Ensemble</title>
+    <sub-title>SwissFoodAcademy</sub-title>
+    <desc lang="fr">"Ensemble" présente les nombreuses institutions d'utilité publique suisses. Par leur engagement et leurs actions, ces organisations encouragent la solidarité dans des domaines aussi variés que la santé, la vie sociale, l'aide humanitaire, la protection de l'environnement et du patrimoine.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/7f64abb9d27655dfea16abf78d4e546e556bd1e5.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312124500 +0100" channel="C202.api.telerama.fr" stop="20230312131000 +0100">
+    <title>Le 12h45</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/93589f17a784983b611d8b69a8a55ef013059f7f.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312131000 +0100" channel="C202.api.telerama.fr" stop="20230312131500 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312131500 +0100" channel="C202.api.telerama.fr" stop="20230312134500 +0100">
+    <title>Géopolitis</title>
+    <desc lang="fr">Pour mieux comprendre les grands enjeux internationaux, ce magazine de géopolitique décode les dessous de l'actualité politique.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/10/8b3befefd6aa88e6d44a299537f421621b78f6fe.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312134500 +0100" channel="C202.api.telerama.fr" stop="20230312143000 +0100">
+    <title>Walker</title>
+    <sub-title>Joyeux anniversaire !</sub-title>
+    <desc lang="fr">Saison:2 - Episode:16 - Les Walker chassent tous les problèmes pour célébrer l'anniversaire de mariage d'Abeline et Bonham. Cassie trouve une pièce de son passé et Cordell a besoin d'un service de Geri.</desc>
+    <credits>
+      <director>Kelli Williams</director>
+      <actor>Mitch Pileggi</actor>
+      <actor>Molly Hagan</actor>
+      <actor>Coby Bell</actor>
+      <actor>Jared Padalecki</actor>
+      <actor>Allen Keegan</actor>
+      <actor>Odette Annable</actor>
+      <actor>Karissa Lee</actor>
+      <actor>Jeff Pierre</actor>
+      <actor>Kale Culley</actor>
+      <actor>Matt Pascua</actor>
+      <actor>Ashley Reyes</actor>
+      <actor>Brinson Violet</actor>
+      <writer>Fisher Casey</writer>
+      <writer>Blythe Ann Johnson</writer>
+      <writer>Geri Carillo</writer>
+      <writer>Paul Haggis</writer>
+      <writer>Leslie Greif</writer>
+      <writer>Christopher Canaan</writer>
+      <writer>Albert S. Ruddy</writer>
+      <writer>Katherine Alyse</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/18/2dc3b0e78063b93df740033fc30c98f664f21a7a.jpg" />
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312143000 +0100" channel="C202.api.telerama.fr" stop="20230312152000 +0100">
+    <title>Walker</title>
+    <sub-title>Histoire de famille</sub-title>
+    <desc lang="fr">Saison:2 - Episode:17 - Twyla est sollicitée par les Rangers dans une affaire alors qu'elle commence à se rapprocher de Cordell. Stella réévalue ses sentiments pour Todd et Colton alors que Geri tend la main à Denise.</desc>
+    <credits>
+      <director>America Young</director>
+      <actor>Mitch Pileggi</actor>
+      <actor>Molly Hagan</actor>
+      <actor>Coby Bell</actor>
+      <actor>Jared Padalecki</actor>
+      <actor>Allen Keegan</actor>
+      <actor>Odette Annable</actor>
+      <actor>Karissa Lee</actor>
+      <actor>Jeff Pierre</actor>
+      <actor>Kale Culley</actor>
+      <actor>Amara Zaragoza</actor>
+      <actor>Ashley Reyes</actor>
+      <actor>Brinson Violet</actor>
+      <writer>Aaron Carew</writer>
+      <writer>Geri Carillo</writer>
+      <writer>Paul Haggis</writer>
+      <writer>Leslie Greif</writer>
+      <writer>Christopher Canaan</writer>
+      <writer>Fisher Casey</writer>
+      <writer>Albert S. Ruddy</writer>
+      <writer>Katherine Alyse</writer>
+      <writer>Blythe Ann Johnson</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série d'action</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/18/2dc3b0e78063b93df740033fc30c98f664f21a7a.jpg" />
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312152000 +0100" channel="C202.api.telerama.fr" stop="20230312160500 +0100">
+    <title>Blue Bloods</title>
+    <sub-title>Le jeu de la poule mouillée</sub-title>
+    <desc lang="fr">Saison:12 - Episode:2 - Danny et Baez enquêtent sur l'agression d'un adolescent par un gang qui sévit depuis plusieurs semaines. De son côté, Jamie récupère Eddie aux urgences et s'interroge sur les circonstances de l'incident. De nouvelles tensions apparaissent entre Frank et le maire après une arrestation publique devenue virale. Par ailleurs, Anthony recrute secrètement les Reagan pour organiser une surprise pour Erin...</desc>
+    <credits>
+      <director>Robert Harmon</director>
+      <actor>Len Cariou</actor>
+      <actor>Tom Selleck</actor>
+      <actor>Robert Clohessy</actor>
+      <actor>Will Estes</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Gregory Jbara</actor>
+      <actor>Marisa Ramirez</actor>
+      <actor>Vanessa Ray</actor>
+      <actor>Abigail Hawk</actor>
+      <actor>Steve Schirripa</actor>
+      <writer>Robin Green</writer>
+      <writer>Brian Burns</writer>
+      <writer>Mitchell Burgess</writer>
+      <writer>Jack Ciapciak</writer>
+      <writer>Van B. Nguyen</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/14/30f15fa398d3d9c8ddba7cb524ae2eab8afb0724.jpg" />
+    <episode-num system="xmltv_ns">11.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312160500 +0100" channel="C202.api.telerama.fr" stop="20230312165000 +0100">
+    <title>Blue Bloods</title>
+    <sub-title>Lâcher du lest</sub-title>
+    <desc lang="fr">Saison:12 - Episode:3 - Sean obtient de suivre Eddie et Rachel en patrouille pour un projet de sociologie mais les choses tournent mal lorsque Sean désobéit aux ordres d'Eddie. Danny et Baez, de leur côté, enquêtent sur le meurtre d'un livreur de repas pendant une course. Frank se voit proposer un poste de directeur de la sécurité à la NFL par son ami Lenny Ross...</desc>
+    <credits>
+      <director>Jackeline Tejada</director>
+      <actor>Len Cariou</actor>
+      <actor>Tom Selleck</actor>
+      <actor>Treat Williams</actor>
+      <actor>Robert Clohessy</actor>
+      <actor>Will Estes</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Gregory Jbara</actor>
+      <actor>Marisa Ramirez</actor>
+      <actor>Vanessa Ray</actor>
+      <actor>Abigail Hawk</actor>
+      <actor>Andrew Terraciano</actor>
+      <writer>Robin Green</writer>
+      <writer>Mitchell Burgess</writer>
+      <writer>Kevin Riley</writer>
+      <writer>Jack Ciapciak</writer>
+      <writer>Van B. Nguyen</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/14/30f15fa398d3d9c8ddba7cb524ae2eab8afb0724.jpg" />
+    <episode-num system="xmltv_ns">11.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312165000 +0100" channel="C202.api.telerama.fr" stop="20230312173500 +0100">
+    <title>Bull *2016</title>
+    <sub-title>Rien ne va plus</sub-title>
+    <desc lang="fr">Saison:3 - Episode:22 - Une femme se présente dans un hôpital de New York avec une petite fille qui ne respire plus. La jeune patiente, Lizzie, n'est autre que sa belle-fille. Elle a été victime d'un malaise il y a trois heures, semblait remise, puis s'est soudainement mise à respirer difficilement, avant de perdre connaissance. Malgré les efforts des médecins, Lizzie décède. Interrogé par Bull et Benny, le père biologique de l'enfant confie que sa nouvelle compagne, Angela, adorait l'enfant. Son ex-femme n'est pas de cet avis. Bientôt, les résultats des analyses tombent. L'enfant a été victime d'un empoisonnement au sel. Bull tente de démontrer qu'Angela n'a pas pu commettre ce crime...</desc>
+    <credits>
+      <actor>Jenna Stern</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Yara Martinez</actor>
+      <actor>Jaime Lee</actor>
+      <actor>David Furr</actor>
+      <actor>Annie Heise</actor>
+      <actor>Chris Jackson</actor>
+      <actor>Piercey Dalton</actor>
+      <actor>Meehan MacKenzie</actor>
+      <actor>Lilli Stein</actor>
+      <writer>Glenn Gordon</writer>
+      <writer>Millard Nichole</writer>
+      <writer>Price Kathryn</writer>
+      <writer>Chamblee Smith</writer>
+      <writer>Steve Paul Martinez</writer>
+      <writer>Sarah H.</writer>
+      <writer>Marissa Matteo</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/14/afd0cc5b-3914-4791-84e4-69c1119b32a1.jpg" />
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312173500 +0100" channel="C202.api.telerama.fr" stop="20230312182500 +0100">
+    <title>Bull *2016</title>
+    <sub-title>Réveillon sanglant</sub-title>
+    <desc lang="fr">Saison:4 - Episode:1 - La vie de Bull est sur le point de changer du tout au tout. Il vit un grand moment, s'apprêtant à devenir père, et prend désormais ses distances avec son travail. Pendant ce temps, TAC souffre énormément de l'absence de leur avocat, d'autant plus que Benny vient de donner sa démission. Celui-ci ne supporte pas du tout que Bull fréquente à nouveau Isabella. Au tribunal, l'équipe est mise à rude épreuve et doit faire face à une période difficile. Elle doit en effet élaborer la défense d'un jeune barman, poursuivi pour homicide involontaire...</desc>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Yara Martinez</actor>
+      <actor>Jaime Lee</actor>
+      <actor>David Furr</actor>
+      <actor>Amir Arison</actor>
+      <actor>Chris Jackson</actor>
+      <actor>Meehan MacKenzie</actor>
+      <actor>Monique St.</actor>
+      <actor>Albert Jones</actor>
+      <writer>Glenn Gordon</writer>
+      <writer>Paul Attanasio</writer>
+      <writer>Phil McGraw</writer>
+      <writer>Sarah H.</writer>
+      <writer>Chamblee Smith</writer>
+      <writer>Marissa Matteo</writer>
+      <writer>Steve Paul Martinez</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/27bdcaf061c5a52ebaed9571bf4b571c4a60dcd4.jpg" />
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312182500 +0100" channel="C202.api.telerama.fr" stop="20230312192000 +0100">
+    <title>Sport dimanche</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312192000 +0100" channel="C202.api.telerama.fr" stop="20230312193000 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312193000 +0100" channel="C202.api.telerama.fr" stop="20230312200500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312200500 +0100" channel="C202.api.telerama.fr" stop="20230312201500 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312201500 +0100" channel="C202.api.telerama.fr" stop="20230312210500 +0100">
+    <title>Mise au point</title>
+    <desc lang="fr">"Mise au Point" propose des enquêtes, des reportages et des interviews portant sur différents thèmes d'actualité.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/29/48238c0486eb9d5be5ef2d6f865de3fd020555d7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312210500 +0100" channel="C202.api.telerama.fr" stop="20230312215000 +0100">
+    <title>New Amsterdam</title>
+    <sub-title>Un peu de magie</sub-title>
+    <desc lang="fr">Saison:4 - Episode:19 - Max découvre une faille fatale dans le plan de rachat de la clinique médicale UMI par le docteur Fuentes, ce qui pourrait être son ultime défaite. Bloom traite deux élèves du secondaire pour des blessures potentiellement mortelles. Reynolds aide un frère et une soeur à faire face à une crise familiale.</desc>
+    <credits>
+      <director>Jean E. Lee</director>
+      <actor>Allyce Beasley</actor>
+      <actor>Michelle Forbes</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Kelly AuCoin</actor>
+      <actor>Jocko Sims</actor>
+      <actor>Freema Agyeman</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Janet Montgomery</actor>
+      <actor>Jasmine Batchelor</actor>
+      <actor>Jules Jenny</actor>
+      <actor>Ryan Faucett</actor>
+      <actor>Hernandez Alejandro</actor>
+      <writer>Shaun Cassidy</writer>
+      <writer>Brandy E. Palmer</writer>
+      <writer>Carlebach Joshua</writer>
+      <writer>Eric Manheimer</writer>
+      <writer>L. Allen</writer>
+      <writer>Shanthi Sekaran</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/22ff5460e4afc3412c2fb50ab8c6b4d30a4c2834.jpg" />
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312215000 +0100" channel="C202.api.telerama.fr" stop="20230312224000 +0100">
+    <title>New Amsterdam</title>
+    <sub-title>L'espoir est essentiel</sub-title>
+    <desc lang="fr">Saison:4 - Episode:20 - Max considère qu'il n'a plus de temps à perdre s'il veut sauver l'hôpital, victime des coupes budgétaires imposées par le docteur Fuentes.</desc>
+    <credits>
+      <actor>Tyler Labine</actor>
+      <actor>Jocko Sims</actor>
+      <actor>Freema Agyeman</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Janet Montgomery</actor>
+      <actor>Benson Peter</actor>
+      <actor>Jennifer Betit</actor>
+      <actor>Tyrone L.</actor>
+      <actor>Eduardo Navas</actor>
+      <actor>Smith Alfieri</actor>
+      <writer>Eric Manheimer</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/22ff5460e4afc3412c2fb50ab8c6b4d30a4c2834.jpg" />
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312224000 +0100" channel="C202.api.telerama.fr" stop="20230312234000 +0100">
+    <title>The Pact *2021</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Tandis que l'enquête policière s'intensifie, le pacte entre les quatre femmes commence à se fissurer. Anna, Nancy et Cat découvrent, effarées, que Louie leur a caché des choses à propos de sa personnalité. Une discussion tendue entre Arwel et Louie fait ressortir de sombres secrets de famille. La relation entre Max et Anna se détériore, Anna étant obligée de mentir pour préserver son secret... - Critique : Jack Evans est le genre de patron qui donnerait des envies de meurtre à toutes ses employées… Depuis que son père, fondateur de la brasserie locale, apprécié du personnel, a pris sa retraite, ce tyran, amateur d’excès, d’alcool, de drogues dures et de voitures de sport, est aux commandes… Au grand désarroi d’Anna, Louie, Cat et Nancy. Lorsque le corps de leur patron est retrouvé sans vie dans les bois après une soirée d’entreprise arrosée, les quatre collègues regrettent une plaisanterie qui a mal tourné.
+
+Sorte de Big Little Lies (thriller haletant resserré autour de cinq mères de famille américaines), transposée à une communauté galloise plus modeste, soudée autour d’une usine, The Pact tient en haleine sans toutefois créer la surprise. Les relations entre les quatre amies sont à l’origine de plusieurs retournements de situations et cliffhangers plus ou moins convaincants qui, au mieux, intriguent ou, au pis, lassent.</desc>
+    <credits>
+      <director>Eric Styles</director>
+      <actor>Rakie Ayola</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Jason Hughes</actor>
+      <actor>Hesmondhalgh Julie</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Mark Lewis</actor>
+      <actor>Eiry Thomas</actor>
+      <actor>Gabrielle Creevy</actor>
+      <actor>Abbie Hern</actor>
+      <actor>Aled ap Steffan</actor>
+      <actor>Heledd Gwynn</actor>
+      <writer>Pete Mctighe</writer>
+      <writer>McTighe Pete</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/24/412a640adc0049f5abe913ab97bcbdbafcad5c2e.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312234000 +0100" channel="C202.api.telerama.fr" stop="20230313004000 +0100">
+    <title>The Pact *2021</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les relations entre Nancy et Richard se détériorent un peu plus lorsque Nancy découvre une terrible vérité à propos de son mari. De leur côté, Cat et Tish tentent de régler le problème généré par l'addiction de Louie. Celle-ci reprend contact avec Arwel, qui commet un acte désespéré. Alors que la police fait une avancée majeure dans l'enquête, Max met la pression sur Anna... - Critique : Jack Evans est le genre de patron qui donnerait des envies de meurtre à toutes ses employées… Depuis que son père, fondateur de la brasserie locale, apprécié du personnel, a pris sa retraite, ce tyran, amateur d’excès, d’alcool, de drogues dures et de voitures de sport, est aux commandes… Au grand désarroi d’Anna, Louie, Cat et Nancy. Lorsque le corps de leur patron est retrouvé sans vie dans les bois après une soirée d’entreprise arrosée, les quatre collègues regrettent une plaisanterie qui a mal tourné.
+
+Sorte de Big Little Lies (thriller haletant resserré autour de cinq mères de famille américaines), transposée à une communauté galloise plus modeste, soudée autour d’une usine, The Pact tient en haleine sans toutefois créer la surprise. Les relations entre les quatre amies sont à l’origine de plusieurs retournements de situations et cliffhangers plus ou moins convaincants qui, au mieux, intriguent ou, au pis, lassent.</desc>
+    <credits>
+      <director>Rebecca Johnson</director>
+      <actor>Rakie Ayola</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Jason Hughes</actor>
+      <actor>Hesmondhalgh Julie</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Mark Lewis</actor>
+      <actor>Eiry Thomas</actor>
+      <actor>Gabrielle Creevy</actor>
+      <actor>Abbie Hern</actor>
+      <actor>Aled ap Steffan</actor>
+      <actor>Heledd Gwynn</actor>
+      <writer>Pete Mctighe</writer>
+      <writer>McTighe Pete</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/24/412a640adc0049f5abe913ab97bcbdbafcad5c2e.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+</tv>

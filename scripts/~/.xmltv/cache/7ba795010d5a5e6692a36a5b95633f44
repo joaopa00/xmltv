@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 c2548a6492cfccc5632bfa4603c8d799
+MD5 08081f933158f5e7470aff735d626285
 Url https://www.tvguide.co.uk/detail/3066488/81985560/the-chase
-X-HCT-LastUpdated 1677895408
+X-HCT-LastUpdated 1678147216
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677895408
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663399447" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664265241" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663399447" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664265241" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -573,7 +573,7 @@ $('#articleCarousel').carousel({
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
         	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">5.7</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>5468 votes
+            	USER RATING<br>5470 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
@@ -632,7 +632,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="The Chase"/>
-                                <meta itemprop="votes" content="5468"/>
+                                <meta itemprop="votes" content="5470"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -642,7 +642,7 @@ $('#articleCarousel').carousel({
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
                                         5.7</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        5468 votes</span>
+                                        5470 votes</span>
                                  </span>
                             </span>
                         
@@ -822,7 +822,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663399447</div>
+<div style="color:#000000">664265241</div>
 
 
 <script>

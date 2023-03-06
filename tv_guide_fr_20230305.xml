@@ -302,16 +302,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304222500" channel="C4.api.telerama.fr" stop="20230305003000">
-    <title>Quelle époque !</title>
-    <desc lang="fr">Léa Salamé présente un talk-show drôle et festif, à la fois magazine de société et divertissement, dont l'objectif est de raconter et interroger l'époque. "Quelle époque !" est conçu comme un lieu de débats entre les personnalités qui marquent l'actualité culturelle, sociétale, politique ou médiatique, dans la vie réelle comme sur les réseaux sociaux.</desc>
-    <category lang="fr">talk-show</category>
-    <length units="minutes">125</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/10/02/51f3241e12136c6d4477a442bb6bcd0b9995fbd7_C29646210E9BB7A99AA959D723D996B2.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305234500" channel="C4.api.telerama.fr" stop="20230305235000">
     <title>Météo 2</title>
     <desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
@@ -536,30 +526,6 @@ Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du f
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304220000" channel="C119.api.telerama.fr" stop="20230305004500">
-    <title>La petite histoire de France</title>
-    <desc lang="fr">Les péripéties de trois personnages oubliés de l'Histoire : François, le cousin de Jeanne d'Arc, Philippe Honoré de Roche Saint-Pierre, le cousin de Louis XIV, et Renata Bonaparte, la cousine de Napoléon. Ces trois parcours permettent de redécouvrir trois époques de l'histoire de France...</desc>
-    <credits>
-      <actor>Philippe Béglia</actor>
-      <actor>Sébastien Castro</actor>
-      <actor>Charline Paul</actor>
-      <actor>François Levantal</actor>
-      <actor>David Salles</actor>
-      <actor>Karina Marimon</actor>
-      <actor>Ophélia Kolb</actor>
-      <actor>Alban Ivanov</actor>
-      <actor>Anne-Sophie Girard</actor>
-      <actor>Franck Migeon</actor>
-      <actor>Fatsah Bouyahmed</actor>
-      <actor>Grant Lawrens</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">165</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/12/19/f278071539f3ab109d01aa7703b994ee82f93f13.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305231000" channel="C119.api.telerama.fr" stop="20230306050000">
     <title>Programmes de la nuit</title>
     <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
@@ -646,34 +612,6 @@ Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du f
     <category lang="fr">journal</category>
     <length units="minutes">2</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/11/22/1abb818bf6fb6e8ddad715ec394e309c4d47910c.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304225000" channel="C182.api.telerama.fr" stop="20230305001500">
-    <title>Verliebt in Kroatien</title>
-    <desc lang="fr">Wer lässt denn schon die perfekte Schwiegertochter ziehen? Nicht Gisela und Werner Bauer - gespielt von Saskia Vester und Michael Lerchenberg! Die beiden unternehmen alles, damit die geplatzte Traumhochzeit ihres verwöhnten, einzigen Sohnes (Sebastian Fräsdorf) mit seiner/ihrer Jana (Victoria Schulz) doch noch zustande kommt. Das Problem ist allerdings, dass Sebastian Gefallen findet an der von Mutter Gisi verordneten Verwandlung vom heimatverbundenen Kumpeltyp zum verwegenen Segler und nicht nur in Kroatien bleiben will, sondern sich dort auch noch verliebt. Um ihn zurückzuholen, müssen sich seine Eltern einiges einfallen lassen - und geraten selbst durch den Einfluss des mediterranen Lebensgefühls gehörig aus dem Tritt.</desc>
-    <credits>
-      <director>Bruno Grass</director>
-      <actor>Saskia Vester</actor>
-      <actor>Siemen Rühaak</actor>
-      <actor>Michael Lerchenberg</actor>
-      <actor>Karolina Horster</actor>
-      <actor>Jördis Richter</actor>
-      <actor>Sebastian Fräsdorf</actor>
-      <actor>Victoria Schulz</actor>
-      <actor>Henry Buchmann</actor>
-      <actor>Anka Dobric</actor>
-      <actor>Andelko Ribarc</actor>
-      <actor>Matthias Rauch</actor>
-      <actor>Aleksandar Strecha</actor>
-      <writer>Martin Dolejs</writer>
-      <writer>Christine Heinlein</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="fr">film : comédie romantique</category>
-    <length units="minutes">85</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/495a3f91-9138-438f-b88f-d7735ad6f2f0.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -877,40 +815,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20230304222800" channel="C205.api.telerama.fr" stop="20230305000000">
-    <title>La maladroite</title>
-    <desc lang="fr">A 21 heures, sur le parking d'un centre commercial, des parents affolés s'agitent autour d'une voiture. Ils appellent en vain Stella, mais personne ne répond. Leur enfant a disparu. Fugue, enlèvement ou pire encore : l'angoisse les étreint. Quelques mois auparavant, Stella, 6 ans, a fait sa toute première rentrée scolaire. Elle a un grand frère et une petite soeur déjà scolarisés mais pour elle c'est la découverte de l'école. Curieuse, exubérante, méconnaissant toute discipline scolaire et souvent absente, elle intrigue Céline, sa maîtresse. Le père très présent a expliqué que leur fille avait une maladie qu'on ne comprenait ni ne savait guérir, qu'ils passent leur temps dans les hôpitaux pour chercher à la soigner, ce qui explique toutes ces absences et cette scolarité tardive... - Critique : Qu’est-il arrivé à Stella ? Ses parents et son frère, affolés, la cherchent partout sur le parking d’une pizzeria. Restée seule dans la voiture pendant qu’ils passaient commande, la petite fille a disparu…
-
-Malgré les apparences, La Maladroite n’est pas une enquête policière. Le scénario rembobine l’année écoulée avant la disparition de Stella. Bouille ronde songeuse aux grands yeux marron, la petite entre pour la toute première fois à l’école à 6 ans. La faute à une « maladie » qui la cloue souvent à la maison, répète son père. Comportement inadapté, « perte » du carnet de santé, absences à répétition… Son instit est de plus en plus inquiète, jusqu’au jour où elle découvre des taillades sur les mollets de Stella. « Je suis maladroite », justifie la petite…
-
-Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l’affaire Marina Sabatier, morte à 8 ans sous les coups de ses parents en 2009, malgré plusieurs signalements. La fiction n’entre jamais dans le foyer ou dans le passé des Dubois. Elle s’attache aux nombreux acteurs qui ont croisé la route de Stella, enseignants, médecins, assistante sociale, gendarmes, qui ont plus ou moins vu, cru, agi… Une longue chaîne de témoins qui ne parviendront pas à protéger l’enfant… C’est tout un système défaillant que met au jour cette fiction portée par un casting impeccable. Elsa Hyvaert, formidable, donne une contenance désarmante à Stella, qui passe son temps à protéger ses bourreaux. India Hair et Damien Jouillerot réussissent quant à eux à interpréter avec une glaçante tempérance l’ignoble manipulation exercée sur tous par le couple parental.</desc>
-    <credits>
-      <director>Éléonore Faucher</director>
-      <actor>Christine Brücher</actor>
-      <actor>Patrick Descamps</actor>
-      <actor>Émilie Dequenne</actor>
-      <actor>Pierre Diot</actor>
-      <actor>Damien Jouillerot</actor>
-      <actor>Isabelle Carré</actor>
-      <actor>Tania Dessources</actor>
-      <actor>Woch Magalie</actor>
-      <actor>Pasquale d'Inca</actor>
-      <actor>Juliette Navis</actor>
-      <actor>Russier Coralie</actor>
-      <actor>Elsa Hyvaert</actor>
-      <writer>Françoise Charpiat</writer>
-      <writer>Alexandre Seurat</writer>
-    </credits>
-    <category lang="fr">téléfilm dramatique</category>
-    <length units="minutes">92</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/9c799a6443c963f166065db690a38844994c3e95.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>4/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230305233800" channel="C205.api.telerama.fr" stop="20230306002700">
     <title>Faits divers</title>
     <sub-title>Le jour avant la vengeance de Pedro</sub-title>
@@ -1006,16 +910,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <star-rating>
       <value>4/5</value>
     </star-rating>
-  </programme>
-  <programme start="20230304225900" channel="C260.api.telerama.fr" stop="20230305002700">
-    <title>Azucar</title>
-    <desc lang="fr">Manuel Maria annonce à ses trois enfants qu'il va se marier avec Alejandrina. Raquel est contente de la nouvelle qui la rapproche de la finalisation de son plan. Les Becerra sont contre la relation d'amour d'Ana Julia et de Célia avec les fils Solaz. Sixta informe Lucio que le sort qu'elle a lancé aux Solaz est bien réel. Pedro Nel trouve une tête de squelette dans le placard de Francisco Javier.</desc>
-    <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">88</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/19/20e49eddf3f0f6d7cdcdfefe7503ea66d4d59270.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
   </programme>
   <programme start="20230304225900" channel="C260.api.telerama.fr" stop="20230305002700">
     <title>Azucar</title>
@@ -1286,16 +1180,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304190000" channel="C491.api.telerama.fr" stop="20230305060000">
-    <title>Non Stop Info</title>
-    <desc lang="fr">Ce magazine s'intéresse à l'actualité des stars en France et partout dans le monde.</desc>
-    <category lang="fr">journal</category>
-    <length units="hours">11</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/e73b7238d8c7ba5ca614c3a7ccae81fc5bb3cee8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305230000" channel="C529.api.telerama.fr" stop="20230305231500">
     <title>Le journal</title>
     <desc lang="fr">Le journal de France 24.</desc>
@@ -1370,18 +1254,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20230304224000" channel="C1399.api.telerama.fr" stop="20230305002500">
-    <title>Héritages</title>
-    <sub-title>Paix à son âme</sub-title>
-    <desc lang="fr">Héritages va vous plonger dans des histoires incroyables sur fond d'arnaques et de conflits de successions. Vous allez découvrir le combat de familles qui se déchirent en France pour leur héritage.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">105</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/07/d29216ce09d6370605237caf6f73ebdba3ab9479.jpg" />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
   <programme start="20230305235000" channel="C1399.api.telerama.fr" stop="20230306050000">
     <title>Programmes de la nuit</title>
     <category lang="fr">programme indéterminé</category>
@@ -1389,17 +1261,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <icon src="https://focus.telerama.fr/1111x625/2021/07/13/d45b2cbc9aa987a98f831e7d82a088ce8e8a0faf.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304220000" channel="C1401.api.telerama.fr" stop="20230305002000">
-    <title>MMA : UFC Classiques</title>
-    <sub-title>Les plus grandes soirées de l'UFC (épisode 19)</sub-title>
-    <category lang="fr">sport : mma</category>
-    <length units="minutes">140</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/c01b8846601d17f41bd965669e0602c51ae12e14.jpg" />
-    <rating system="CSA">
-      <value>-16</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
   <programme start="20230304220000" channel="C1401.api.telerama.fr" stop="20230305002000">

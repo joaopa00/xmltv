@@ -7,1665 +7,6 @@
   <channel id="euronews.rai.it">
     <display-name>EuroNews</display-name>
   </channel>
-  <programme start="20230301050000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301051500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301052600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301053000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301054200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301054800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301055400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301055800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301060000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301061500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301062600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301063000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301064200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301064800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301065400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301065800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301070000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301071500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301072500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301073000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301074200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301075100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301075800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301080000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301081500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301082500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301083000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301084200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301084900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301085400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301085800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301090000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301091500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301092600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301093000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230301094200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301094900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301095400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301095800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301100000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301101500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301102600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301103000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301104200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301104800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301105400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301105800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301110000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301111500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301112600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301113000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301114200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301114600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301115400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301115800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301120000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301121500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301122600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301123000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301124200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301124600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301124900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301125400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301125800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301130000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301131500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301132600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301133000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301134200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301134800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301135400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301135800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301140000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301141500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301142600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301143000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301144200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301144800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301145400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301145800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301150000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301151500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301152600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301153000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301154200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301154700" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301155300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301155800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301160000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301161500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301162600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301163000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230301164200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301164600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301165300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301165800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301170000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301171500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301172600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301173000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301174200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301174800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301175300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301175800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301180000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301181100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301181500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301183000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301184200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301185300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301185800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301190000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301191500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301192600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301193000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301194200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301194800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301195300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301195800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301200000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301201500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301202600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301203000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301204200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301204800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301205300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301205800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301210000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301211500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301212600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301213000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301214200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301215100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301215400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301215800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301220000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301221500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301222500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301223000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301224200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301224800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301225300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301225800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301230000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301231500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301232600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301233000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230301234200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301235100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301235400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230301235800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302000000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302001500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302002600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302003000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302004200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302004800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302005400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302005800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302010000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302011500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302012600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302013000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302014200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302014900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302015300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302015800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302020000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302021500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302022600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302023000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302024200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302024800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302025300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302025800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302030000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302031500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302032600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302033000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302034200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302034800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302035300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302035800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302040000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302041500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302042500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302043000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302044200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302044800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302045400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302045800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230301050000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302050000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302051500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302052600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302053000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302054200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302054800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302055400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302055800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302060000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302061500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302062600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302063000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302064200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302064800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302065400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302065800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302070000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302071500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302072500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302073000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302074200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302075100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302075800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302080000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302081500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302082500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302083000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302084200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302084900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302085400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302085800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302090000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302091500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302092600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302093000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230302094200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302094900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302095100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302095400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302095800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302100000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302101500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302102600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302103000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302104200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302104800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302105400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302105800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302110000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302111500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302112600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302113000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302114200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302114600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302114800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302115400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302115800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302120000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302121500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302122600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302123000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302124200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302125400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302125800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302130000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302131500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302132600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302133000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302134200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302134800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302135400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302135800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302140000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302141500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302142600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302143000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302144200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302144800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302145300" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302145800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302150000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302151500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302152600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302153000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302154200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302154800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302155300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302155800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302160000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302161500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302162600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302163000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230302164200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302164600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302165000" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302165300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302165800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302170000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302171500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302172600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302173000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302174200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302174800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302175300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302175800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302180000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302181100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302181500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302183000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302184200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302185300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302185800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302190000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302191500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302192600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302193000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302194200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302194600" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302195800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302200000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302201500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302202600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302203000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302204200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302204800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302205300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302205800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302210000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302211500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302212600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302213000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302214200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302215400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302215800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302220000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302221500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302222500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302223000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302224200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302224800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302225300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302225800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302230000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302231500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302232600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302233000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230302234200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302235400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230302235800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303000000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303001500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303002600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303003000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303004200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303004800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303005400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303005800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303010000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303011500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303012600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303013000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303014200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303014900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303015300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303015800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303020000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303021500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303022600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303023000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303024200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303024800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303025300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303025800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303030000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303031500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303032600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303033000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303034200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303034800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303035300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303035800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303040000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303041500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303042500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303043000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303044200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303044800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303045400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303045800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230302050000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303050000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303051500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303052600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303053000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303054200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303054800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303055400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303055800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303060000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303061500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303062600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303063000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303064200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303064800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303065400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303065800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303070000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303071500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303072500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303073000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303074200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303075100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303075800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303080000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303081500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303082500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303083000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303084200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303084900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303085400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303085800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303090000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303091500" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303092600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303093000" channel="euronews.rai.it">
-    <title lang="it">Buongiorno Europa</title>
-  </programme>
-  <programme start="20230303094200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303094900" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303095400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303095800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303100000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303101500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303102600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303103000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303104200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303104800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303105400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303105800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303110000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303111500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303112600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303113000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303114200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303114600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303115400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303115800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303120000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303121500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303122600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303123000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303124200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303125400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303125800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303130000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303131500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303132600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303133000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303134200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303134800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303135400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303135800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303140000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303141500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303142600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303143000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303144200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303144800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303145300" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303145800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303150000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303151500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303152600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303153000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303154200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303154800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303155300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303155800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303160000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303161500" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303162600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303163000" channel="euronews.rai.it">
-    <title lang="it">Euronews Ora</title>
-  </programme>
-  <programme start="20230303164200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303164600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303165300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303165800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303170000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303171500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303172600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303173000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303174200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303174800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303175300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303175800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303180000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303181100" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303181500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303183000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303184200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303184500" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303185300" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303185800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303190000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303191500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303192600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303193000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303194200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303194800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303195300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303195800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303200000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303201500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303202600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303203000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303204200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303204800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303205300" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303205800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303210000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303211500" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303212600" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303213000" channel="euronews.rai.it">
-    <title lang="it">Euronews Sera</title>
-  </programme>
-  <programme start="20230303214200" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303214900" channel="euronews.rai.it">
-    <title lang="it">State Of The Union</title>
-  </programme>
-  <programme start="20230303215400" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303215800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303220000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303221500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303223000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303225800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303230000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303231500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303233000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230303234600" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230303235800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304000000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304001500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304003000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304004900" channel="euronews.rai.it">
-    <title lang="it">State Of The Union</title>
-  </programme>
-  <programme start="20230304005800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304010000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304011500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304013000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304014600" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230304015800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304020000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304021500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304023000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304025800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304030000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304031500" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304033000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304034600" channel="euronews.rai.it">
-    <title lang="it">WITNESS</title>
-  </programme>
-  <programme start="20230304035800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304040000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304040500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304042800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304043000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
-  <programme start="20230304043500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304044500" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230304045000" channel="euronews.rai.it">
-    <title lang="it">State Of The Union</title>
-  </programme>
-  <programme start="20230304045800" channel="euronews.rai.it">
-    <title lang="it">News</title>
-  </programme>
-  <programme start="20230303050000" channel="euronews.rai.it">
-    <title lang="it">Global Week-End</title>
-  </programme>
   <programme start="20230304050000" channel="euronews.rai.it">
     <title lang="it">Global Week-End</title>
   </programme>
@@ -4565,6 +2906,1458 @@
     <title lang="it">News</title>
   </programme>
   <programme start="20230309050000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310050000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310051500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310053000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310054200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310055400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310055800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310060000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310061500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310063000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310064200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310065300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310065800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310070000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310071500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310073000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310074200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310075300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310075800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310080000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310081500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310083000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310084200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310085400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310085800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310090000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310091500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310093000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230310094200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310095300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310095800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310100000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310101500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310103000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310104200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310105300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310105800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310111500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310113000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310114200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310115400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310115800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310121500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310123000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310124200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310125300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310125800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310131500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310133000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310134200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310135400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310135800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310141500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310143000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310144200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310145300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310145800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310151500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310153000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310154200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310155400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310155800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310161500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310163000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230310164200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310165400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310165800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310171500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310173000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310174200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310175300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310175800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310181500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310183000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310184200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310184500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310185800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310191500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310193000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310194200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310195400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310195800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310201500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310203000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310204200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310205400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310205800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310211500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310213000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230310214200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310214600" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230310215400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310215800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310220000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310221500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310223000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310224200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310225800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310230000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310231500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310233000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230310234200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310234600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230310235800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311000000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311001500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311003000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311004200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311004900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311005800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311010000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311011500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311013000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311014200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311014600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311015800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311020000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311021500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311023000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311024200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311025800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311030000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311031500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311033000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311034200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311034600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311035800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311040000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311040500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311042800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311043000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311043500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311044500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311045000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311045800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230310050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311050500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311051600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311052800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311053000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311053700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311054800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311055800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311060000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311060500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311062800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311063000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311063500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311064400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311065000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311065800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311070000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311070500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311071600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311072800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311073000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311073700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311074700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311075800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311080000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311080500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311082800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311083000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311083500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311084400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311085000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311085800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311090000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311090500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311091600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311092800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311093000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311093600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311094700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311095800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311100000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311100500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311102800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311103000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311103500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311104400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311104900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311105800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311110000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311110500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311111600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311112800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311113000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311113600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311114800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311115800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311120000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311120500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311122800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311123000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311123500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311124400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311125000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311125800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311130000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311130500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311131600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311132800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311133000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311133700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311134800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311135800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311140000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311140500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311142800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311143000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311143500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311144400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311144900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311145800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311150000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311150500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311151600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311152800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311153000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311153700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311154800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311155800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311160000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311160500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311162800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311163000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311163500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311164400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311164900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311165800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311170000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311170500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311171600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311172800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311173000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311173700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311174700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311175800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311180000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311180500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311182800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311183000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311183500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311184400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311184900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311185800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311190000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311190500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311191600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311192800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311193000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311193700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311194700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311195800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311200000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311200500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311202800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311203000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311203500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311204400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311204900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311205800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311210000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311210500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311211600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311212800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311213000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311213700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311214700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311215800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311220000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311220500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311221600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311222800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311223000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311223700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311224700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311225800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311230000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311230500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311232800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311233000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311233500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311234400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311234900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311235800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312000000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312000500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312001600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312002800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312003000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312003700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312004700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312005800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312010000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312010500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312012800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312013000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312013500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312014400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312014900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312015800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312020000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312020500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312021600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312022800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312023000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312023700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312024700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312025800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312030000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312030500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312032800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312033000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312033500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312034400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312034900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312035800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312040000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312040500" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312041600" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312042800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312043000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312043700" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312044800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312045800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230313050000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313051500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313053000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313054200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313055400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313055800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313060000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313061500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313063000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313064200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313065300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313065800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313070000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313071500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313073000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313074200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313075300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313075800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313080000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313081500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313083000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313084200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313085400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313085800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313090000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313091500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313093000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230313094200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313095300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313095800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313100000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313101500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313103000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313104200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313105300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313105800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313111500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313113000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313114200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313115400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313115800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313121500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313123000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313124200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313125300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313125800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313131500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313133000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313134200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313135400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313135800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313141500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313143000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313144200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313145300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313145800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313151500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313153000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313154200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313155400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313155800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313161500" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313163000" channel="euronews.rai.it">
+    <title lang="it">Euronews Ora</title>
+  </programme>
+  <programme start="20230313164200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313165400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313165800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313171500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313173000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313174200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313175300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313175800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313181500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313183000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313184200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313185300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313185800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313191500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313193000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313194200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313195400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313195800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313201500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313203000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313204200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313205400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313205800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313211500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313213000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313214200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313215400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313215800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313220000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313221500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313223000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313224200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313225400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313225800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313230000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313231500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313233000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230313234200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313235400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230313235800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314000000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314001500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314003000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314004200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314005400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230314005800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314010000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314011500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314013000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314014200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314015400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230314015800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314020000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314021500" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314023000" channel="euronews.rai.it">
+    <title lang="it">Euronews Sera</title>
+  </programme>
+  <programme start="20230314024200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314025400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230314025800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314030000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314031500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314033000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314034200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314035300" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230314035800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314040000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314041500" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314043000" channel="euronews.rai.it">
+    <title lang="it">Buongiorno Europa</title>
+  </programme>
+  <programme start="20230314044200" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230314045400" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230314045800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230313050000" channel="euronews.rai.it">
     <title lang="it">Buongiorno Europa</title>
   </programme>
 </tv>

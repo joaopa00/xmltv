@@ -1,9 +1,9 @@
 Code 200
-Content-Length 95493
+Content-Length 95596
 Content-Type text/html;charset=UTF-8
-MD5 62cb91f5844c4af8d90e61e0084fdc13
+MD5 1d7a508fe9eefb6a25c168bac7b8776f
 Url https://www.tvguide.co.uk/channellistings.asp?ch=121&cTime=03%2F07%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677881600
+X-HCT-LastUpdated 1678133922
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677881600
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            3 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -291,7 +291,7 @@ X-HCT-LastUpdated 1677881600
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">6:10am </span><br>
 		 <a href="https://www.tvguide.co.uk/detail/5013833/81924922/countdown"  title="Click to rate and review"><span class="programmeheading" >Countdown</span><br>
-<span class="tvchannel">03/03/2023</span>
+<b><span class="season">Season 2023 </span></b><br><span class="tvchannel">03/03/2023</span>
 		<span class="programmetext">Colin Murray and Rachel Riley host the long-running words-and-numbers game with Jamelia joining Susie Dent in Dictionary Corner</span></a><br>
 <span class="tvchannel">Category </span><span class="programmetext">Show/Game Show</span></a><br>
 
@@ -810,7 +810,7 @@ X-HCT-LastUpdated 1677881600
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7.1</span>
+		</span><span class="programmeheading">7.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -879,7 +879,7 @@ X-HCT-LastUpdated 1677881600
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">2:10pm </span><br>
 		 <a href="https://www.tvguide.co.uk/detail/5022655/81924920/countdown"  title="Click to rate and review"><span class="programmeheading" >Countdown</span><br>
-<span class="tvchannel">07/03/2023</span>
+<b><span class="season">Season 2023 </span></b><br><span class="tvchannel">07/03/2023</span>
 		<span class="programmetext">Colin Murray and Rachel Riley host the long-running words-and-numbers game with Ore Oduba joining Susie Dent in Dictionary Corner</span></a><br>
 <span class="tvchannel">Category </span><span class="programmetext">Show/Game Show</span></a><br>
 
@@ -1314,7 +1314,7 @@ X-HCT-LastUpdated 1677881600
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">10</span>
+		</span><span class="programmeheading">7</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1404,7 +1404,7 @@ X-HCT-LastUpdated 1677881600
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7</span>
+		</span><span class="programmeheading">6.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

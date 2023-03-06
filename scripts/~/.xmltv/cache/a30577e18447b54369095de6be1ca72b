@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 c0b6755d278cf86f6e22de68b7f4c375
+MD5 ec3c06bf30cb7d02ec2cb3dfdbb370c6
 Url https://www.tvguide.co.uk/detail/3384467/81979628/scrap-kings
-X-HCT-LastUpdated 1677897249
+X-HCT-LastUpdated 1678148959
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677897249
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663580494" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664276478" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663580494" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664276478" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -777,7 +777,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663580494</div>
+<div style="color:#000000">664276478</div>
 
 
 <script>

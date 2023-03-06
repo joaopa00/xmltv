@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20230312232000" channel="C50.api.telerama.fr" stop="20230313001500">
+    <title>Pékin express : itinéraire bis</title>
+    <sub-title>Episode 4</sub-title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/03/5fa1858faf1ef16c3ddec3a26a2f44cdde123399.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313001500" channel="C50.api.telerama.fr" stop="20230313011500">
+    <title>La boutique</title>
+    <desc lang="fr">Secrets de beauté, magie des bijoux, créations de mode, cuisine conviviale et gourmande, entretien et décoration de la maison, etc. La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/33bb50241ad5c74e2a4aa749cc8ac241e7a2c69b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313011500" channel="C50.api.telerama.fr" stop="20230313040000">
+    <title>Télé-achat</title>
+    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture et votre bien-être. De quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">165</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/11/051207380eae4f56b17aee24f406437c9450275c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312224700" channel="C164.api.telerama.fr" stop="20230313001800">
+    <title>On n'est pas des pigeons</title>
+    <sub-title>Pigeons d'Or : arnaques et fausses promesses</sub-title>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">91</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/04/1c8cd18258f0bcc3ef4524c4624f4c5d088ca178.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313001800" channel="C164.api.telerama.fr" stop="20230313002600">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">8</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/44bb08206c456488cfa6d7518afec4445bdb110f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313002600" channel="C164.api.telerama.fr" stop="20230313010600">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/29/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313010600" channel="C164.api.telerama.fr" stop="20230313011700">
+    <title>Contacts</title>
+    <desc lang="fr">Une émission consacrée aux bons conseils pour affronter les difficultés de la route et approfondir les concepts plus techniques de la sécurité routière.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/a949262293cf6a715b921fcfaa9856573b0be764.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313011700" channel="C164.api.telerama.fr" stop="20230313014500">
+    <title>Une brique dans le ventre</title>
+    <desc lang="fr">Cédric Wautier et Virginie Jacobs visitent de nouvelles habitations insolites en Belgique comme à l'étranger. Comme toujours, ces découvertes de maisons, appartements et lofts de tous budgets, sont l'occasion de prodiguer des conseils juridiques, pratiques, techniques, énergétiques et esthétiques.</desc>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/25/ca4bc247d305b2f934d6d1c7343d860e894e580a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313014500" channel="C164.api.telerama.fr" stop="20230313021500">
+    <title>Studio Foot</title>
+    <sub-title>Pro League : 29e journée</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/ad3578aa13871a11cd135d30fe83c1852e270a4e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313021500" channel="C164.api.telerama.fr" stop="20230313021700">
+    <title>Air de familles</title>
+    <desc lang="fr">Pour mieux faire connaître aux familles les nombreux services gratuits que l'ONE met à leur disposition mais aussi les informer à propos de la santé et de l'éducation des enfants de 0 à 12 ans.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/30/0522ba79f4bde957496a945a69106e317d49e0c9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313021700" channel="C164.api.telerama.fr" stop="20230313022000">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/44bb08206c456488cfa6d7518afec4445bdb110f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313022000" channel="C164.api.telerama.fr" stop="20230313025600">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">36</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/29/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313025600" channel="C164.api.telerama.fr" stop="20230313045900">
+    <title>Contacts</title>
+    <desc lang="fr">Une émission consacrée aux bons conseils pour affronter les difficultés de la route et approfondir les concepts plus techniques de la sécurité routière.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">123</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/a949262293cf6a715b921fcfaa9856573b0be764.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312234500" channel="C168.api.telerama.fr" stop="20230313002500">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/04/0128cc000d1d114edb6c5e2596ab9ca693125fe2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313002500" channel="C168.api.telerama.fr" stop="20230313022500">
+    <title>Nuit blanche</title>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/25/6b4c3be79d43c7c7cb781bb46bd30bdbd7984310.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313022500" channel="C168.api.telerama.fr" stop="20230313090000">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">395</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/06/20/e47f2623f485c658c1d4715d5f555c2eea07649c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312234000" channel="C187.api.telerama.fr" stop="20230313050000">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">320</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/5136d02ad1932525abb717fbcc1988b3c43b3f30.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312225000" channel="C377.api.telerama.fr" stop="20230313003000">
+    <title>Muse: Simulation Theory</title>
+    <desc lang="fr">Ce concert, filmé à l'O2 Arena de Londres en septembre 2019, s'accompagne du récit d'une équipe de scientifiques étudiant la source d'une anomalie paranormale qui surgit dans le monde entier. A la frontière entre la narration et du concert, entre virtuel et réalité, la tournée la plus théâtrale de Muse propose une immersion dans un spectacle surnaturel, remettant en question le monde qui nous entoure.</desc>
+    <category lang="fr">musique : variétés</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/7399f17869e31147a68cad650fda6eba96d17034.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313003000" channel="C377.api.telerama.fr" stop="20230313023000">
+    <title>La boutique</title>
+    <desc lang="fr">Secrets de beauté, magie des bijoux, créations de mode, cuisine conviviale et gourmande, entretien et décoration de la maison, etc. La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/33bb50241ad5c74e2a4aa749cc8ac241e7a2c69b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313023000" channel="C377.api.telerama.fr" stop="20230313040000">
+    <title>Télé-achat</title>
+    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture et votre bien-être. De quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/11/051207380eae4f56b17aee24f406437c9450275c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230312233100" channel="C892.api.telerama.fr" stop="20230313000600">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/17/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313000600" channel="C892.api.telerama.fr" stop="20230313000800">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/1c19ff1914fc266bb450fee2c20e695830797901.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313000800" channel="C892.api.telerama.fr" stop="20230313045900">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">291</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/5136d02ad1932525abb717fbcc1988b3c43b3f30.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

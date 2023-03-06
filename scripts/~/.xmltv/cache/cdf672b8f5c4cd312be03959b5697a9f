@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 b12848a6dd0e02ad450b918258c21a2e
+MD5 9fe9c9797f54f73dfa0668be5888603f
 Url https://www.tvguide.co.uk/detail/5021634/81997245/paranormal-caught-on-camera
-X-HCT-LastUpdated 1677915170
+X-HCT-LastUpdated 1678166941
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677915170
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663700003" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664364428" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663700003" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664364428" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -573,7 +573,7 @@ $('#articleCarousel').carousel({
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
         	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">0.8</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>1031 votes
+            	USER RATING<br>1036 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
@@ -608,7 +608,7 @@ $('#articleCarousel').carousel({
                     </script>  
             </div>
             <div style="width:auto; margin:0 10px; height:50px; color:#FFF; font-size:28px; text-align:center; line-height:50px; float:left;">
-            1
+            4
             </div>
             <div style="height:32px; padding:0; margin:9px 0; float:left; width:145px;line-height:16px;">
             	SHOW REVIEWS<br>
@@ -632,7 +632,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Paranormal: Caught on Camera"/>
-                                <meta itemprop="votes" content="1031"/>
+                                <meta itemprop="votes" content="1036"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -642,7 +642,7 @@ $('#articleCarousel').carousel({
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
                                         0.8</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        1031 votes</span>
+                                        1036 votes</span>
                                  </span>
                             </span>
                         
@@ -689,6 +689,33 @@ $('#articleCarousel').carousel({
     <!-- Comments -->
     
             <h2>TVGuide.co.uk User Reviews</h2>
+    		
+            <p>
+                <span class="tvchannel">Eye opener</span><br>
+                <span class="commenttext">Pretty good evidence. But still would you believe if you wasn't there?</span></a><br>
+                <span class="tvchannel">Sim</span> &nbsp;
+                <span class="datetime">10:01pm Sun 5 Mar
+                    <a class="report-abuse" onClick="commentmail('463969')">Report Abuse</a>
+                </span>
+            </p>
+    		
+            <p>
+                <span class="tvchannel">Incredible evidence </span><br>
+                <span class="commenttext">Paranormal evidence that can't be denied. </span></a><br>
+                <span class="tvchannel">Moi</span> &nbsp;
+                <span class="datetime">7:28pm Sun 5 Mar
+                    <a class="report-abuse" onClick="commentmail('463961')">Report Abuse</a>
+                </span>
+            </p>
+    		
+            <p>
+                <span class="tvchannel">Freaky</span><br>
+                <span class="commenttext">This is scary stuff that can't have been faked, it will freak you out unless you're too stupid</span></a><br>
+                <span class="tvchannel">Flagged for manual approval </span> &nbsp;
+                <span class="datetime">11:04pm Sat 4 Mar
+                    <a class="report-abuse" onClick="commentmail('463952')">Report Abuse</a>
+                </span>
+            </p>
     		
             <p>
                 <span class="tvchannel">Great evidence </span><br>
@@ -741,7 +768,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663700003</div>
+<div style="color:#000000">664364428</div>
 
 
 <script>

@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 8c6cb792a3b417eaf4257a350a611709
+MD5 fdba5012e4cb7e5c43ef9c0d329c385e
 Url https://www.tvguide.co.uk/detail/5027643/81975172/tipping-point
-X-HCT-LastUpdated 1677902389
+X-HCT-LastUpdated 1678154178
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677902389
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -470,7 +470,7 @@ $('#articleCarousel').carousel({
             Category: General<br>
             
             <!-- Season & Episode -->
-            Season 12
+            Episode 92 | Season 12
         
         </div>
         
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663412373" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664321085" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663412373" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664321085" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -531,6 +531,20 @@ $('#articleCarousel').carousel({
         	<td height="22" style="text-align:left;"> 
             	<a href="https://www.youtube.com/results?search_query=Tipping+Point" target="_blank" title="Search YouTube"  rel="nofollow" style="margin:0" >
                 Search YouTube</a>
+            </td>
+		</tr>
+	</table>
+    
+  
+
+	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
+        <tr>
+			<td height="22" width="35">
+            	<a href="https://www.imdb.com/search/title?title=Tipping+Point&title_type=tv_series" target="_blank" title="Visit IMDB Page" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/imdb_25x22.png" height="22" width="25"></a>
+            </td>
+        	<td height="22" style="text-align:left;"> 
+            	<a href="https://www.imdb.com/search/title?title=Tipping+Point&title_type=tv_series" target="_blank" title="Visit IMDB Page"  rel="nofollow" style="margin:0" >
+                Visit IMDB Page</a>
             </td>
 		</tr>
 	</table>
@@ -559,7 +573,7 @@ $('#articleCarousel').carousel({
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
         	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">3.7</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>67822 votes
+            	USER RATING<br>67823 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
@@ -618,7 +632,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Tipping Point"/>
-                                <meta itemprop="votes" content="67822"/>
+                                <meta itemprop="votes" content="67823"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -628,7 +642,7 @@ $('#articleCarousel').carousel({
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
                                         3.7</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        67822 votes</span>
+                                        67823 votes</span>
                                  </span>
                             </span>
                         
@@ -652,6 +666,10 @@ $('#articleCarousel').carousel({
                 
             </span>
             <span itemprop="episode" itemscope itemtype="https://schema.org/TVEpisode">
+                 
+                    <meta itemprop="episodeNumber" content="92"/>
+                
+                    <meta itemprop="name" content="Episode 92"/>
                 
             </span>
             
@@ -710,7 +728,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663412373</div>
+<div style="color:#000000">664321085</div>
 
 
 <script>

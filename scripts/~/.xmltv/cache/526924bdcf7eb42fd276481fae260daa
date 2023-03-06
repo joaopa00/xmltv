@@ -1,9 +1,9 @@
 Code 200
-Content-Length 89854
+Content-Length 89903
 Content-Type text/html;charset=UTF-8
-MD5 2731dad74687fb13700edbdd18fd69c0
+MD5 dea97e5b9bd8fb8bac816b7f8ef84028
 Url https://www.tvguide.co.uk/channellistings.asp?ch=476&cTime=03%2F09%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677895835
+X-HCT-LastUpdated 1678147523
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677895835
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -291,7 +291,7 @@ X-HCT-LastUpdated 1677895835
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">6:10am </span><br>
 		 <a href="https://www.tvguide.co.uk/detail/5022655/81959121/countdown"  title="Click to rate and review"><span class="programmeheading" >Countdown</span><br>
-<span class="tvchannel">07/03/2023</span>
+<b><span class="season">Season 2023 </span></b><br><span class="tvchannel">07/03/2023</span>
 		<span class="programmetext">Colin Murray and Rachel Riley host the long-running words-and-numbers game with Ore Oduba joining Susie Dent in Dictionary Corner</span></a><br>
 <span class="tvchannel">Category </span><span class="programmetext">Show/Game Show</span></a><br>
 
@@ -768,7 +768,7 @@ X-HCT-LastUpdated 1677895835
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7.1</span>
+		</span><span class="programmeheading">7.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1271,8 +1271,8 @@ X-HCT-LastUpdated 1677895835
 		<td width="97" height="133" align="center">
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
-		<td align="center"><span class="programmetext">Not Yet Rated<br>
-		</span><span class="programmeheading"></span>
+		<td align="center"><span class="programmetext">Rating<br>
+		</span><span class="programmeheading">9.5</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1314,7 +1314,7 @@ X-HCT-LastUpdated 1677895835
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7</span>
+		</span><span class="programmeheading">6.8</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1356,7 +1356,7 @@ X-HCT-LastUpdated 1677895835
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.9</span>
+		</span><span class="programmeheading">3.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

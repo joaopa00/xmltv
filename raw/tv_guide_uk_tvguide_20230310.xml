@@ -373,7 +373,7 @@
     <url>https://www.tvguide.co.uk/detail/1309673/82028478/teleshopping</url>
     <subtitles type="teletext" />
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg</image>
   </programme>
@@ -385,36 +385,9 @@
     <url>https://www.tvguide.co.uk/detail/1309673/81985584/teleshopping</url>
     <subtitles type="teletext" />
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg</image>
-  </programme>
-  <programme start="20230310040000 +0000" stop="20230310070000 +0000" channel="67.tvguide.co.uk">
-    <title lang="en">House of Commons</title>
-    <sub-title lang="en">09/03/2023</sub-title>
-    <desc lang="en">Highlights of proceedings in the House of Commons from Thursday 9 March..</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <category lang="en">Factual</category>
-    <url>https://www.tvguide.co.uk/detail/5025108/81971534/house-of-commons</url>
-    <star-rating>
-      <value>1.7/10</value>
-    </star-rating>
-    <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/22c03b40-7829-5f49-86eb-b43810ea4b5b.jpg</image>
-  </programme>
-  <programme start="20230310055500 +0000" stop="20230310063700 +0000" channel="636.tvguide.co.uk">
-    <title lang="en">P!nk Live in the Piano Room</title>
-    <desc lang="en">The singer performs alongside members of the BBC Concert Orchestra at the BBC's Maida Vale Studio.</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Ballet</category>
-    <category lang="en">Dance</category>
-    <url>https://www.tvguide.co.uk/detail/5013026/82069727/pnk-live-in-the-piano-room</url>
-    <previously-shown />
-    <subtitles type="teletext" />
-    <star-rating>
-      <value>3.7/10</value>
-    </star-rating>
-    <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/4f5735a8-1a6a-5f14-bb95-0b4d818e3fc9.jpg</image>
   </programme>
   <programme start="20230310030000 +0000" stop="20230310061500 +0000" channel="89.tvguide.co.uk">
     <title lang="en">This Is BBC Two</title>
@@ -552,7 +525,7 @@
     <category lang="en">Hobbies</category>
     <url>https://www.tvguide.co.uk/detail/1207914/81972389/teleshopping</url>
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/197aa224-7f99-553a-b5a2-45d50730179e.jpg</image>
   </programme>
@@ -563,7 +536,7 @@
     <category lang="en">Hobbies</category>
     <url>https://www.tvguide.co.uk/detail/1207914/82029156/teleshopping</url>
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/197aa224-7f99-553a-b5a2-45d50730179e.jpg</image>
   </programme>
@@ -599,7 +572,7 @@
     <category lang="en">Hobbies</category>
     <url>https://www.tvguide.co.uk/detail/294381/81980259/teleshopping</url>
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/150d97de-9d58-5950-9be0-afd4d3c7e5c2.jpg</image>
   </programme>
@@ -610,7 +583,7 @@
     <category lang="en">Hobbies</category>
     <url>https://www.tvguide.co.uk/detail/1633055/81980557/teleshopping</url>
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/d99bd3aa-28ab-5626-8cd9-50f6fa3d18b4.jpg</image>
   </programme>
@@ -621,7 +594,7 @@
     <category lang="en">Hobbies</category>
     <url>https://www.tvguide.co.uk/detail/1207914/81977385/teleshopping</url>
     <star-rating>
-      <value>3/10</value>
+      <value>3.1/10</value>
     </star-rating>
     <image type="backdrop" system="tvguide">https://images.tvguide.co.uk/pa/640/197aa224-7f99-553a-b5a2-45d50730179e.jpg</image>
   </programme>

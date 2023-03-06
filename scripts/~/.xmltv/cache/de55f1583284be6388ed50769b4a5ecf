@@ -1,15 +1,15 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 60e00e6f9db8f323e8901f19672c9b72
+MD5 91554fc98b05b2e7a86557e803894b0b
 Url https://www.tvguide.co.uk/detail/5031976/81989077/weather
-X-HCT-LastUpdated 1677906200
+X-HCT-LastUpdated 1678157935
 
 
 <!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 <title>TV Guide - TVguide.co.uk</title>
-<meta property="og:title" content="Weather (11/03/2023 - 2) on BBC One South, Sat 11 Mar 5:33pm - TV Guide UK TVGuide.co.uk"/>
+<meta property="og:title" content="Weather (11/03/2023 - 2) on BBC One South, Sat 11 Mar 5:38pm - TV Guide UK TVGuide.co.uk"/>
 <meta property="og:image" content="https://images.tvguide.co.uk/pa/640/32ff0c68-19c1-5054-a352-c6f7f72b0bbc.jpg"/>
 <meta property="og:description" content="TV Guide, The UK's No 1 TV guide showing your TV listings in an easy to read grid format. Visit us to check Sports, News, Freeview, Freesat, Sky TV, Virgin TV, History, Discovery, TLC, BBC, and more."/>
 <meta property="og:url" content="https://www.tvguide.co.uk/detail/5031976/81989077/weather"/>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677906200
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -480,7 +480,7 @@ $('#articleCarousel').carousel({
             
 			<div style="clear:both; margin-bottom:10px;">
  <div style="margin-bottom:7px;"><span class="channelno">Sky:964</span><span class="channelno" style="margin-right:0">Freesat:961</span></div>Sat 11 Mar<br>
-				5:33pm-5:35pm 
+				5:38pm-5:40pm 
                 <span style="color:#999">
 					 (2 minutes)<br>
                     
@@ -498,10 +498,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Weather&dates=20230311T173300Z/20230311T173500Z&details=Preview+of+the+UK%27s+weather%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+South&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Weather&dates=20230311T173800Z/20230311T174000Z&details=Preview+of+the+UK%27s+weather%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+South&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Weather&dates=20230311T173300Z/20230311T173500Z&details=Preview+of+the+UK%27s+weather%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+South&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Weather&dates=20230311T173800Z/20230311T174000Z&details=Preview+of+the+UK%27s+weather%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+South&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
                 Add to Google Calendar</a>
             </td>
 		</tr>
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663474503" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664176064" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663474503" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664176064" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -559,7 +559,7 @@ $('#articleCarousel').carousel({
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
         	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">8.4</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>494 votes
+            	USER RATING<br>495 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
@@ -618,7 +618,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Weather"/>
-                                <meta itemprop="votes" content="494"/>
+                                <meta itemprop="votes" content="495"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -628,7 +628,7 @@ $('#articleCarousel').carousel({
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
                                         8.4</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        494 votes</span>
+                                        495 votes</span>
                                  </span>
                             </span>
                         
@@ -701,7 +701,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663474503</div>
+<div style="color:#000000">664176064</div>
 
 
 <script>

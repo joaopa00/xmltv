@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 43df6527aa5078fc61b93edfe6245f7f
+MD5 1e604d75bd88d915bece447b045e76a9
 Url https://www.tvguide.co.uk/detail/138659/82029145/lovejoy
-X-HCT-LastUpdated 1677897851
+X-HCT-LastUpdated 1678149542
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677897851
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663348863" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664244053" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663348863" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664244053" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -608,7 +608,7 @@ $('#articleCarousel').carousel({
                     </script>  
             </div>
             <div style="width:auto; margin:0 10px; height:50px; color:#FFF; font-size:28px; text-align:center; line-height:50px; float:left;">
-            8
+            7
             </div>
             <div style="height:32px; padding:0; margin:9px 0; float:left; width:145px;line-height:16px;">
             	SHOW REVIEWS<br>
@@ -737,15 +737,6 @@ I'm fed up with Drama completely butchering the episodes so they can fit ever mo
             </p>
     		
             <p>
-                <span class="tvchannel">Dost mine ears deceive me?</span><br>
-                <span class="commenttext">Unpalatable? The 'joy? who are you, Eric Catchpole, you blathering cretin?</span></a><br>
-                <span class="tvchannel">The Anti - Andy</span> &nbsp;
-                <span class="datetime">7:04pm Fri 15 Feb
-                    <a class="report-abuse" onClick="commentmail('25633')">Report Abuse</a>
-                </span>
-            </p>
-    		
-            <p>
                 <span class="tvchannel">Striving</span><br>
                 <span class="commenttext">It seems after the new year ITV are striving to make their fare totally unpalatable.</span></a><br>
                 <span class="tvchannel">Aficionado</span> &nbsp;
@@ -805,7 +796,7 @@ I'm fed up with Drama completely butchering the episodes so they can fit ever mo
 
 
 
-<div style="color:#000000">663348863</div>
+<div style="color:#000000">664244053</div>
 
 
 <script>

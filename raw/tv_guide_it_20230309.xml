@@ -579,6 +579,9 @@
   <programme start="20230310000000 +0100" channel="www.raiuno.rai.it">
     <title lang="it">Porta a Porta</title>
   </programme>
+  <programme start="20230309060000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">RaiNews24</title>
+  </programme>
   <programme start="20230309060000 +0100" channel="www.raidue.rai.it">
     <title lang="it">Detto Fatto</title>
   </programme>
@@ -664,6 +667,9 @@
   </programme>
   <programme start="20230309233000 +0100" channel="www.raidue.rai.it">
     <title lang="it">Anni 20 Notte</title>
+  </programme>
+  <programme start="20230309060000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Detto Fatto</title>
   </programme>
   <programme start="20230309060000 +0100" channel="www.raitre.rai.it">
     <title lang="it">RaiNews24</title>
@@ -760,6 +766,9 @@
   </programme>
   <programme start="20230310000000 +0100" channel="www.raitre.rai.it">
     <title lang="it">TG3 Linea notte</title>
+  </programme>
+  <programme start="20230309060000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">RaiNews24</title>
   </programme>
   <programme start="20230309063500 +0100" channel="rai4.raisat.it">
     <title lang="it">Cold Case</title>
@@ -875,6 +884,12 @@
   </programme>
   <programme start="20230309234200 +0100" channel="rai4.raisat.it">
     <title lang="it">La vedova Winchester</title>
+  </programme>
+  <programme start="20230309060000 +0100" channel="rai4.raisat.it">
+    <title lang="it">Cold Case</title>
+    <sub-title lang="it">Stagione 4 Episodio 1</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
   </programme>
   <programme start="20230309060500 +0100" channel="raigulp.rai.it">
     <title lang="it">IDEFIX E GLI IRRIDUCIBILI</title>
@@ -1562,6 +1577,10 @@
   </programme>
   <programme start="20230310000000 +0100" channel="raistoria.rai.it">
     <title lang="it">Rai News Notte</title>
+  </programme>
+  <programme start="20230309060000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente</title>
+    <sub-title lang="it">La guerra segreta d</sub-title>
   </programme>
   <programme start="20230309060000 +0100" channel="yoyo.raisat.it">
     <title lang="it">Il giorno in cui Henry incontrò</title>

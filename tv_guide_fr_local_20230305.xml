@@ -302,28 +302,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304232500 +0100" channel="C4.api.telerama.fr" stop="20230305013000 +0100">
-    <title>Quelle époque !</title>
-    <desc lang="fr">Léa Salamé présente un talk-show drôle et festif, à la fois magazine de société et divertissement, dont l'objectif est de raconter et interroger l'époque. "Quelle époque !" est conçu comme un lieu de débats entre les personnalités qui marquent l'actualité culturelle, sociétale, politique ou médiatique, dans la vie réelle comme sur les réseaux sociaux.</desc>
-    <category lang="fr">talk-show</category>
-    <length units="minutes">125</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/10/02/51f3241e12136c6d4477a442bb6bcd0b9995fbd7_C29646210E9BB7A99AA959D723D996B2.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304231800 +0100" channel="C34.api.telerama.fr" stop="20230305000700 +0100">
-    <title>Genre genres</title>
-    <sub-title>Western</sub-title>
-    <desc lang="fr">Au rendez-vous : des cinéastes, scénaristes, actrices et acteurs, autrices et auteurs passionnés par ce genre, des échanges éclairés, du comparatif, du superlatif, et l'expertise de Michel Hazanavicius, un cinéaste qui aime se frotter à des genres différents. Sans oublier le kit fan d'Antoine qui compile tout ce qu'il a préféré regarder, faire, lire, écouter ou même manger sur le sujet.</desc>
-    <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">49</length>
-    <icon src="https://focus.telerama.fr/1111x625/2023/02/10/0998ded0449d898c3c4cbbcde73fead35ba3a037.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304231800 +0100" channel="C34.api.telerama.fr" stop="20230305000700 +0100">
     <title>Genre genres</title>
     <sub-title>Western</sub-title>
@@ -346,17 +324,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304223000 +0100" channel="C47.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Echappées belles</title>
-    <sub-title>Laos, un voyage différent</sub-title>
-    <desc lang="fr">Chaque semaine, un animateur globe-trotteur offre 90 minutes d'évasion et de rencontres autour du globe. Cette immersion dans un pays ou une région, en France ou à l'étranger, donne à voir, à connaître et à comprendre une culture à travers ses habitants, son histoire et ses paysages.</desc>
-    <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">90</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/18/faf661be06363e3e885288cdde7e8cad07d9c61d.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304235500 +0100" channel="C64.api.telerama.fr" stop="20230305000000 +0100">
     <title>Top courses</title>
     <desc lang="fr">Lignes droites, arrivées, images fortes, interviews : le meilleur des courses de la journée.</desc>
@@ -364,27 +331,6 @@
     <length units="minutes">5</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/09/27/cbb5fdb0c6d6035e3cbbed98faf1a5cceed072bd_C20765E4A981B102D20BA4A3AFF54FC7.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304235500 +0100" channel="C64.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Top courses</title>
-    <desc lang="fr">Lignes droites, arrivées, images fortes, interviews : le meilleur des courses de la journée.</desc>
-    <category lang="fr">magazine hippique</category>
-    <length units="minutes">5</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/27/cbb5fdb0c6d6035e3cbbed98faf1a5cceed072bd_C20765E4A981B102D20BA4A3AFF54FC7.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304224000 +0100" channel="C78.api.telerama.fr" stop="20230305001000 +0100">
-    <title>Marin Alsop, Khatia Buniatishvili et l'Orchestre de Paris</title>
-    <desc lang="fr">Encore classique et presque mozartien de facture, mais renfermant dans son Largo l'une des plus sublimes inspirations mélodiques de la première période de Beethoven, le "Concerto n°1", de Beethoven, allie virtuosité et équilibre de structure. Le concert se clôt par la "Symphonie n°5", de Chostakovitch, déroulant la grande palette du maître russe : atmosphères acides, tendues à l'extrême, violentes sonneries de cuivres, citations ironiques de motifs rustiques et populaires, chorals amples et déchirants, le tout servi par une confondante imagination sonore.</desc>
-    <category lang="fr">musique : classique</category>
-    <length units="minutes">90</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/99926a2ab9586e569c61ef5e9808390b2abf5181.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -430,49 +376,6 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20230304224000 +0100" channel="C80.api.telerama.fr" stop="20230305002000 +0100">
-    <title>Meurtres à...</title>
-    <sub-title>Meurtres au Pays basque</sub-title>
-    <desc lang="fr">Saison:1 - Episode:2 - Meurtres à ... est une collection d'enquêtes policières sur des meurtres se déroulant à chaque fois dans une ville et une région française différentes. L'intrigue est presque toujours identique. Elle se base sur une enquête liée à une légende (qui existe ou bien inventée), menée par un duo (souvent un homme et une femme). Les deux enquêteurs ne sont pas forcément policiers, et parfois, l'amour s'invite au cœur de l'enquête. Les paysages français magnifiques y sont montrés et les scènes violentes évitées.</desc>
-    <credits>
-      <director>Eric Duret</director>
-      <actor>Emma Colberti</actor>
-      <actor>François Dunoyer</actor>
-      <actor>Véronique Ataly</actor>
-      <actor>Thomas Jouannet</actor>
-      <actor>Claire Borotra</actor>
-      <actor>Stéphane Caillard</actor>
-      <actor>Antoine Duléry</actor>
-      <actor>Sébastien Lalanne</actor>
-      <actor>Laurent Mouton</actor>
-      <actor>Smadi Wolfman</actor>
-      <actor>Xavier Boiron</actor>
-      <actor>Sidwell Weber</actor>
-      <writer>Marie-Anne le</writer>
-      <writer>Alexandra Julhiet</writer>
-    </credits>
-    <date>2014</date>
-    <category lang="fr">série policière</category>
-    <length units="minutes">100</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/02/73e79477f04114e61f0d324d786427f9ff178ff1.jpg" />
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme start="20230304234000 +0100" channel="C110.api.telerama.fr" stop="20230305001000 +0100">
-    <title>En marche vers dimanche</title>
-    <sub-title>2e dimanche de Carême A - intégralité des lectures</sub-title>
-    <desc lang="fr">Marie-Noëlle Thabut lit et commente l'intégralité des lectures du 2e dimanche de Carême, année A.</desc>
-    <category lang="fr">magazine religieux</category>
-    <length units="minutes">30</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/ab0ddb31daab006031751971cc2197b59e87fc72.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304234000 +0100" channel="C110.api.telerama.fr" stop="20230305001000 +0100">
     <title>En marche vers dimanche</title>
     <sub-title>2e dimanche de Carême A - intégralité des lectures</sub-title>
@@ -498,19 +401,6 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20230304233000 +0100" channel="C111.api.telerama.fr" stop="20230305003000 +0100">
-    <title>Dans le ventre de l'orgue de Notre-Dame</title>
-    <desc lang="fr">En compagnie d'Olivier Latry, organiste titulaire de Notre-Dame de Paris, un voyage au coeur de l'un des instruments les plus prestigieux au monde.</desc>
-    <category lang="fr">documentaire musique classique</category>
-    <length units="hours">1</length>
-    <icon src="https://focus.telerama.fr/1111x625/2023/02/25/7218895f7e8f476f5c318088f1bf67bb9e5f51c2.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>4/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230304220000 +0100" channel="C112.api.telerama.fr" stop="20230305000000 +0100">
     <title>22H Darius Rochebin</title>
     <desc lang="fr">Darius Rochebin se transforme en figure emblématique des week-ends. Aux compétences reconnues d'un interviewer remarquable s'ajouteront sa connaissance de l'histoire et son approche particulière de la politique. Les trois soirées seront caractérisées par une importante interview d'une des grandes personnalités, avec une attention spéciale pour la politique.</desc>
@@ -519,55 +409,6 @@
     <icon src="https://focus.telerama.fr/1111x625/2021/11/27/90d3f92ac6634a5b7fc5677b238cc47f58736751.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304220000 +0100" channel="C112.api.telerama.fr" stop="20230305000000 +0100">
-    <title>22H Darius Rochebin</title>
-    <desc lang="fr">Darius Rochebin se transforme en figure emblématique des week-ends. Aux compétences reconnues d'un interviewer remarquable s'ajouteront sa connaissance de l'histoire et son approche particulière de la politique. Les trois soirées seront caractérisées par une importante interview d'une des grandes personnalités, avec une attention spéciale pour la politique.</desc>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="hours">2</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/11/27/90d3f92ac6634a5b7fc5677b238cc47f58736751.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304233500 +0100" channel="C118.api.telerama.fr" stop="20230305003000 +0100">
-    <title>Hawaii 5-0</title>
-    <sub-title>Aia i Hi'ikua; i hi'ialo</sub-title>
-    <desc lang="fr">Saison:9 - Episode:6 - Steve McGarrett, de la Marine américaine, se rend sur l'île d'Oahu dans l'archipel d'Hawaï, pour enquêter sur l'assassinat de son père. Sur place, il est mandaté afin de former une unité spéciale de police avec carte blanche pour appliquer ses propres règles et méthodes. Car malgré ses allures de paradis, la carte postale laisse souvent place à la scène du crime...</desc>
-    <credits>
-      <director>Peter Weller</director>
-      <actor>Scott Caan</actor>
-      <actor>Chi McBride</actor>
-      <actor>Eddie Cahill</actor>
-      <actor>Jorge Garcia</actor>
-      <actor>Ian Anthony</actor>
-      <actor>Meaghan Rath</actor>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Nazneen Contractor</actor>
-      <actor>Taylor Wily</actor>
-      <actor>Dennis Chun</actor>
-      <actor>Beulah Koale</actor>
-      <actor>Kimee Balmilero</actor>
-      <writer>Rob Hanning</writer>
-      <writer>Paul Grellong</writer>
-      <writer>Sean O'Reilly</writer>
-      <writer>Leonard Freeman</writer>
-      <writer>N. Christos</writer>
-      <writer>Fletcher Ruth</writer>
-      <writer>Zoe Robyn</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="fr">série policière</category>
-    <length units="minutes">55</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/05/05/973d80d2-77c8-44fa-afe5-889b6b2444f2.jpg" />
-    <episode-num system="xmltv_ns">8.5.</episode-num>
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme start="20230304233500 +0100" channel="C118.api.telerama.fr" stop="20230305003000 +0100">
@@ -633,74 +474,12 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304230000 +0100" channel="C119.api.telerama.fr" stop="20230305014500 +0100">
-    <title>La petite histoire de France</title>
-    <desc lang="fr">Les péripéties de trois personnages oubliés de l'Histoire : François, le cousin de Jeanne d'Arc, Philippe Honoré de Roche Saint-Pierre, le cousin de Louis XIV, et Renata Bonaparte, la cousine de Napoléon. Ces trois parcours permettent de redécouvrir trois époques de l'histoire de France...</desc>
-    <credits>
-      <actor>Philippe Béglia</actor>
-      <actor>Sébastien Castro</actor>
-      <actor>Charline Paul</actor>
-      <actor>François Levantal</actor>
-      <actor>David Salles</actor>
-      <actor>Karina Marimon</actor>
-      <actor>Ophélia Kolb</actor>
-      <actor>Alban Ivanov</actor>
-      <actor>Anne-Sophie Girard</actor>
-      <actor>Franck Migeon</actor>
-      <actor>Fatsah Bouyahmed</actor>
-      <actor>Grant Lawrens</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">165</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/12/19/f278071539f3ab109d01aa7703b994ee82f93f13.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304235800 +0100" channel="C140.api.telerama.fr" stop="20230305000000 +0100">
     <title>News</title>
     <desc lang="fr">The leading news stories of the moment.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">2</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/11/22/1abb818bf6fb6e8ddad715ec394e309c4d47910c.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304235800 +0100" channel="C140.api.telerama.fr" stop="20230305000000 +0100">
-    <title>News</title>
-    <desc lang="fr">The leading news stories of the moment.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">2</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/1abb818bf6fb6e8ddad715ec394e309c4d47910c.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304235000 +0100" channel="C182.api.telerama.fr" stop="20230305011500 +0100">
-    <title>Verliebt in Kroatien</title>
-    <desc lang="fr">Wer lässt denn schon die perfekte Schwiegertochter ziehen? Nicht Gisela und Werner Bauer - gespielt von Saskia Vester und Michael Lerchenberg! Die beiden unternehmen alles, damit die geplatzte Traumhochzeit ihres verwöhnten, einzigen Sohnes (Sebastian Fräsdorf) mit seiner/ihrer Jana (Victoria Schulz) doch noch zustande kommt. Das Problem ist allerdings, dass Sebastian Gefallen findet an der von Mutter Gisi verordneten Verwandlung vom heimatverbundenen Kumpeltyp zum verwegenen Segler und nicht nur in Kroatien bleiben will, sondern sich dort auch noch verliebt. Um ihn zurückzuholen, müssen sich seine Eltern einiges einfallen lassen - und geraten selbst durch den Einfluss des mediterranen Lebensgefühls gehörig aus dem Tritt.</desc>
-    <credits>
-      <director>Bruno Grass</director>
-      <actor>Saskia Vester</actor>
-      <actor>Siemen Rühaak</actor>
-      <actor>Michael Lerchenberg</actor>
-      <actor>Karolina Horster</actor>
-      <actor>Jördis Richter</actor>
-      <actor>Sebastian Fräsdorf</actor>
-      <actor>Victoria Schulz</actor>
-      <actor>Henry Buchmann</actor>
-      <actor>Anka Dobric</actor>
-      <actor>Andelko Ribarc</actor>
-      <actor>Matthias Rauch</actor>
-      <actor>Aleksandar Strecha</actor>
-      <writer>Martin Dolejs</writer>
-      <writer>Christine Heinlein</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="fr">film : comédie romantique</category>
-    <length units="minutes">85</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/495a3f91-9138-438f-b88f-d7735ad6f2f0.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -743,44 +522,12 @@
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme start="20230304233000 +0100" channel="C183.api.telerama.fr" stop="20230305004000 +0100">
-    <title>Formule 1 : Grand Prix de Bahreïn</title>
-    <category lang="fr">sport : formule 1</category>
-    <length units="minutes">70</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/06/19/8a42e9746ff9f7e647786012664f9111879e88b1.jpg" />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
   <programme start="20230304234000 +0100" channel="C192.api.telerama.fr" stop="20230305005500 +0100">
     <title>The Voice</title>
     <desc lang="fr">Résumé des meilleurs moments du programme "The Voice : La Plus Belle Voix", avec discussions, commentaires des membres du jury, impressions des candidats après leurs prestations, analyses mais aussi la présentation des candidats sous un autre angle, dans les coulisses et sans la tension inévitable avant chaque représentation.</desc>
     <category lang="fr">divertissement</category>
     <length units="minutes">75</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/02/06/e543b59afad599e4c488546d1d37ddacd91cfea8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234000 +0100" channel="C192.api.telerama.fr" stop="20230305005500 +0100">
-    <title>The Voice</title>
-    <desc lang="fr">Résumé des meilleurs moments du programme "The Voice : La Plus Belle Voix", avec discussions, commentaires des membres du jury, impressions des candidats après leurs prestations, analyses mais aussi la présentation des candidats sous un autre angle, dans les coulisses et sans la tension inévitable avant chaque représentation.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">75</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/02/06/e543b59afad599e4c488546d1d37ddacd91cfea8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304225500 +0100" channel="C195.api.telerama.fr" stop="20230305002500 +0100">
-    <title>90' Enquêtes</title>
-    <sub-title>Samu, pompiers : urgences vitales dans les quartiers nord de Marseille</sub-title>
-    <desc lang="fr">Chaque émission couvre une grande thématique à travers plusieurs reportages et des interventions d'experts. S'inscrivant dans la lignée des grands magazines d'informations américains et de reportages, "90' Enquêtes" est un magazine 100% investigation.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">90</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/29/37007bdaafbf46abca5b9d1f0b8d7380478bca83.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -831,50 +578,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20230304232800 +0100" channel="C205.api.telerama.fr" stop="20230305010000 +0100">
-    <title>La maladroite</title>
-    <desc lang="fr">A 21 heures, sur le parking d'un centre commercial, des parents affolés s'agitent autour d'une voiture. Ils appellent en vain Stella, mais personne ne répond. Leur enfant a disparu. Fugue, enlèvement ou pire encore : l'angoisse les étreint. Quelques mois auparavant, Stella, 6 ans, a fait sa toute première rentrée scolaire. Elle a un grand frère et une petite soeur déjà scolarisés mais pour elle c'est la découverte de l'école. Curieuse, exubérante, méconnaissant toute discipline scolaire et souvent absente, elle intrigue Céline, sa maîtresse. Le père très présent a expliqué que leur fille avait une maladie qu'on ne comprenait ni ne savait guérir, qu'ils passent leur temps dans les hôpitaux pour chercher à la soigner, ce qui explique toutes ces absences et cette scolarité tardive... - Critique : Qu’est-il arrivé à Stella ? Ses parents et son frère, affolés, la cherchent partout sur le parking d’une pizzeria. Restée seule dans la voiture pendant qu’ils passaient commande, la petite fille a disparu…
-
-Malgré les apparences, La Maladroite n’est pas une enquête policière. Le scénario rembobine l’année écoulée avant la disparition de Stella. Bouille ronde songeuse aux grands yeux marron, la petite entre pour la toute première fois à l’école à 6 ans. La faute à une « maladie » qui la cloue souvent à la maison, répète son père. Comportement inadapté, « perte » du carnet de santé, absences à répétition… Son instit est de plus en plus inquiète, jusqu’au jour où elle découvre des taillades sur les mollets de Stella. « Je suis maladroite », justifie la petite…
-
-Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l’affaire Marina Sabatier, morte à 8 ans sous les coups de ses parents en 2009, malgré plusieurs signalements. La fiction n’entre jamais dans le foyer ou dans le passé des Dubois. Elle s’attache aux nombreux acteurs qui ont croisé la route de Stella, enseignants, médecins, assistante sociale, gendarmes, qui ont plus ou moins vu, cru, agi… Une longue chaîne de témoins qui ne parviendront pas à protéger l’enfant… C’est tout un système défaillant que met au jour cette fiction portée par un casting impeccable. Elsa Hyvaert, formidable, donne une contenance désarmante à Stella, qui passe son temps à protéger ses bourreaux. India Hair et Damien Jouillerot réussissent quant à eux à interpréter avec une glaçante tempérance l’ignoble manipulation exercée sur tous par le couple parental.</desc>
-    <credits>
-      <director>Éléonore Faucher</director>
-      <actor>Christine Brücher</actor>
-      <actor>Patrick Descamps</actor>
-      <actor>Émilie Dequenne</actor>
-      <actor>Pierre Diot</actor>
-      <actor>Damien Jouillerot</actor>
-      <actor>Isabelle Carré</actor>
-      <actor>Tania Dessources</actor>
-      <actor>Woch Magalie</actor>
-      <actor>Pasquale d'Inca</actor>
-      <actor>Juliette Navis</actor>
-      <actor>Russier Coralie</actor>
-      <actor>Elsa Hyvaert</actor>
-      <writer>Françoise Charpiat</writer>
-      <writer>Alexandre Seurat</writer>
-    </credits>
-    <category lang="fr">téléfilm dramatique</category>
-    <length units="minutes">92</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/9c799a6443c963f166065db690a38844994c3e95.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>4/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20230304235700 +0100" channel="C226.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Journal</title>
-    <desc lang="fr">Les actualités et les informations du jour mis en directe.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">3</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/11/23/3a58702fbeea638295ce39fb5dfe1202db494ee6.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304235700 +0100" channel="C226.api.telerama.fr" stop="20230305000000 +0100">
     <title>Journal</title>
     <desc lang="fr">Les actualités et les informations du jour mis en directe.</desc>
@@ -898,46 +601,12 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20230304225900 +0100" channel="C234.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Police attitude, 60 ans de maintien de l'ordre</title>
-    <desc lang="fr">Ce film part d'un moment historique : en 2018-2019, après des affrontements violents entre forces de l'ordre et manifestants, pour la première fois la conception du maintien de l'ordre a fait l'objet de très fortes critiques et d'interrogations insistantes : quelle conception du maintien de l'ordre entraîne des blessures aussi mutilante ? N'y a-t-il pas d'autres manières de faire ? Est-ce digne d'un Etat démocratique ? Et comment font les autres ? Les nouveaux contestataires qui ne rechignent pas devant la violence sont le défi nouveau qui se pose aujourd'hui au maintien de l'ordre.</desc>
-    <category lang="fr">documentaire société</category>
-    <length units="minutes">61</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/454db531ac56e9cdb64c771303e22c6f34acfe8f.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230304234100 +0100" channel="C240.api.telerama.fr" stop="20230305001300 +0100">
     <title>13h15, le samedi...</title>
     <desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">32</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/09/19/b76e90855693f959bce0a1c6e741f7da47f57553.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234100 +0100" channel="C240.api.telerama.fr" stop="20230305001300 +0100">
-    <title>13h15, le samedi...</title>
-    <desc lang="fr">Sur un ton dynamique et décalé, un regard sur l'actualité, l'air du temps et la politique.</desc>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">32</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/19/b76e90855693f959bce0a1c6e741f7da47f57553.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234700 +0100" channel="C245.api.telerama.fr" stop="20230305000600 +0100">
-    <title>Réunionnais du Monde</title>
-    <desc lang="fr">Katiana Castelnau va à la rencontre des Réunionnais qui vivent à l'étranger et nous raconte leur vie au quotidien et leur adaptation à leur pays d'adoption.</desc>
-    <category lang="fr">magazine de découvertes</category>
-    <length units="minutes">19</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/467aca17bc68995232c5f39b52ec27e308bcc892.jpg" />
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -963,42 +632,12 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304235900 +0100" channel="C260.api.telerama.fr" stop="20230305012700 +0100">
-    <title>Azucar</title>
-    <desc lang="fr">Manuel Maria annonce à ses trois enfants qu'il va se marier avec Alejandrina. Raquel est contente de la nouvelle qui la rapproche de la finalisation de son plan. Les Becerra sont contre la relation d'amour d'Ana Julia et de Célia avec les fils Solaz. Sixta informe Lucio que le sort qu'elle a lancé aux Solaz est bien réel. Pedro Nel trouve une tête de squelette dans le placard de Francisco Javier.</desc>
-    <category lang="fr">feuilleton sentimental</category>
-    <length units="minutes">88</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/19/20e49eddf3f0f6d7cdcdfefe7503ea66d4d59270.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304235000 +0100" channel="C295.api.telerama.fr" stop="20230305000000 +0100">
     <title>Météo</title>
     <desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">10</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304235000 +0100" channel="C295.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Météo</title>
-    <desc lang="fr">Découvrez les prévisions météorologiques du jour.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/d041fa00ba9b1af63b476bcc1a2682dfba94420f.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304235700 +0100" channel="C328.api.telerama.fr" stop="20230305002400 +0100">
-    <title>Journal Martinique</title>
-    <desc lang="fr">Suivez l'actualité de La Martinique.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">27</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/02/21/21580e517b788ef5b6c651b53327a1b87af9904b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1021,28 +660,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <length units="minutes">20</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/06/16/a766afe484c1c54811b1a126bf8246e5150e6602.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234000 +0100" channel="C329.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Histoire d'un tube</title>
-    <sub-title>Dominique Bernier : Enmé</sub-title>
-    <desc lang="fr">Retour sur ces chansons qui ont marqué une génération. Magie, coup de foudre ou concept marketing… Redécouvrez, grâce aux témoignages des artistes, ces mélodies qui ont bercé votre enfance et celles qui font un carton aujourd'hui. On vous dit tout de ces belles histoires jusqu'aux petits secrets.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="minutes">20</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/a766afe484c1c54811b1a126bf8246e5150e6602.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304213000 +0100" channel="C421.api.telerama.fr" stop="20230305003000 +0100">
-    <title>1,2,3 Dansez</title>
-    <desc lang="fr">Cette émission entièrement consacrée à l'accordéon, vous présente chaque semaine des artistes et vous fait découvrir de nouveaux talents.</desc>
-    <category lang="fr">divertissement</category>
-    <length units="hours">3</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/08/05/a8e21169deae3bad72b6ba65fcbffea074605d31.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1091,55 +708,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     </audio>
     <rating system="CSA">
       <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304233000 +0100" channel="C444.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Big Bang Theory</title>
-    <sub-title>La théorie déjouée</sub-title>
-    <desc lang="fr">Saison:12 - Episode:9 - Sur le campus du California Institute of Technology, quatre amis geeks, Leonard, Sheldon, Howard et Rajesh tentent de mener une carrière scientifique tout en trouvant l'amour. Mais comment faire quand une convention "Star Trek" a plus d'intérêt qu'une jolie jeune fille ? Leonard sera le premier à s'engager dans une relation, certes chaotique, avec sa voisine Penny. Howard, bridé par une mère possessive, Rajesh, captif de ses traditions familiales, et Sheldon, handicapé par ses névroses narcissiques, parviendront-ils à dépasser leurs obsessions pour sortir de leur désert affectif ? D'année en année, "Big Bang Theory" a toujours convaincu un nombre croissant de téléspectateurs, au point de devenir la sitcom numéro 1 outre-Atlantique.</desc>
-    <credits>
-      <director>Kristy Cecil</director>
-      <actor>Mayim Bialik</actor>
-      <actor>Johnny Galecki</actor>
-      <actor>Kaley Cuoco</actor>
-      <actor>Simon Helberg</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kunal Nayyar</actor>
-      <actor>Melissa Rauch</actor>
-      <actor>Lauren Lapkus</actor>
-      <writer>Steve Holland</writer>
-      <writer>David Goetsch</writer>
-      <writer>Maria Ferrari</writer>
-      <writer>Bill Prady</writer>
-      <writer>Chuck Lorre</writer>
-      <writer>Adam Faberman</writer>
-      <writer>Eric Kaplan</writer>
-      <writer>Tara Hernandez</writer>
-      <writer>Jeremy Howe</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">30</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/4bd0ec0c-eb1e-476f-8917-65291a87ae32.jpg" />
-    <episode-num system="xmltv_ns">11.8.</episode-num>
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304232600 +0100" channel="C445.api.telerama.fr" stop="20230305005900 +0100">
-    <title>Enquête sous haute tension</title>
-    <sub-title>Dangers de la route : les vidéos de l'extrême - Spécial USA</sub-title>
-    <desc lang="fr">Aux Etats-Unis, 80% des véhicules neufs sont équipés de caméras embarquées. Elles enregistrent comme jamais auparavant les comportements les plus dangereux. Aux Etats-Unis, les rescapés de dix accidents hors normes reviennent, images à l'appui, sur ces quelques secondes où leur vie a failli basculer.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">93</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/b417cba0-d8fb-49c4-8fb1-76f155011e6e.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme start="20230304232900 +0100" channel="C445.api.telerama.fr" stop="20230305010400 +0100">
@@ -1157,37 +725,10 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
   <programme start="20230304225500 +0100" channel="C446.api.telerama.fr" stop="20230305005500 +0100">
     <title>Chroniques criminelles</title>
     <sub-title>L'affaire Michel Zirafa : meurtre dans le clan des Siciliens</sub-title>
-    <desc lang="fr">Le 2 novembre 2022, un procès sous haute tension s'apprête à débuter à la cour d'assises du Rhône. Dans le box des accusés se trouve Rose Filippazzo qui, quatre ans plus tôt, a tiré une balle dans la tête de son mari Michel Zirafa pendant son sommeil. Cette mère de famille de 50 ans affirme avoir agi pour sa survie. L'accusation, elle, penche pour un mobile financier.</desc>
     <category lang="fr">magazine de société</category>
     <length units="hours">2</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/01/26/97c8c696c3f44ffde026006ae5b8d715e2970e8a.jpg" />
     <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme start="20230304225500 +0100" channel="C446.api.telerama.fr" stop="20230305005500 +0100">
-    <title>Chroniques criminelles</title>
-    <sub-title>L'affaire Michel Zirafa : meurtre dans le clan des Siciliens</sub-title>
-    <category lang="fr">magazine de société</category>
-    <length units="hours">2</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/26/97c8c696c3f44ffde026006ae5b8d715e2970e8a.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme start="20230304234500 +0100" channel="C458.api.telerama.fr" stop="20230305001000 +0100">
-    <title>Etat paranormal</title>
-    <sub-title>The Knickerbocker</sub-title>
-    <desc lang="fr">Saison:1 - Episode:19 - La Société de recherches paranormales de l'université de Pennsylvanie reçoit chaque année des centaines de dossiers sur des phénomènes inexpliqués. Elle ne répond qu'aux plus inquiétants. Ryan Buell, son fondateur, a assisté enfant à des événements qui l'ont terrifié. C'est pourquoi il a voulu constituer ce groupe d'étudiants destiné à aider ceux qui sont confrontés à l'inexplicable. Les jeunes enquêteurs se rendent dans tout le pays pour observer des phénomènes mystérieux : possessions, envoûtements, esprits frappeurs, poltergeists.</desc>
-    <date>2008</date>
-    <category lang="fr">documentaire sciences et technique</category>
-    <length units="minutes">25</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/11/13/3fce73e229b8e2e61dba97eb1b016ed2f6e026d9.jpg" />
-    <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -1239,64 +780,12 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20230304222400 +0100" channel="C459.api.telerama.fr" stop="20230305000800 +0100">
-    <title>McDonald &amp; Dodds</title>
-    <sub-title>La chute de la maison Crockett</sub-title>
-    <desc lang="fr">Saison:1 - Episode:1 - Un sans-abri est abattu dans le manoir abandonné de Maxton Crockett, l'un des plus grands industriels de Bath. Pour mener l'enquête, l'ambitieuse capitaine McDonald fait équipe avec l'expérimenté inspecteur Dodds. La première, issue d'un milieu modeste des rues malfamées de Londres, a gravi peu à peu les échelons avant d'être promue à Bath, tandis que le second a déjà une longue expérience derrière lui dans la région, dont une partie passée derrière un bureau. La famille de l'industriel semble au départ être très unie. Aucun de ses membres ne semble avoir de motif pour le meurtre, mais il devient vite évident que chacun a ses propres secrets... - Critique : Bath, petite ville anglaise proche de Bristol. La famille Crockett est riche. Très riche. Max, le doyen, est un industriel aussi talentueux que manipulateur. Il a décidé de mettre en concurrence ses trois filles afin de choisir laquelle mérite sa fortune. Mais en rentrant de vacances, il trouve chez lui un homme mort, assassiné. Tout laisse penser à un règlement de comptes au cours d’un vulgaire cambriolage, mais la famille Crockett semble cacher de lourds secrets. Pour enquêter sur ce crime, l’inspectrice McDonald. Fraîchement arrivée de Londres — et souhaitant rapidement y retourner —, cette femme scrupuleuse et tenace va se confronter aux a priori des gens du coin. En guise de coéquipier : l’empoté mais expérimenté sergent Dodds, mis au placard depuis onze ans.Rien de nouveau sous la grisaille britannique en termes de scénario. L’intrigue est attendue, les personnages et leurs trajectoires restent classiques. Le rôle du sergent un peu paumé mais astucieux sied très bien à l’habitué des seconds rôles Jason Watkins (vu dans Des et The Crown). Et même si cela n’est plus vraiment révolutionnaire à l’heure actuelle, la série a tout de même le mérite de soulever en filigrane les questions du racisme et du sexisme grâce au personnage de l’inspectrice (Tala Gouveia). McDonald &amp; Dodds est une série idéale pour le dimanche soir. Très loin de bousculer le genre et le spectateur, elle reste néanmoins distrayante, et la beauté des plans, notamment ceux de la ville thermale de Bath, est à noter.</desc>
-    <credits>
-      <director>Richard Senior</director>
-      <actor>Lindsay Robert</actor>
-      <actor>James Murray</actor>
-      <actor>Jason Watkins</actor>
-      <actor>Mendoza Natalie</actor>
-      <actor>Sebastian Knapp</actor>
-      <actor>Susannah Fielding</actor>
-      <actor>Jack Ashton</actor>
-      <actor>Rosalie Craig</actor>
-      <actor>Tala Gouveia</actor>
-      <actor>Pearl Chanda</actor>
-      <actor>Jack Riddiford</actor>
-      <actor>Roger Evans</actor>
-      <writer>Robert Murphy</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="fr">série policière</category>
-    <length units="minutes">104</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/5c3878ab5c855aa01134316c899ba45065a4c673.jpg" />
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230304220000 +0100" channel="C481.api.telerama.fr" stop="20230305000000 +0100">
     <title>Week-end Direct</title>
     <desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
     <category lang="fr">magazine d'information</category>
     <length units="hours">2</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/10/10/a83c54586d8d1ef83e889500bde88f2fe784b2a6.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304220000 +0100" channel="C481.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Week-end Direct</title>
-    <desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
-    <category lang="fr">magazine d'information</category>
-    <length units="hours">2</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/10/10/a83c54586d8d1ef83e889500bde88f2fe784b2a6.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304231500 +0100" channel="C482.api.telerama.fr" stop="20230305000500 +0100">
-    <title>Lego Masters : extra brique</title>
-    <desc lang="fr">"Extra Brique" revient avec des nouveautés et le plein d'images féériques. Au programme notamment, le duel des anciens candidats sur des thèmes imposés, des images du monde entier pour découvrir de quoi les passionnés de briques des autres pays sont capables et les coulisses du programme.</desc>
-    <category lang="fr">divertissement : jeu</category>
-    <length units="minutes">50</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/05/08/6fce6dc31c4b4902ea12284079b00150e5d22d5e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1321,42 +810,12 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304200000 +0100" channel="C491.api.telerama.fr" stop="20230305070000 +0100">
-    <title>Non Stop Info</title>
-    <desc lang="fr">Ce magazine s'intéresse à l'actualité des stars en France et partout dans le monde.</desc>
-    <category lang="fr">journal</category>
-    <length units="hours">11</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/e73b7238d8c7ba5ca614c3a7ccae81fc5bb3cee8.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230304234500 +0100" channel="C529.api.telerama.fr" stop="20230305000000 +0100">
     <title>A l'affiche</title>
     <desc lang="fr">Comment les cinéastes, les romanciers, les artistes racontent-ils le monde ? France 24 part à la rencontre d'une culture engagée dans son temps.</desc>
     <category lang="fr">magazine culturel</category>
     <length units="minutes">15</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/11/16/3d5f4e058ab1070589f46888d90e69b19e814f73.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234500 +0100" channel="C529.api.telerama.fr" stop="20230305000000 +0100">
-    <title>A l'affiche</title>
-    <desc lang="fr">Comment les cinéastes, les romanciers, les artistes racontent-ils le monde ? France 24 part à la rencontre d'une culture engagée dans son temps.</desc>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">15</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/3d5f4e058ab1070589f46888d90e69b19e814f73.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304233000 +0100" channel="C1073.api.telerama.fr" stop="20230305000000 +0100">
-    <title>BFM Bourse</title>
-    <desc lang="fr">A 15h, BFM Bourse, l'émission qui stimule tous vos placements, vous fait vivre en direct toute l'actualité des marchés et l'ouverture de Wall Street. Les meilleurs experts apportent leurs conseils à tous les profils d'investisseurs : des marchés financiers à l'immobilier et à l'assurance-vie, les solutions efficaces et les clés pour comprendre les grands enjeux économiques sont dans BFM Bourse.</desc>
-    <category lang="fr">magazine de l'économie</category>
-    <length units="minutes">30</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/085f60503ab2dbc8789e528eb9a47e8cd7ec0d1e.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1378,33 +837,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <category lang="fr">magazine de société</category>
     <length units="minutes">105</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/01/07/d29216ce09d6370605237caf6f73ebdba3ab9479.jpg" />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme start="20230304234000 +0100" channel="C1399.api.telerama.fr" stop="20230305012500 +0100">
-    <title>Héritages</title>
-    <sub-title>Paix à son âme</sub-title>
-    <desc lang="fr">Héritages va vous plonger dans des histoires incroyables sur fond d'arnaques et de conflits de successions. Vous allez découvrir le combat de familles qui se déchirent en France pour leur héritage.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">105</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/07/d29216ce09d6370605237caf6f73ebdba3ab9479.jpg" />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme start="20230304234500 +0100" channel="C1400.api.telerama.fr" stop="20230305005400 +0100">
-    <title>100 jours avec les gendarmes de Bourgogne</title>
-    <sub-title>Ecarts de conduite et passage à tabac</sub-title>
-    <desc lang="fr">Saison:1 - Episode:1 - Excès de vitesse, conduite en état d'ivresse ou sous l'emprise de stupéfiants : en Bourgogne, 2600 gendarmes sont mobilisés au quotidien sur tous les fronts. Le PSIG, le peloton de surveillance et d'intervention de la gendarmerie, est spécialisé dans les interpellations musclées. Dans cette région traversée par 900 kilomètres d'autoroute, les gendarmes du peloton motorisé surveillent de près ce vaste réseau routier. Chaque jour, ils sont confrontés à des fous du volant inconscients du danger ou encore des chauffards parfois remontés. La brigade de Genlis dans la banlieue de Dijon est également sur tous les fronts entre violence familiales ou encore bagarres entre bandes rivales.</desc>
-    <date>2021</date>
-    <category lang="fr">documentaire société</category>
-    <length units="minutes">69</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/10/20/dfde0230f475c3a2d1323d88bc7f21c1cd1c3f53.jpg" />
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <previously-shown />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -1436,17 +868,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
-  <programme start="20230304230000 +0100" channel="C1401.api.telerama.fr" stop="20230305012000 +0100">
-    <title>MMA : UFC Classiques</title>
-    <sub-title>Les plus grandes soirées de l'UFC (épisode 19)</sub-title>
-    <category lang="fr">sport : mma</category>
-    <length units="minutes">140</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/c01b8846601d17f41bd965669e0602c51ae12e14.jpg" />
-    <rating system="CSA">
-      <value>-16</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
-    </rating>
-  </programme>
   <programme start="20230304234500 +0100" channel="C1402.api.telerama.fr" stop="20230305003000 +0100">
     <title>Retour à l'instinct primaire : Restons groupés</title>
     <sub-title>Seth et le serpent</sub-title>
@@ -1456,33 +877,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <icon src="https://focus.telerama.fr/1111x625/2021/10/17/31b6a22d860065faba91e274ebee92c08a8ac16a.jpg" />
     <previously-shown />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304234500 +0100" channel="C1402.api.telerama.fr" stop="20230305003000 +0100">
-    <title>Retour à l'instinct primaire : Restons groupés</title>
-    <sub-title>Seth et le serpent</sub-title>
-    <desc lang="fr">Télé-réalité avec douze aventuriers qui pendant 40 jours tentent de survivre au sein de la nature sauvage de la Colombie. Ils n'ont rien, si ce n'est quelques outils primitifs. Pas de nourriture. Pas de vêtement. Pas d'eau. Ils doivent chasser et recueillir tout ce dont ils ont besoin pour ne pas mourir de faim, et pour ne pas être chassés à leur tour...</desc>
-    <category lang="fr">documentaire aventures</category>
-    <length units="minutes">45</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/10/17/31b6a22d860065faba91e274ebee92c08a8ac16a.jpg" />
-    <previously-shown />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304223000 +0100" channel="C1403.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Le roi lion 2 : L'honneur de la tribu</title>
-    <desc lang="fr">Pour Simba et Nala, la naissance de leur fille Kiara est un formidable événement. Mais si la jeune héritière du royaume est une magnifique petite lionne, son tempérament donne régulièrement du fil à retordre à ses parents. Ceux-ci chargent Timon et Pumbaa de la surveiller. La petite Kiara échappe très vite à la vigilance de ses deux baby-sitters et part à l'aventure dans la brousse africaine. En chemin, elle rencontre le jeune lion Kovu, avec qui elle sympathise immédiatement. Mais son nouvel ami est le fils de Zira, qui appartenait au clan de l'abominable Scar. L'amitié des deux lionceaux est alors menacée par d'anciennes guerres de clans...</desc>
-    <category lang="fr">téléfilm d'animation</category>
-    <length units="minutes">90</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/3df431b1-adc5-4a7d-ae3b-c28511a7c1f4.jpg" />
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1531,50 +925,6 @@ Ce téléfilm sobre et bouleversant est adapté du roman éponyme inspiré de l�
     <icon src="https://focus.telerama.fr/1111x625/2023/02/05/a09b8f7a5e44ab28022812bdd3c72fdc54329961.jpg" />
     <episode-num system="xmltv_ns">12.4.</episode-num>
     <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304225000 +0100" channel="C1404.api.telerama.fr" stop="20230305005000 +0100">
-    <title>Joséphine, ange gardien</title>
-    <sub-title>Un monde de douceur</sub-title>
-    <desc lang="fr">Saison:13 - Episode:5 - Joséphine est un ange gardien envoyé sur Terre pour venir en aide aux personnes en détresse. Ses missions sont toujours délicates, mais grâce à ses pouvoirs magiques et à une bonne dose de persuasion, l'ange parvient toujours à ses fins. Au début de chaque mission, Joséphine s'immisce dans l'entourage de la personne élue. Ruptures inconsolables, maltraitance, personnes âgées isolées, violences, rejet social ou encore découverte de sa sexualité : l'ange intervient dans toutes les situations de détresse pour rappeler aux hommes, aux femmes ou aux enfants qu'il ne faut jamais désespérer. Et une fois sa mission accomplie, Joséphine disparaît d'un claquement de doigts.</desc>
-    <credits>
-      <director>Pascal Heylbroeck</director>
-      <actor>Elisabeth Commelin</actor>
-      <actor>Valérie Vogt</actor>
-      <actor>Mimie Mathy</actor>
-      <actor>Thierry Heckendorn</actor>
-      <actor>Marc Saez</actor>
-      <actor>Linda Hardy</actor>
-      <actor>Pascal Vannson</actor>
-      <actor>Hubert Benhamdine</actor>
-      <actor>Brigitte Aubry</actor>
-      <actor>Marion Trémontels</actor>
-      <actor>Marilyne Fontaine</actor>
-      <actor>Ninon Jaegle</actor>
-      <writer>Marie-Hélène Saller</writer>
-      <writer>Ivan Piettre</writer>
-      <writer>Laurent Chouchan</writer>
-      <writer>Philippe Niang</writer>
-      <writer>Michel Lengliney</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="fr">série sentimentale</category>
-    <length units="hours">2</length>
-    <icon src="https://focus.telerama.fr/1111x625/2023/02/05/a09b8f7a5e44ab28022812bdd3c72fdc54329961.jpg" />
-    <episode-num system="xmltv_ns">12.4.</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304225900 +0100" channel="C2111.api.telerama.fr" stop="20230305000000 +0100">
-    <title>Le 23h</title>
-    <desc lang="fr">Le grand JT du soir de France Télévisions, diffusé à heure fixe et ouvert sur l'économie, l'Europe, l'international et la politique.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">61</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/16/45d808a495cbb7641020eb249d8679774f8c5bb2.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

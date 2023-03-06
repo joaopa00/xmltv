@@ -1,9 +1,9 @@
 Code 200
 Content-Length 52643
 Content-Type text/html;charset=UTF-8
-MD5 d262132c6976cb6bed54ada9db470b3a
+MD5 f37727f0ba8f661fe1604228bb222361
 Url https://www.tvguide.co.uk/channellistings.asp?ch=1763&cTime=03%2F08%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677879921
+X-HCT-LastUpdated 1678145543
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677879921
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            3 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -684,7 +684,7 @@ X-HCT-LastUpdated 1677879921
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">4.3</span>
+		</span><span class="programmeheading">4.1</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -726,7 +726,7 @@ X-HCT-LastUpdated 1677879921
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">0.7</span>
+		</span><span class="programmeheading">0.8</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -768,7 +768,7 @@ X-HCT-LastUpdated 1677879921
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">0.7</span>
+		</span><span class="programmeheading">0.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

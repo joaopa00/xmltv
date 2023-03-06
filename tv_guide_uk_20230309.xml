@@ -175,16 +175,422 @@
       <value>0.5/10</value>
     </star-rating>
   </programme>
-  <programme start="20230308230000" channel="1013.tvguide.co.uk" stop="20230309000000">
-    <title lang="en">Strange Evidence</title>
-    <desc lang="en">A police dash cam captures a high speed pursuit and an officer is stunned when the erratic fugitive makes an impossible getaway. Deep in Louisiana, cameras record the terrifying moment a swamp devours tall trees..</desc>
+  <programme start="20230309000000" channel="1013.tvguide.co.uk" stop="20230309003000">
+    <title lang="en">National Park Mysteries</title>
+    <sub-title lang="en">Cleveland National Forest</sub-title>
+    <desc lang="en">A look at Cleveland National Forest, where reports of gun-wielding ghosts, savage creatures and otherworldly portals are rife.</desc>
     <category lang="en">Education</category>
     <category lang="en">Science</category>
     <category lang="en">Factual</category>
-    <url>https://www.tvguide.co.uk/detail/4804906/81932335/strange-evidence</url>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <url>https://www.tvguide.co.uk/detail/4189807/81953577/national-park-mysteries</url>
+    <episode-num system="xmltv_ns">1.2/12.</episode-num>
     <star-rating>
-      <value>0.5/10</value>
+      <value>0.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309003000" channel="1013.tvguide.co.uk" stop="20230309010000">
+    <title lang="en">National Park Mysteries</title>
+    <sub-title lang="en">Apache Sitgreaves National Forests</sub-title>
+    <desc lang="en">A trip through the ginormous forest in Arizona. Strange encounters rumoured to have happened there include an alien abduction.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/4189812/81953571/national-park-mysteries</url>
+    <episode-num system="xmltv_ns">1.3/12.</episode-num>
+    <star-rating>
+      <value>0.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309010000" channel="1013.tvguide.co.uk" stop="20230309013000">
+    <title lang="en">Court Cam</title>
+    <sub-title lang="en">15</sub-title>
+    <desc lang="en">Dan Abrams introduces some of the most dramatic outbursts and extraordinary moments to ever take place in US courtrooms.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3752845/81953558/court-cam</url>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <star-rating>
+      <value>0.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309013000" channel="1013.tvguide.co.uk" stop="20230309020000">
+    <title lang="en">Court Cam</title>
+    <sub-title lang="en">17</sub-title>
+    <desc lang="en">Dan Abrams introduces some of the most dramatic outbursts and extraordinary moments to ever take place in US courtrooms.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3752847/81953568/court-cam</url>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <star-rating>
+      <value>0.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309020000" channel="1013.tvguide.co.uk" stop="20230309030000">
+    <title lang="en">Swamp People</title>
+    <sub-title lang="en">Legends of the Swamp</sub-title>
+    <desc lang="en">Joey and Zak doggedly pursue a mysterious gator known as the Phantom. Ronnie and Ashley venture into Dead-End Bayou and up the ante with a side bet. Troy spends the day with a swamp legend. Engine trouble threatens to leave Willie stranded and ruin his hunt for giant monsters.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3286653/81953578/swamp-people</url>
+    <episode-num system="xmltv_ns">9.11/16.</episode-num>
+    <star-rating>
+      <value>1.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309030000" channel="1013.tvguide.co.uk" stop="20230309034500">
+    <title lang="en">Dickinson's Real Deal</title>
+    <sub-title lang="en">Colne 3</sub-title>
+    <desc lang="en">David Dickinson and his team help members of the public in Colne, Lancashire, determine which of their most treasured possessions are worth the most. Tim Hogarth is given a chance to display his charitable side when a set of medals turns up at his table, Simon Schneider is presented with items by artist Clarice Cliff, and a young couple gives Jo Brayshaw a run for her money.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/1779593/81953565/dickinsons-real-deal</url>
+    <episode-num system="xmltv_ns">6.36/89.</episode-num>
+    <star-rating>
+      <value>3.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309034500" channel="1013.tvguide.co.uk" stop="20230309041000">
+    <title lang="en">Storage Wars Canada</title>
+    <sub-title lang="en">All Out Storage War</sub-title>
+    <desc lang="en">Jeff Schwarz, aka The Liquidator, takes his place as guest auctioneer.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/1992002/81953586/storage-wars-canada</url>
+    <episode-num system="xmltv_ns">0.12/36.</episode-num>
+    <star-rating>
+      <value>0.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309041000" channel="1013.tvguide.co.uk" stop="20230309050000">
+    <title lang="en">Pawn Stars</title>
+    <sub-title lang="en">Shooting Pawns</sub-title>
+    <desc lang="en">Rick tests a Civil War revolver, a piece of memorabilia from Lebron James comes through the doors, and Rick falls hard for a 4,500-year-old meteorite..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3630367/81953560/pawn-stars</url>
+    <episode-num system="xmltv_ns">20.0.</episode-num>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309050000" channel="1013.tvguide.co.uk" stop="20230309060000">
+    <title lang="en">Pawn Stars</title>
+    <sub-title lang="en">Across the Pawn'd</sub-title>
+    <desc lang="en">Rick shoots over to England for an explosive chance to test out antique weapons. Then, an item that inspired a classic movie rifles into the shop.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3840842/81953580/pawn-stars</url>
+    <episode-num system="xmltv_ns">20.14.</episode-num>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309060000" channel="1013.tvguide.co.uk" stop="20230309062500">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">The Trouble with Michael</sub-title>
+    <desc lang="en">Seth ignores Ashley's wish to ban a troublesome customer - but his decision threatens to put the shop at risk. Meanwhile, Les commissions a striking masterpiece.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922950/81953572/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.1/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309062500" channel="1013.tvguide.co.uk" stop="20230309065000">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Seth in Charge</sub-title>
+    <desc lang="en">Seth hatches a plan to get more customers through the pawn shop doors. His new idea backfires, and Les is forced to reconsider his choice of manager.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922954/81953562/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.2/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309065000" channel="1013.tvguide.co.uk" stop="20230309072000">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Back in Action</sub-title>
+    <desc lang="en">Les's return proves a shock for Seth and Ashley, who have let profits drop in his absence. Back in charge, the manager cuts a deal that could increase profits.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922958/81953590/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.3/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309072000" channel="1013.tvguide.co.uk" stop="20230309074500">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Back to the Hustle</sub-title>
+    <desc lang="en">Ashley questions whether the pawn store has a thief in its midst when two teens come in with news of a scam.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922963/81953561/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.4/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309074500" channel="1013.tvguide.co.uk" stop="20230309084000">
+    <title lang="en">The UnXplained with William Shatner</title>
+    <sub-title lang="en">Dark Prophecies</sub-title>
+    <desc lang="en">Modern prophets and the concept of predicting the future, in terms of catastrophic premonitions or dreams of future crimes. Assuming such an art is really possible, Shatner questions how such 'talent' could be used to avoid the deadly events waiting in the days to come. Alternatively, he contemplates that the future may simply be an unknowable mystery, unfolding all the time.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3681083/81953589/the-unxplained-with-william-shatner</url>
+    <episode-num system="xmltv_ns">0.9/26.</episode-num>
+    <star-rating>
+      <value>1.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309084000" channel="1013.tvguide.co.uk" stop="20230309094000">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Alien Mountain</sub-title>
+    <desc lang="en">Experts investigate an Italian mountain that has stood witness to inexplicable phenomena for centuries, wondering whether it could somehow be attracting alien visitors.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3574821/81953588/ancient-aliens</url>
+    <episode-num system="xmltv_ns">11.14.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309094000" channel="1013.tvguide.co.uk" stop="20230309104000">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Alien Brain</sub-title>
+    <desc lang="en">The idea that aliens may have given human brains incredible untapped abilities. Experts ask whether harnessing these hidden powers could spark the next step in man's evolution..</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3583430/81953563/ancient-aliens</url>
+    <episode-num system="xmltv_ns">11.16.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309104000" channel="1013.tvguide.co.uk" stop="20230309111000">
+    <title lang="en">Storage Wars Canada</title>
+    <sub-title lang="en">Canadian Pecker</sub-title>
+    <desc lang="en">Patrick Pecker attends the auction, fuelling his long-standing feud with Roy.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/1997014/81953579/storage-wars-canada</url>
+    <episode-num system="xmltv_ns">0.13/36.</episode-num>
+    <star-rating>
+      <value>0.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309111000" channel="1013.tvguide.co.uk" stop="20230309114000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Drama in the LBC</sub-title>
+    <desc lang="en">People who make a living from bidding for the contents of abandoned storage units. They have only a few minutes to examine the lockers before deciding whether to make the risky purchase, but they have previously found shrunken heads, work by Picasso and the world's most valuable comic collection.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3209964/81953584/storage-wars</url>
+    <episode-num system="xmltv_ns">11.7/12.</episode-num>
+    <star-rating>
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309114000" channel="1013.tvguide.co.uk" stop="20230309121000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Weekend at Barry's</sub-title>
+    <desc lang="en">Kenny is feeling nostalgic in Koreatown, so brings along an old friend - a notion that may or may not be a good idea. Brandi and Jarrod sweeten their profit in an unexpected way. Ivy tolerates the big city in an effort to find some name brand goodies.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3196313/81953575/storage-wars</url>
+    <episode-num system="xmltv_ns">11.8/12.</episode-num>
+    <star-rating>
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309121000" channel="1013.tvguide.co.uk" stop="20230309130500">
+    <title lang="en">Pawn Stars</title>
+    <sub-title lang="en">Crossbows, Coins and Conspiracies</sub-title>
+    <desc lang="en">Someone brings in a toy gun from a classic '60s TV show into the Las Vegas pawn shop, calling upon Chum to practise his negotiating skills.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3848394/81953573/pawn-stars</url>
+    <episode-num system="xmltv_ns">20.15.</episode-num>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309130500" channel="1013.tvguide.co.uk" stop="20230309140500">
+    <title lang="en">Pawn Stars</title>
+    <sub-title lang="en">Boston Pawn Sox</sub-title>
+    <desc lang="en">Rick travels over to Boston to get a steal on an amazing Red Sox baseball collection - while back at the shop, Corey targets an interesting Second World War jacket.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3858010/81953581/pawn-stars</url>
+    <episode-num system="xmltv_ns">20.16.</episode-num>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309140500" channel="1013.tvguide.co.uk" stop="20230309143500">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Seth Snaps</sub-title>
+    <desc lang="en">Ashley buys a 1950s Eljer toilet for $10, leading to Seth to purchase it for double the price in order that he can destroy it with a sledgehammer and storm out of the store.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922971/81953576/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.5/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309143500" channel="1013.tvguide.co.uk" stop="20230309150000">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Computer Crash</sub-title>
+    <desc lang="en">Seth chooses to stay at home and calm down after his altercation with Ashley. However, the computer system goes down, so he has no choice but to come in and repair the system.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922965/81953585/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.6/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309150000" channel="1013.tvguide.co.uk" stop="20230309153000">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">All-American Jewellery and Loan</sub-title>
+    <desc lang="en">Seth is excited when a clergyman sells him a rare baseball signed by Babe Ruth, complete with authentication papers - and knows it could be worth several thousand dollars.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922967/81953566/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.7/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309153000" channel="1013.tvguide.co.uk" stop="20230309160000">
+    <title lang="en">Hardcore Pawn</title>
+    <sub-title lang="en">Breakdown at Tiffany's</sub-title>
+    <desc lang="en">A man brings in a 160-year-old Tiffany watch, which has no identifying markings other than the name on its face. The pressing question is how the company verify that it is genuine.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1922969/81953583/hardcore-pawn</url>
+    <episode-num system="xmltv_ns">9.8/13.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309160000" channel="1013.tvguide.co.uk" stop="20230309170000">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Secrets of Stonehenge</sub-title>
+    <desc lang="en">Investigations into the possibility that extraterrestrials with a superior knowledge of science and engineering landed on Earth thousands of years ago.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3606853/81953559/ancient-aliens</url>
+    <episode-num system="xmltv_ns">11.15.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309170000" channel="1013.tvguide.co.uk" stop="20230309180000">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Food of the Gods</sub-title>
+    <desc lang="en">Experts question the link between divine substances and extraterrestrials, wondering if the 'food of the gods' really has been sustaining Earth's alien visitors.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3593389/81953564/ancient-aliens</url>
+    <episode-num system="xmltv_ns">11.17.</episode-num>
+    <star-rating>
+      <value>0.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309180000" channel="1013.tvguide.co.uk" stop="20230309190000">
+    <title lang="en">The UnXplained with William Shatner</title>
+    <sub-title lang="en">Lost Civilizations</sub-title>
+    <desc lang="en">During the ninth century, millions of Maya abandoned their city centres located in the Guatemalan highlands, leading many to wonder why. Emerging technologies have shown that the population was much larger and more warlike than had been imagined. However, as Shatner reveals, many experts wonder whether the timing of their exodus suggests a more spiritual explanation.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/3681091/81953587/the-unxplained-with-william-shatner</url>
+    <episode-num system="xmltv_ns">0.10/26.</episode-num>
+    <star-rating>
+      <value>1.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309190000" channel="1013.tvguide.co.uk" stop="20230309193000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Jenny, the Baker, the Prosthetics Maker</sub-title>
+    <desc lang="en">Jarrod takes Brandi to an auction on her birthday, Darrell tries to find another 'All Ten' locker, while Rene stands his ground to protect his honour. Mary brings in her friend from Texas to put her California counterparts in their place.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3209965/81953567/storage-wars</url>
+    <episode-num system="xmltv_ns">11.9/12.</episode-num>
+    <star-rating>
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309193000" channel="1013.tvguide.co.uk" stop="20230309200000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Nowhere to Formaldehyde</sub-title>
+    <desc lang="en">Emily's husband, Cody, misses a bid and stirs up trouble. Brandi and Jarrod put their faith in the cowboy and end up facing their mortality. The Vegas Ladies struggle to be seen, while Ivy revisits some of his glory days.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/3209966/81953582/storage-wars</url>
+    <episode-num system="xmltv_ns">11.10/12.</episode-num>
+    <star-rating>
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309200000" channel="1013.tvguide.co.uk" stop="20230309210000">
+    <title lang="en">Dickinson's Real Deal</title>
+    <sub-title lang="en">Coventry 3</sub-title>
+    <desc lang="en">David Dickinson is joined by a team of antiques dealers in Coventry to offer locals the chance to put their items up for auction or accept a cash sum. Cheryl Hakeney finds herself on the receiving end of a charm offensive by one elderly seller, while everyone is surprised by the high bids one item attracts in the saleroom.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/1604412/81953557/dickinsons-real-deal</url>
+    <episode-num system="xmltv_ns">6.37/89.</episode-num>
+    <star-rating>
+      <value>3.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309210000" channel="1013.tvguide.co.uk" stop="20230309220000">
+    <title lang="en">UFOs Declassified</title>
+    <sub-title lang="en">UFO Crash Sites</sub-title>
+    <desc lang="en">An investigation into the Roswell incident in 1947, when a UFO landed in the New Mexico desert. At the time, the US army claimed it had recovered a 'flying saucer', but this was quickly retracted and the item was declared to be a humble weather balloon. Experts examine the evidence still available to try to reach a conclusive answer as to whether the crashed object was from Earth or another planet.</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <url>https://www.tvguide.co.uk/detail/2089719/81953574/ufos-declassified</url>
+    <episode-num system="xmltv_ns">0.3/6.</episode-num>
+    <star-rating>
+      <value>0.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309220000" channel="1013.tvguide.co.uk" stop="20230309230000">
+    <title lang="en">Alien Files: Unsealed</title>
+    <sub-title lang="en">Alien Implants</sub-title>
+    <desc lang="en">Reported accounts of alien encounters, hearing from people who believe that beings from other worlds have the means to control humanity.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/1896612/81953570/alien-files-unsealed</url>
+    <episode-num system="xmltv_ns">0.8/14.</episode-num>
+    <star-rating>
+      <value>0.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309230000" channel="1013.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Curse of Skinwalker Ranch</title>
+    <sub-title lang="en">Shocking Revelations</sub-title>
+    <desc lang="en">The team members get an otherworldly surprise as they shoot electricity into the soil of Skinwalker Ranch using high-powered Tesla Coils.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4329094/81953569/curse-of-skinwalker-ranch</url>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <star-rating>
+      <value>1/10</value>
     </star-rating>
   </programme>
   <programme start="20230308230000" channel="1014.tvguide.co.uk" stop="20230309000000">
@@ -210,12 +616,135 @@
       <value>0.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230308230000" channel="1154.tvguide.co.uk" stop="20230309000000">
+  <programme start="20230309000000" channel="1154.tvguide.co.uk" stop="20230309010000">
+    <title lang="en">Live: Petrie Hosken</title>
+    <sub-title lang="en">1</sub-title>
+    <desc lang="en">Petrie goes over the days big stories and gives us her take on things bringing the very best and latest news stories overnight..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/5020484/81965367/live-petrie-hosken</url>
+  </programme>
+  <programme start="20230309010000" channel="1154.tvguide.co.uk" stop="20230309020000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81965366/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309020000" channel="1154.tvguide.co.uk" stop="20230309030000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965368/your-west-midlands</url>
+  </programme>
+  <programme start="20230309030000" channel="1154.tvguide.co.uk" stop="20230309040000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965365/your-west-midlands</url>
+  </programme>
+  <programme start="20230309040000" channel="1154.tvguide.co.uk" stop="20230309050000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965361/your-west-midlands</url>
+  </programme>
+  <programme start="20230309050000" channel="1154.tvguide.co.uk" stop="20230309060000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965364/your-west-midlands</url>
+  </programme>
+  <programme start="20230309060000" channel="1154.tvguide.co.uk" stop="20230309070000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029424/81965358/your-west-midlands</url>
+  </programme>
+  <programme start="20230309070000" channel="1154.tvguide.co.uk" stop="20230309080000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029424/81965359/your-west-midlands</url>
+  </programme>
+  <programme start="20230309080000" channel="1154.tvguide.co.uk" stop="20230309100000">
+    <title lang="en">The Julia Hartley-Brewer Breakfast Show</title>
+    <desc lang="en">The Queen of Breakfast covers all the stories you need to know to start your day. Political heavyweights, no-nonsense interviews, and the only safe space for fierce opinions.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647805/81965363/the-julia-hartley-brewer-breakfast-show</url>
+  </programme>
+  <programme start="20230309100000" channel="1154.tvguide.co.uk" stop="20230309130000">
+    <title lang="en">The Independent Republic of Mike Graham</title>
+    <desc lang="en">The host tears his way through the morning newspapers, and brings a much-needed dose of common sense to the day's big stories.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647847/81965360/the-independent-republic-of-mike-graham</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309130000" channel="1154.tvguide.co.uk" stop="20230309140000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029426/81965374/your-west-midlands</url>
+  </programme>
+  <programme start="20230309140000" channel="1154.tvguide.co.uk" stop="20230309160000">
+    <title lang="en">Ian Collins</title>
+    <desc lang="en">Charm, wit and sophistication personified, Ian Collins, cuts through the echo-chamber with hard-hitting monologues, stimulating debates and dedicated time for your calls..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956313/81965371/ian-collins</url>
+  </programme>
+  <programme start="20230309160000" channel="1154.tvguide.co.uk" stop="20230309180000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81965375/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309180000" channel="1154.tvguide.co.uk" stop="20230309190000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965362/your-west-midlands</url>
+  </programme>
+  <programme start="20230309190000" channel="1154.tvguide.co.uk" stop="20230309200000">
+    <title lang="en">Jeremy Kyle Live</title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4833540/81965373/jeremy-kyle-live</url>
+    <star-rating>
+      <value>4.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309200000" channel="1154.tvguide.co.uk" stop="20230309210000">
     <title lang="en">Piers Morgan Uncensored</title>
     <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <url>https://www.tvguide.co.uk/detail/4648015/81945709/piers-morgan-uncensored</url>
+    <url>https://www.tvguide.co.uk/detail/4648015/81965369/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309210000" channel="1154.tvguide.co.uk" stop="20230309220000">
+    <title lang="en">Your West Midlands</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029428/81965376/your-west-midlands</url>
+  </programme>
+  <programme start="20230309220000" channel="1154.tvguide.co.uk" stop="20230309230000">
+    <title lang="en">First Edition</title>
+    <desc lang="en">TalkTV's flagship evening news programme takes an energetic look at tomorrow's news, tonight, through the lens of the newspaper first editions..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956315/81965372/first-edition</url>
+  </programme>
+  <programme start="20230309230000" channel="1154.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81965370/piers-morgan-uncensored</url>
     <star-rating>
       <value>0.2/10</value>
     </star-rating>
@@ -230,12 +759,162 @@
       <value>0.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230308230000" channel="1157.tvguide.co.uk" stop="20230309000000">
+  <programme start="20230309000000" channel="1157.tvguide.co.uk" stop="20230309010000">
+    <title lang="en">Live: Petrie Hosken</title>
+    <sub-title lang="en">1</sub-title>
+    <desc lang="en">Petrie goes over the days big stories and gives us her take on things bringing the very best and latest news stories overnight..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/5020484/81961411/live-petrie-hosken</url>
+  </programme>
+  <programme start="20230309010000" channel="1157.tvguide.co.uk" stop="20230309020000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81961415/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309020000" channel="1157.tvguide.co.uk" stop="20230309030000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961399/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309030000" channel="1157.tvguide.co.uk" stop="20230309040000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961400/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309040000" channel="1157.tvguide.co.uk" stop="20230309050000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961401/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309050000" channel="1157.tvguide.co.uk" stop="20230309060000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961397/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309060000" channel="1157.tvguide.co.uk" stop="20230309070000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073118/81961404/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309070000" channel="1157.tvguide.co.uk" stop="20230309080000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073118/81961408/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309080000" channel="1157.tvguide.co.uk" stop="20230309100000">
+    <title lang="en">The Julia Hartley-Brewer Breakfast Show</title>
+    <desc lang="en">The Queen of Breakfast covers all the stories you need to know to start your day. Political heavyweights, no-nonsense interviews, and the only safe space for fierce opinions.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647805/81961410/the-julia-hartley-brewer-breakfast-show</url>
+  </programme>
+  <programme start="20230309100000" channel="1157.tvguide.co.uk" stop="20230309130000">
+    <title lang="en">The Independent Republic of Mike Graham</title>
+    <desc lang="en">The host tears his way through the morning newspapers, and brings a much-needed dose of common sense to the day's big stories.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647847/81961406/the-independent-republic-of-mike-graham</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309130000" channel="1157.tvguide.co.uk" stop="20230309140000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073119/81961412/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309140000" channel="1157.tvguide.co.uk" stop="20230309160000">
+    <title lang="en">Ian Collins</title>
+    <desc lang="en">Charm, wit and sophistication personified, Ian Collins, cuts through the echo-chamber with hard-hitting monologues, stimulating debates and dedicated time for your calls..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956313/81961405/ian-collins</url>
+  </programme>
+  <programme start="20230309160000" channel="1157.tvguide.co.uk" stop="20230309180000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81961398/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309180000" channel="1157.tvguide.co.uk" stop="20230309190000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961407/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309190000" channel="1157.tvguide.co.uk" stop="20230309200000">
+    <title lang="en">Jeremy Kyle Live</title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4833540/81961413/jeremy-kyle-live</url>
+    <star-rating>
+      <value>4.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309200000" channel="1157.tvguide.co.uk" stop="20230309210000">
     <title lang="en">Piers Morgan Uncensored</title>
     <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <url>https://www.tvguide.co.uk/detail/4648015/81941137/piers-morgan-uncensored</url>
+    <url>https://www.tvguide.co.uk/detail/4648015/81961409/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309210000" channel="1157.tvguide.co.uk" stop="20230309220000">
+    <title lang="en">Your West Country</title>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4073120/81961402/your-west-country</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309220000" channel="1157.tvguide.co.uk" stop="20230309230000">
+    <title lang="en">First Edition</title>
+    <desc lang="en">TalkTV's flagship evening news programme takes an energetic look at tomorrow's news, tonight, through the lens of the newspaper first editions..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956315/81961403/first-edition</url>
+  </programme>
+  <programme start="20230309230000" channel="1157.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81961414/piers-morgan-uncensored</url>
     <star-rating>
       <value>0.2/10</value>
     </star-rating>
@@ -250,12 +929,171 @@
       <value>0.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20230308230000" channel="1171.tvguide.co.uk" stop="20230309000000">
+  <programme start="20230309000000" channel="1171.tvguide.co.uk" stop="20230309010000">
+    <title lang="en">Live: Petrie Hosken</title>
+    <sub-title lang="en">1</sub-title>
+    <desc lang="en">Petrie goes over the days big stories and gives us her take on things bringing the very best and latest news stories overnight..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/5020484/81959370/live-petrie-hosken</url>
+  </programme>
+  <programme start="20230309010000" channel="1171.tvguide.co.uk" stop="20230309020000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81959365/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309020000" channel="1171.tvguide.co.uk" stop="20230309030000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959361/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309030000" channel="1171.tvguide.co.uk" stop="20230309040000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959375/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309040000" channel="1171.tvguide.co.uk" stop="20230309050000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959358/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309050000" channel="1171.tvguide.co.uk" stop="20230309060000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959362/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309060000" channel="1171.tvguide.co.uk" stop="20230309070000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029443/81959359/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309070000" channel="1171.tvguide.co.uk" stop="20230309080000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029443/81959357/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309080000" channel="1171.tvguide.co.uk" stop="20230309100000">
+    <title lang="en">The Julia Hartley-Brewer Breakfast Show</title>
+    <desc lang="en">The Queen of Breakfast covers all the stories you need to know to start your day. Political heavyweights, no-nonsense interviews, and the only safe space for fierce opinions.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647805/81959367/the-julia-hartley-brewer-breakfast-show</url>
+  </programme>
+  <programme start="20230309100000" channel="1171.tvguide.co.uk" stop="20230309130000">
+    <title lang="en">The Independent Republic of Mike Graham</title>
+    <desc lang="en">The host tears his way through the morning newspapers, and brings a much-needed dose of common sense to the day's big stories.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4647847/81959372/the-independent-republic-of-mike-graham</url>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309130000" channel="1171.tvguide.co.uk" stop="20230309140000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029442/81959360/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309140000" channel="1171.tvguide.co.uk" stop="20230309160000">
+    <title lang="en">Ian Collins</title>
+    <desc lang="en">Charm, wit and sophistication personified, Ian Collins, cuts through the echo-chamber with hard-hitting monologues, stimulating debates and dedicated time for your calls..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956313/81959371/ian-collins</url>
+  </programme>
+  <programme start="20230309160000" channel="1171.tvguide.co.uk" stop="20230309180000">
+    <title lang="en">Vanessa Feltz</title>
+    <desc lang="en">Vanessa guides you through the big stories of the day from the world of politics, current affairs and showbiz. Big names, exclusive interviews, and your thoughts on what's got the nation talking.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4788842/81959364/vanessa-feltz</url>
+    <star-rating>
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309180000" channel="1171.tvguide.co.uk" stop="20230309190000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959374/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309190000" channel="1171.tvguide.co.uk" stop="20230309200000">
+    <title lang="en">Jeremy Kyle Live</title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4833540/81959373/jeremy-kyle-live</url>
+    <star-rating>
+      <value>4.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309200000" channel="1171.tvguide.co.uk" stop="20230309210000">
     <title lang="en">Piers Morgan Uncensored</title>
     <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <url>https://www.tvguide.co.uk/detail/4648015/81938754/piers-morgan-uncensored</url>
+    <url>https://www.tvguide.co.uk/detail/4648015/81959369/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309210000" channel="1171.tvguide.co.uk" stop="20230309220000">
+    <title lang="en">Your Wales</title>
+    <desc lang="en">Find out what's happening in Wales today with all the latest local news, opinions and events.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/4029444/81959368/your-wales</url>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309220000" channel="1171.tvguide.co.uk" stop="20230309230000">
+    <title lang="en">First Edition</title>
+    <desc lang="en">TalkTV's flagship evening news programme takes an energetic look at tomorrow's news, tonight, through the lens of the newspaper first editions..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4956315/81959366/first-edition</url>
+  </programme>
+  <programme start="20230309230000" channel="1171.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81959363/piers-morgan-uncensored</url>
     <star-rating>
       <value>0.2/10</value>
     </star-rating>
