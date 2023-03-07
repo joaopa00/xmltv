@@ -181,26 +181,6 @@ Après avoir envahi les librairies (une trentaine de romans publiés en vingt-ci
       <value>1/5</value>
     </star-rating>
   </programme>
-  <programme start="20230308225000" channel="C4.api.telerama.fr" stop="20230309003000">
-    <title>Ascension</title>
-    <desc lang="fr">Enquête sur la chaîne d'approvisionnement chinoise, qui révèle le fossé croissant entre les classes sociales du pays : un regard perçant sur le travail, la consommation et la richesse. - Critique : Quel point commun entre une chemise, une paire de jumelles et une poupée gonflable ? Réponse : la Chine, qui en maîtrise toutes les étapes de fabrication. Ainsi commence ce beau documentaire de l’Américaine d’origine chinoise Jessica Kingdon, nommé l’an dernier aux Oscars, consacré aux chaînes d’assemblage de ces objets destinés à être vendus dans le monde entier. Le niveau zéro d’un système économique dont on va gravir un à un tous les étages.
-
-Tout en bas : le travail à la chaîne, dont la mise en scène, le cadrage, le montage et la durée des plans traduisent ce qu’il a d’abrutissant et de dangereux. Tout en haut : des ultrariches, photographiés dans des hôtels de luxe. Entre les deux, c’est une logique ancestrale du capitalisme qui est à l’œuvre : plus on grimpe dans l’échelle sociale, moins le corps est mis à l’épreuve, remplacé par le langage, selon cette drôle d’idée que vendre un objet aurait plus de valeur que de le fabriquer. Avec sa succession de plans fixes sans commentaire, le film illustre brillamment ce vieux principe toujours en application. Et interroge avec intelligence, car très simplement, le « rêve chinois ». « Travaillez dur et tous vos rêves se réaliseront », martèlent les affiches de propagande. Sans donner plus de précisions quant à cet avenir, ni à ces rêves.</desc>
-    <credits>
-      <director>Jessica Kingdon</director>
-    </credits>
-    <date>2021</date>
-    <category lang="fr">film documentaire</category>
-    <length units="minutes">100</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/04/25/86b5e9df5b183b0425e0cfb1fd6ce449a9c38bf6.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>4/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230309231500" channel="C4.api.telerama.fr" stop="20230309235000">
     <title>Nous, les Européens</title>
     <sub-title>Stopper la violence : la méthode écossaise</sub-title>
@@ -245,21 +225,6 @@ Tout en bas : le travail à la chaîne, dont la mise en scène, le cadrage, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230308224000" channel="C80.api.telerama.fr" stop="20230309005500">
-    <title>La TV des 70's</title>
-    <sub-title>Quand Giscard était président</sub-title>
-    <desc lang="fr">En mai 1974, Valéry Giscard d'Estaing devient président de la République et veut imprimer une nouvelle ère de modernité. Une de ses premières décisions concernera l'éclatement de l'ORTF avec la création de trois nouvelles chaînes de télévision : TF1, Antenne 2 et FR3. Trois nouvelles chaînes publiques, mais autonomes et concurrentes. C'est une course à l'audience qui s'engage alors, et désormais les chaînes vont se faire la guerre. Cette concurrence va donner naissance à un véritable âge d'or pour les programmes de télévision, avec en première ligne les émissions de variétés. Les vedettes de la chanson vont envahir les salons des Français.</desc>
-    <category lang="fr">documentaire culture</category>
-    <length units="minutes">135</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/12/25/5f4b4be1d3bd1b92e410bec00fafd261f9d1a0e0.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230309233000" channel="C80.api.telerama.fr" stop="20230310014500">
     <title>ORTF : ils ont inventé la télévision</title>
     <sub-title>La télé du général</sub-title>
@@ -347,36 +312,6 @@ Tout en bas : le travail à la chaîne, dont la mise en scène, le cadrage, le 
     <category lang="fr">documentaire animalier</category>
     <length units="minutes">45</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/12/20/499768ce2fbd72e9b5c7a1bc66e9441bfa4aa6a2.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230308221000" channel="C445.api.telerama.fr" stop="20230309000300">
-    <title>Mongeville</title>
-    <sub-title>A l'heure de notre mort</sub-title>
-    <desc lang="fr">Saison:1 - Episode:2 - L'abbé Mazard, ancien directeur du pensionnat Saint-Louis, fermé depuis trente ans, est retrouvé mort dans l'établissement. Le lieutenant Axelle Ferrano, du SRPJ de Bordeaux, sollicite l'aide du juge Mongeville, qui dispose d'éléments sur une affaire obscure remontant à la fin des années 70 : un élève de Saint-Louis avait été soupçonné d'avoir volontairement provoqué la noyade de l'un de ses camarades dans la Garonne. Avec l'aide d'Axelle, Mongeville remonte encore plus loin dans le passé. Dans les années 30, le bâtiment abritait déjà un orphelinat. C'est là que se trouve la clé du meurtre de Mazard, commis près de 80 ans plus tard...</desc>
-    <credits>
-      <actor>Philippe Duclos</actor>
-      <actor>Erick Deshors</actor>
-      <actor>Francis Perrin</actor>
-      <actor>Pierre Aussedat</actor>
-      <actor>Gabrielle Forest</actor>
-      <actor>Isabelle Petit-Jacques</actor>
-      <actor>Bertrand Jean-Pierre</actor>
-      <actor>Marie Moute</actor>
-      <actor>Wiazemsky Léa</actor>
-      <actor>Roland Copé</actor>
-      <actor>Baillot Gauthier</actor>
-      <actor>Gueritte Maïa</actor>
-      <writer>Jacques Santamaria</writer>
-      <writer>Anne Queinnec</writer>
-    </credits>
-    <date>2015</date>
-    <category lang="fr">série policière</category>
-    <length units="minutes">113</length>
-    <icon src="https://focus.telerama.fr/1111x625/2023/02/16/1883bbfafdc9951bb6c74213cb7c470f512cd800.jpg" />
-    <episode-num system="xmltv_ns">0.1.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -412,17 +347,6 @@ Tout en bas : le travail à la chaîne, dont la mise en scène, le cadrage, le 
     <length units="minutes">25</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/09/27/ffecb3ba075f26e7cfb49aab0a73c3dc6be382a4.jpg" />
     <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230308224000" channel="C195.api.telerama.fr" stop="20230309002000">
-    <title>90' Enquêtes</title>
-    <sub-title>Adultères, filatures, disparitions : le monde secret des détectives privés</sub-title>
-    <desc lang="fr">Chaque émission couvre une grande thématique à travers plusieurs reportages et des interventions d'experts. S'inscrivant dans la lignée des grands magazines d'informations américains et de reportages, "90' Enquêtes" est un magazine 100% investigation.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">100</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/09/29/37007bdaafbf46abca5b9d1f0b8d7380478bca83.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -612,44 +536,6 @@ Tout en bas : le travail à la chaîne, dont la mise en scène, le cadrage, le 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230308221500" channel="C458.api.telerama.fr" stop="20230309002500">
-    <title>La montagne entre nous</title>
-    <desc lang="fr">Après l'annulation de leur vol en raison de problèmes météorologiques, un docteur, Ben Bass, et une reporter-photographe, Alex Martin, trouvent le moyen de louer un petit avion pour se rendre à bon port. Ils ont a peine fait connaissance avant que le vol s'achève tragiquement. Alex et Ben survivent au crash. Alex étant blessée à la jambe, Ben préfère rester sur place dans l'attente des secours. Alex lui révèle alors que le pilote n'a pas fait de plan de vol : personne ne sait qu'ils sont là. Afin de survivre, elle pousse Ben à quitter la carcasse de l'avion et à arpenter la montagne... - Critique : Quand sa scène de crash aérien est réus­sie, un film n’est jamais totalement raté. Ici, une femme et un homme embarquent dans un coucou alors qu’une tempête cloue au sol les avions de ligne. Ils ne se con­naissent pas : elle va se marier — ça serait mal vu d’arriver en retard —, il doit opérer d’urgence un patient. Le vol privé affrété en urgence vire à la catastrophe. Se détache une séquence secouante où Beau Bridges, pilote rougeaud, est victime d’un malaise en vol : AVC et météo précipitent l’avion en pleine montagne…
-
-Le chirurgien (forcément rationnel) sauvera-t-il la photographe (forcément intuitive) ? Ou l’inverse ? S’ils survivent au froid, quid du mariage prévu et, accessoirement, du malade ? Le grand charme des comédiens reste le principal atout du film : Idris Elba est un roc de douceur, et Kate Winslet a survécu au Titanic, c’est dire.</desc>
-    <credits>
-      <director>Hany Abu-Assad</director>
-      <actor>Beau Bridges</actor>
-      <actor>Dermot Mulroney</actor>
-      <actor>Kate Winslet</actor>
-      <actor>Sorensen Linda</actor>
-      <actor>Vincent Gale</actor>
-      <actor>Idris Elba</actor>
-      <actor>Nancy Sivak</actor>
-      <actor>Marci T</actor>
-      <actor>Lee Majdoub</actor>
-      <actor>Bethany Brown</actor>
-      <actor>Andres Joseph</actor>
-      <actor>Dania Nassar</actor>
-      <writer>Chris Weitz</writer>
-      <writer>J. Mills</writer>
-    </credits>
-    <date>2017</date>
-    <category lang="fr">film : drame</category>
-    <length units="minutes">130</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/5d03833d-af88-424c-8acd-f82c2b361eb7.jpg" />
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
   <programme start="20230309234600" channel="C458.api.telerama.fr" stop="20230310013500">
     <title>Au coeur de l'enquête</title>
     <sub-title>Bagarres, chauffards, vols, violences conjugales : alerte en Bourgogne</sub-title>
@@ -702,38 +588,6 @@ Le chirurgien (forcément rationnel) sauvera-t-il la photographe (forcément int
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230308221000" channel="C1403.api.telerama.fr" stop="20230309000000">
-    <title>Vert émeraude</title>
-    <desc lang="fr">Jeune voyageuse du temps missionnée par la Loge des Veilleurs du temps, Gwendolyn vit son premier chagrin d'amour. Après que Gideon est parvenu à récupérer les mémoires du comte de Saint-Germain et que Whitman a été désigné nouveau maître des Veilleurs, un nouveau plan est élaboré et la jeune fille se rend de nouveau dans le passé pour affronter ses ennemis et rétablir l'ordre présent...</desc>
-    <credits>
-      <actor>Katharina Thalbach</actor>
-      <actor>Silberschneider Johannes</actor>
-      <actor>Peter Simonischek</actor>
-      <actor>Rolf Kanies</actor>
-      <actor>Kostja Ullmann</actor>
-      <actor>Josefine Preuß</actor>
-      <actor>Maria Ehrich</actor>
-      <actor>Florian Bartholomäi</actor>
-      <actor>Jannis Niewöhner</actor>
-      <actor>Laura Berlin</actor>
-      <actor>Lion Wasczyk</actor>
-      <actor>Johannes von</actor>
-      <writer>Felix Fuchssteiner</writer>
-      <writer>Katharina Schöde</writer>
-    </credits>
-    <date>2016</date>
-    <category lang="fr">film fantastique</category>
-    <length units="minutes">110</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/e4d5e736-6d7c-4121-8080-f2708a951dad.jpg" />
-    <audio>
-      <stereo>bilingual</stereo>
-    </audio>
-    <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme start="20230309230000" channel="C1403.api.telerama.fr" stop="20230309233000">

@@ -1,9 +1,9 @@
 Code 200
-Content-Length 76667
+Content-Length 76673
 Content-Type text/html;charset=UTF-8
-MD5 0cb0a1e3a326128daaa3de5dbfc48994
+MD5 63356ab537e2d6e5ada2559f88d3b6d5
 Url https://www.tvguide.co.uk/channellistings.asp?ch=374&cTime=03%2F07%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677876414
+X-HCT-LastUpdated 1678128874
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677876414
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            3 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -264,7 +264,7 @@ X-HCT-LastUpdated 1677876414
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3</span>
+		</span><span class="programmeheading">3.1</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -306,7 +306,7 @@ X-HCT-LastUpdated 1677876414
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3</span>
+		</span><span class="programmeheading">3.1</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -432,7 +432,7 @@ X-HCT-LastUpdated 1677876414
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">4.7</span>
+		</span><span class="programmeheading">4.5</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1020,7 +1020,7 @@ X-HCT-LastUpdated 1677876414
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.3</span>
+		</span><span class="programmeheading">3.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1404,7 +1404,7 @@ X-HCT-LastUpdated 1677876414
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3</span>
+		</span><span class="programmeheading">3.1</span>
 		</td>
 		</tr></table>
 	</td></tr>

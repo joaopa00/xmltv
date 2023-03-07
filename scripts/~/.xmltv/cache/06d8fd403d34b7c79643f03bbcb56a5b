@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 ec3c2475a6892a775b9e463d215767bf
+MD5 213a8b31de29c3a4e541fb16c61f9609
 Url https://www.tvguide.co.uk/detail/5031207/81988587/football-focus
-X-HCT-LastUpdated 1677906275
+X-HCT-LastUpdated 1678157992
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677906275
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663328498" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664189455" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663328498" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664189455" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -557,15 +557,15 @@ $('#articleCarousel').carousel({
     
 	<div id="divCentre">
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
-        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">7.4</div>
+        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">7.3</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>1303 votes
+            	USER RATING<br>1305 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
                     <script language="javascript" src="https://cdn.tvguide.co.uk/_ui/rateit/jquery.rateit.min.js"></script>
                     <div id="rateit" class="rateit tvgstars" data-rateit-starwidth="16" data-rateit-starheight="15" data-rateit-resetable="false" data-rateit-max="10" 
-                    	data-rateit-step="1" data-rateit-value="7.4"></div>
+                    	data-rateit-step="1" data-rateit-value="7.3"></div>
                     <script type="text/javascript">
                         $('#rateit').on('beforerated', function (e, value) {
                           if (!confirm('Are you sure you want to rate this item: ' +  value + ' out of 10?')) {
@@ -618,7 +618,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Football Focus"/>
-                                <meta itemprop="votes" content="1303"/>
+                                <meta itemprop="votes" content="1305"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -626,9 +626,9 @@ $('#articleCarousel').carousel({
                                         Rating<br></span>
                                     <span class="programmeheading" itemprop="average" 
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
-                                        7.4</span><br>
+                                        7.3</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        1303 votes</span>
+                                        1305 votes</span>
                                  </span>
                             </span>
                         
@@ -701,7 +701,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663328498</div>
+<div style="color:#000000">664189455</div>
 
 
 <script>

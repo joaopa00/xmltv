@@ -1,9 +1,9 @@
 Code 200
-Content-Length 64554
+Content-Length 64627
 Content-Type text/html;charset=UTF-8
-MD5 428b8fb1959b54ccfd1ae3c91d9f1472
+MD5 9505fe5c017468545a41ca77484e2ce1
 Url https://www.tvguide.co.uk/channellistings.asp?ch=508&cTime=03%2F11%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677904664
+X-HCT-LastUpdated 1678169348
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677904664
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -920,14 +920,14 @@ X-HCT-LastUpdated 1677904664
 	</tr><tr>
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">9:00pm </span><br>
-		 <a href="https://www.tvguide.co.uk/detail/4045161/82093184/alt"  title="Click to rate and review"><span class="programmeheading" >ALT</span><br>
-<b><span class="season">Season 3 </span> <span class="season">Episode 6 of 8</span></b><br>
-		<span class="programmetext">Including a performance by Astrid, harpist Rachel Newton sings a Gaelic song accompanied by fiddle and percussion and Eddi Reader chats about her love of Robert Burns</span></a><br>
+		 <a href="https://www.tvguide.co.uk/detail/5020647/82128513/seirm"  title="Click to rate and review"><span class="programmeheading" >Seirm</span><br>
+<b><span class="season">Season 9 </span> <span class="season">Episode 4 of 9</span></b><br><span class="tvchannel">Celtic Connections</span>
+		<span class="programmetext">Mary Ann Kennedy presents traditional and roots music from Celtic Connections 2023, featuring a cross section of performances from some of the best acts appearing at the festival</span></a><br>
 <span class="tvchannel">Category </span><span class="programmetext">Music/Ballet/Dance</span></a><br>
 
 	<span class='tvchannel'>(Subtitles)</span> 
 <div class="buttons"> 
-	<a href="https://www.tvguide.co.uk/detail/4045161/82093184/alt"  title="Comment on ALT">Comment on ALT</a>
+	<a href="https://www.tvguide.co.uk/detail/5020647/82128513/seirm"  title="Comment on Seirm">Comment on Seirm</a>
 </div>
 
 
@@ -936,7 +936,7 @@ X-HCT-LastUpdated 1677904664
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">5</span>
+		</span><span class="programmeheading">6.3</span>
 		</td>
 		</tr></table>
 	</td></tr>

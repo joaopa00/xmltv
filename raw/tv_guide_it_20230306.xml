@@ -1398,12 +1398,6 @@
   <programme start="20230306093000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
   </programme>
-  <programme start="20230306093000 +0100" channel="raiscuola.rai.it">
-    <title lang="it">Progetto Scienza Files: Le meraviglie de</title>
-  </programme>
-  <programme start="20230306093500 +0100" channel="raiscuola.rai.it">
-    <title lang="it">Le meraviglie delle statistiche</title>
-  </programme>
   <programme start="20230306103500 +0100" channel="raiscuola.rai.it">
     <title lang="it">L'uomo dei boschi Nella foresta di Casta</title>
   </programme>
@@ -1417,12 +1411,6 @@
     <title lang="it">Progetto Scienza 2022 Newton - p.07</title>
     <sub-title lang="it">Te</sub-title>
   </programme>
-  <programme start="20230306131000 +0100" channel="raiscuola.rai.it">
-    <title lang="it">Progetto Scienza Files: La storia dell'e</title>
-  </programme>
-  <programme start="20230306132000 +0100" channel="raiscuola.rai.it">
-    <title lang="it">La storia dell'elettricità La storia del</title>
-  </programme>
   <programme start="20230306140000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Ordine e Disordine (1Â° parte): L'energia</title>
   </programme>
@@ -1432,27 +1420,48 @@
   <programme start="20230306153500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
   </programme>
+  <programme start="20230306155000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
+  </programme>
   <programme start="20230306160000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Memex Sperimentiamo! p. 16</title>
     <sub-title lang="it">Sole</sub-title>
   </programme>
-  <programme start="20230306163000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306162500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
   </programme>
-  <programme start="20230306173000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306172500 +0100" channel="raiscuola.rai.it">
     <title lang="it">I segreti del colore Dal modello al muro</title>
   </programme>
-  <programme start="20230306180000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306175500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Digital World Algoritmo: cos' Ã¨ e perchÃ©</title>
   </programme>
-  <programme start="20230306183000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306182000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Invito alla lettura 2 Biblioteca di clas</title>
   </programme>
-  <programme start="20230306184500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306183500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Invito alla lettura 2 Strategie metacogn</title>
   </programme>
-  <programme start="20230306190000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230306185000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Le origini del</title>
+  </programme>
+  <programme start="20230306190500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">L'uomo dei boschi La Cevenne bosco della</title>
+  </programme>
+  <programme start="20230306195500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">I grandi eventi della natura (ep. 4): La</title>
+  </programme>
+  <programme start="20230306204500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza Files: Le meraviglie de</title>
+  </programme>
+  <programme start="20230306205500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le meraviglie delle statistiche</title>
+  </programme>
+  <programme start="20230306215500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza Files: La storia dell'e</title>
+  </programme>
+  <programme start="20230306220000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">La storia dell'elettricità La storia del</title>
   </programme>
   <programme start="20230306230000 +0100" channel="raiscuola.rai.it">
     <title lang="it">TGR/LEONARDO 22/23</title>
@@ -1466,37 +1475,58 @@
   <programme start="20230307001500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Di là dal fiume tra gli alberi L'isola d</title>
   </programme>
-  <programme start="20230307010000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307011000 +0100" channel="raiscuola.rai.it">
     <title lang="it">The Secret Life of Books. Serie 1 Jane E</title>
   </programme>
-  <programme start="20230307013000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307014000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Inglese NON E' MAI TROPPO PRESTO</title>
     <sub-title lang="it">i bam</sub-title>
   </programme>
   <programme start="20230307014500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Patrimonio Immateriale ed Archeologico S</title>
+  </programme>
+  <programme start="20230307015000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Le origini del</title>
   </programme>
-  <programme start="20230307020000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307020500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
   </programme>
-  <programme start="20230307021500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307022000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
   </programme>
   <programme start="20230307023000 +0100" channel="raiscuola.rai.it">
     <title lang="it">The Core</title>
     <sub-title lang="it">Viaggio al centro della Terra</sub-title>
   </programme>
-  <programme start="20230307033000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307032000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Storia in brev</title>
+  </programme>
+  <programme start="20230307033500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Una lunga fede</title>
   </programme>
   <programme start="20230307034500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Strumenti: Il</title>
   </programme>
-  <programme start="20230307040000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307035500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Una lunga fede</title>
   </programme>
-  <programme start="20230307041500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307041000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Una lunga fede</title>
+  </programme>
+  <programme start="20230307042000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Big Cities Amman Il teatro unisce</title>
+  </programme>
+  <programme start="20230307042500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">I grandi della letteratura italiana Pier</title>
+  </programme>
+  <programme start="20230307052000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Una lunga fede</title>
+  </programme>
+  <programme start="20230307053000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
+  </programme>
+  <programme start="20230307054500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e pensier</title>
   </programme>
   <programme start="20230306060000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>

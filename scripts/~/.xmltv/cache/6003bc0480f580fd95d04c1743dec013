@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 b45e1f170bf8fd9f9d3113ee4286c987
+MD5 d410e26afba5640e3eb4d95e4a65fa39
 Url https://www.tvguide.co.uk/detail/2401549/81972380/mock-the-week
-X-HCT-LastUpdated 1677897642
+X-HCT-LastUpdated 1678149336
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677897642
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663407953" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664317581" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663407953" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664317581" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -608,7 +608,7 @@ $('#articleCarousel').carousel({
                     </script>  
             </div>
             <div style="width:auto; margin:0 10px; height:50px; color:#FFF; font-size:28px; text-align:center; line-height:50px; float:left;">
-            164
+            166
             </div>
             <div style="height:32px; padding:0; margin:9px 0; float:left; width:145px;line-height:16px;">
             	SHOW REVIEWS<br>
@@ -691,6 +691,24 @@ $('#articleCarousel').carousel({
             <h2>TVGuide.co.uk User Reviews</h2>
     		
             <p>
+                <span class="tvchannel">Love it</span><br>
+                <span class="commenttext">This is a very good show and I agree Milton who looks like an idiot is  very clever.  More please but more up to date would be good.</span></a><br>
+                <span class="tvchannel">Fan</span> &nbsp;
+                <span class="datetime">9:32pm Mon 6 Mar
+                    <a class="report-abuse" onClick="commentmail('463990')">Report Abuse</a>
+                </span>
+            </p>
+    		
+            <p>
+                <span class="tvchannel">Love it</span><br>
+                <span class="commenttext">This is a very good show and I agree Milton who looks like an idiot is  very clever.  More please but more up to date would be good.</span></a><br>
+                <span class="tvchannel">Fan</span> &nbsp;
+                <span class="datetime">9:31pm Mon 6 Mar
+                    <a class="report-abuse" onClick="commentmail('463989')">Report Abuse</a>
+                </span>
+            </p>
+    		
+            <p>
                 <span class="tvchannel">Fan</span><br>
                 <span class="commenttext">Seem to be no up to date shows on any more. Why?  We need more and more recent please.</span></a><br>
                 <span class="tvchannel">Izzy</span> &nbsp;
@@ -763,24 +781,6 @@ Ps. If I see Jack 'My Daddy Say's I'm Funny' Whitehall is on it, I change the ch
                     <a class="report-abuse" onClick="commentmail('166413')">Report Abuse</a>
                 </span>
             </p>
-    		
-            <p>
-                <span class="tvchannel">Mock</span><br>
-                <span class="commenttext">Its qualityyyyyyyyyyy</span></a><br>
-                <span class="tvchannel">Ken Jones</span> &nbsp;
-                <span class="datetime">9:13am Thu 9 Sep
-                    <a class="report-abuse" onClick="commentmail('164560')">Report Abuse</a>
-                </span>
-            </p>
-    		
-            <p>
-                <span class="tvchannel">brilliant</span><br>
-                <span class="commenttext">simply the best show on earth especially frankie boyle </span></a><br>
-                <span class="tvchannel">kev doog</span> &nbsp;
-                <span class="datetime">8:35pm Mon 9 Aug
-                    <a class="report-abuse" onClick="commentmail('157662')">Report Abuse</a>
-                </span>
-            </p>
             
 	</div>
     
@@ -824,7 +824,7 @@ Ps. If I see Jack 'My Daddy Say's I'm Funny' Whitehall is on it, I change the ch
 
 
 
-<div style="color:#000000">663407953</div>
+<div style="color:#000000">664317581</div>
 
 
 <script>

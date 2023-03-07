@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://mediaset.it,http://guidatv.sky.it,http://rai.it,http://mediaset_guidatv.it,http://mediasetpremium.mediaset.it,http://iris.mediaset.it,http://boingtv.it,http://la7.it" source-data-url="http://www.tv.mediaset.it/dati/palinsesto/palinsesto-mondotv.xml,http://guidatv.sky.it/,http://www.rai.it/,http://www.mediaset.it/guidatv/palinsesto.xml,http://www.mediasetpremium.mediaset.it/,http://iris.mediaset.it/palinsesto/palinsesto1.shtml,http://www.boingtv.it/xml/palinsesto.xml,http://www.la7.it/guidatv/index" generator-info-name="XMLTV" generator-info-url="http://xmltv.org/">
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <channel id="www.la7.it">
+    <display-name>La7</display-name>
+  </channel>
+  <channel id="www.raiuno.rai.it">
+    <display-name>Rai 1</display-name>
+  </channel>
+  <channel id="www.raidue.rai.it">
+    <display-name>Rai 2</display-name>
+  </channel>
+  <channel id="www.raitre.rai.it">
+    <display-name>Rai 3</display-name>
+  </channel>
+  <channel id="rai4.raisat.it">
+    <display-name>Rai 4</display-name>
+  </channel>
+  <channel id="raigulp.rai.it">
+    <display-name>Rai Gulp</display-name>
+  </channel>
+  <channel id="raimovie.rai.it">
+    <display-name>Rai Movie</display-name>
+  </channel>
+  <channel id="raiscuola.rai.it">
+    <display-name>Rai Scuola</display-name>
+  </channel>
+  <channel id="raistoria.rai.it">
+    <display-name>Rai Storia</display-name>
+  </channel>
+  <channel id="rai5.rai.it">
+    <display-name>Rai5</display-name>
+  </channel>
+  <channel id="yoyo.raisat.it">
+    <display-name>Yoyo</display-name>
+  </channel>
+  <programme start="20230311060000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311060500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311061600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311062800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311063000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311063700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311064800 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311065800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311070000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311070500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311072800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311073000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311073500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311074400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311075000 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311075800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311080000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311080500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311081600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311082800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311083000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311083700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311084700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311085800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311090000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311090500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311092800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311093000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311093500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311094400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311095000 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311095800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311100000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311100500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311101600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311102800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311103000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311103600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311104700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311105800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311110000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311110500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311112800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311113000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311113500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311114400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311114900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311115800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311120000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311120500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311121600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311122800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311123000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311123600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311124800 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311125800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311130000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311130500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311132800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311133000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311133500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311134400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311135000 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311135800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311140500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311141600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311142800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311143000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311143700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311144800 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311145800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311150000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311150500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311152800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311153000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311153500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311154400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311154900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311155800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311160000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311160500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311161600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311162800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311163000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311163700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311164800 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311165800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311170000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311170500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311172800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311173000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311173500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311174400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311174900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311175800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311180000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311180500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311181600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311182800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311183000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311183700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311184700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311185800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311190000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311190500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311192800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311193000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311193500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311194400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311194900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311195800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311200000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311200500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311201600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311202800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311203000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311203700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311204700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311205800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311210000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311210500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311212800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311213000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311213500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311214400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311214900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311215800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311220000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311220500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311221600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311222800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311223000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311223700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311224700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311225800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311230000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311230500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311231600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311232800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311233000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311233700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230311234700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230311235800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312000000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312000500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312002800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312003000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312003500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312004400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312004900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312005800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312010000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312010500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312011600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312012800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312013000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312013700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312014700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312015800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312020000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312020500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312022800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312023000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312023500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312024400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312024900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312025800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312030000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312030500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312031600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312032800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312033000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312033700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312034700 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312035800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312040000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312040500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312042800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312043000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312043500 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312044400 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312044900 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312045800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312050000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312050500 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312051600 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312052800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230312053000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230312053700 +0100" channel="euronews.rai.it">
+    <title lang="it">WITNESS</title>
+  </programme>
+  <programme start="20230312054800 +0100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20230312055800 +0100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Il caffÃ¨ di Rai 1</title>
+  </programme>
+  <programme start="20230311065500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Gli imperdibili</title>
+  </programme>
+  <programme start="20230311070000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG 1</title>
+  </programme>
+  <programme start="20230311070500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Rai Parlamento Settegiorni</title>
+  </programme>
+  <programme start="20230311080000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG1</title>
+  </programme>
+  <programme start="20230311081800 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Tg1 Dialogo</title>
+  </programme>
+  <programme start="20230311083000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">UnoMattina in famiglia</title>
+  </programme>
+  <programme start="20230311090000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG1</title>
+  </programme>
+  <programme start="20230311090400 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">UnoMattina in famiglia</title>
+  </programme>
+  <programme start="20230311093000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG1 L.I.S.</title>
+  </programme>
+  <programme start="20230311093300 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">UnoMattina in famiglia</title>
+  </programme>
+  <programme start="20230311102000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Buongiorno Benessere</title>
+  </programme>
+  <programme start="20230311111500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Gli imperdibili</title>
+  </programme>
+  <programme start="20230311112000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Passaggio a Nord-Ovest</title>
+  </programme>
+  <programme start="20230311120000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Linea Verde Start</title>
+    <sub-title lang="it">Puglia</sub-title>
+  </programme>
+  <programme start="20230311123000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Linea Verde Life</title>
+    <sub-title lang="it">Lucca</sub-title>
+  </programme>
+  <programme start="20230311133000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TELEGIORNALE</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Lineablu</title>
+    <sub-title lang="it">Marettimo</sub-title>
+  </programme>
+  <programme start="20230311150000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TV7 Reloaded</title>
+  </programme>
+  <programme start="20230311160500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">A Sua immagine</title>
+  </programme>
+  <programme start="20230311164500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG1</title>
+  </programme>
+  <programme start="20230311165500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20230311170000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">ItaliaSÃ¬!</title>
+  </programme>
+  <programme start="20230311184500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">L'Eredità Week End</title>
+  </programme>
+  <programme start="20230311200000 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TELEGIORNALE</title>
+  </programme>
+  <programme start="20230311203500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Ballando con le Stelle</title>
+  </programme>
+  <programme start="20230311234500 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">TG1 Sera</title>
+  </programme>
+  <programme start="20230311235200 +0100" channel="www.raiuno.rai.it">
+    <title lang="it">Ballando con le Stelle</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">La grande vallata</title>
+  </programme>
+  <programme start="20230311063500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Newton Edu</title>
+    <sub-title lang="it">Sistema solare: le lune deg</sub-title>
+  </programme>
+  <programme start="20230311071000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Papà a tempo pieno SÃ¬, forse</title>
+  </programme>
+  <programme start="20230311073000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Streghe</title>
+    <sub-title lang="it">Mi chiamo Sam</sub-title>
+  </programme>
+  <programme start="20230311081100 +0100" channel="www.raidue.rai.it">
+    <title lang="it">La mummia</title>
+  </programme>
+  <programme start="20230311085100 +0100" channel="www.raidue.rai.it">
+    <title lang="it">L'importanza di chiamarsi Phoebe</title>
+  </programme>
+  <programme start="20230311093000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Il mistero delle lettere perdute Il rega</title>
+  </programme>
+  <programme start="20230311105500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20230311110000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG Sport Giorno</title>
+  </programme>
+  <programme start="20230311111500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Check Up</title>
+  </programme>
+  <programme start="20230311120000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Dolce quiz</title>
+  </programme>
+  <programme start="20230311130000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG2</title>
+    <sub-title lang="it">GIORNO</sub-title>
+  </programme>
+  <programme start="20230311133000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG2 Week-End</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Il Provinciale Le Langhe: da terra della</title>
+  </programme>
+  <programme start="20230311145000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">La dottoressa dell'isola Un nuovo inizio</title>
+  </programme>
+  <programme start="20230311161500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Ti Sento</title>
+  </programme>
+  <programme start="20230311171500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Stop And Go</title>
+  </programme>
+  <programme start="20230311180000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Gli imperdibili</title>
+  </programme>
+  <programme start="20230311180500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG2 L.I.S.</title>
+  </programme>
+  <programme start="20230311180700 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20230311181000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG Sport Sera</title>
+  </programme>
+  <programme start="20230311182500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Dribbling</title>
+  </programme>
+  <programme start="20230311194000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">F.B.I. Discordia</title>
+  </programme>
+  <programme start="20230311203000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG2 -20.30</title>
+  </programme>
+  <programme start="20230311210500 +0100" channel="www.raidue.rai.it">
+    <title lang="it">S.W.A.T.</title>
+    <sub-title lang="it">Ferite aperte</sub-title>
+  </programme>
+  <programme start="20230311215100 +0100" channel="www.raidue.rai.it">
+    <title lang="it">L'appostamento 1^ Visione Rai</title>
+  </programme>
+  <programme start="20230311224000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">Clarice Chiudi gli occhi 1^ Visione Rai</title>
+  </programme>
+  <programme start="20230311233000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">TG2</title>
+    <sub-title lang="it">Dossier</sub-title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="www.raidue.rai.it">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">RaiNews24</title>
+  </programme>
+  <programme start="20230311080000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Agorà weekend</title>
+  </programme>
+  <programme start="20230311090000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Mi manda Raitre</title>
+  </programme>
+  <programme start="20230311102500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Timeline Focus</title>
+  </programme>
+  <programme start="20230311104500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR Amici Animali</title>
+  </programme>
+  <programme start="20230311110000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR BellItalia</title>
+  </programme>
+  <programme start="20230311113000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR Officina Italia</title>
+  </programme>
+  <programme start="20230311120000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20230311121800 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3 persone</title>
+  </programme>
+  <programme start="20230311122500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR Il Settimanale</title>
+  </programme>
+  <programme start="20230311125500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR Petrarca</title>
+  </programme>
+  <programme start="20230311132500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TGR Mezzogiorno Italia</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20230311141800 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20230311142000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20230311144500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3 Pixel</title>
+  </programme>
+  <programme start="20230311144900 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20230311145500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3 L.I.S.</title>
+  </programme>
+  <programme start="20230311150000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Gli imperdibili</title>
+  </programme>
+  <programme start="20230311150500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TV Talk</title>
+  </programme>
+  <programme start="20230311163500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Frontiere</title>
+  </programme>
+  <programme start="20230311173000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Report</title>
+  </programme>
+  <programme start="20230311185500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20230311190000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3</title>
+  </programme>
+  <programme start="20230311193000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20230311195100 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG Regione Meteo</title>
+  </programme>
+  <programme start="20230311200000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Blob</title>
+  </programme>
+  <programme start="20230311202000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Le parole</title>
+  </programme>
+  <programme start="20230311214500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Sapiens, un solo pianeta</title>
+  </programme>
+  <programme start="20230311235500 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG Regione</title>
+  </programme>
+  <programme start="20230312000000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">TG3 Mondo</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="www.raitre.rai.it">
+    <title lang="it">Fuori orario</title>
+  </programme>
+  <programme start="20230311061500 +0100" channel="rai4.raisat.it">
+    <title lang="it">Senza Traccia</title>
+    <sub-title lang="it">Stagione 2 Episodio 6</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+  </programme>
+  <programme start="20230311065600 +0100" channel="rai4.raisat.it">
+    <title lang="it">Senza Traccia</title>
+    <sub-title lang="it">Stagione 2 Episodio 7</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311073900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Senza Traccia</title>
+    <sub-title lang="it">Stagione 2 Episodio 8</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+  </programme>
+  <programme start="20230311082600 +0100" channel="rai4.raisat.it">
+    <title lang="it">Senza Traccia</title>
+    <sub-title lang="it">Stagione 2 Episodio 9</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">1.8.0/1</episode-num>
+  </programme>
+  <programme start="20230311090800 +0100" channel="rai4.raisat.it">
+    <title lang="it">Senza Traccia</title>
+    <sub-title lang="it">Stagione 2 Episodio 10</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">1.9.0/1</episode-num>
+  </programme>
+  <programme start="20230311095200 +0100" channel="rai4.raisat.it">
+    <title lang="it">Fumettology III pt.9</title>
+    <sub-title lang="it">Lukas</sub-title>
+  </programme>
+  <programme start="20230311102100 +0100" channel="rai4.raisat.it">
+    <title lang="it">Criminal Minds</title>
+    <sub-title lang="it">Stagione 10 Episodio 3</sub-title>
+    <episode-num system="onscreen">Stagione 10 Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">9.2.0/1</episode-num>
+  </programme>
+  <programme start="20230311110600 +0100" channel="rai4.raisat.it">
+    <title lang="it">Criminal Minds</title>
+    <sub-title lang="it">Stagione 10 Episodio 4</sub-title>
+    <episode-num system="onscreen">Stagione 10 Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">9.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311115100 +0100" channel="rai4.raisat.it">
+    <title lang="it">Criminal Minds</title>
+    <sub-title lang="it">Stagione 10 Episodio 5</sub-title>
+    <episode-num system="onscreen">Stagione 10 Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">9.4.0/1</episode-num>
+  </programme>
+  <programme start="20230311123700 +0100" channel="rai4.raisat.it">
+    <title lang="it">Criminal Minds</title>
+    <sub-title lang="it">Stagione 10 Episodio 6</sub-title>
+    <episode-num system="onscreen">Stagione 10 Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">9.5.0/1</episode-num>
+  </programme>
+  <programme start="20230311132000 +0100" channel="rai4.raisat.it">
+    <title lang="it">Criminal Minds</title>
+    <sub-title lang="it">Stagione 10 Episodio 7</sub-title>
+    <episode-num system="onscreen">Stagione 10 Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">9.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311141200 +0100" channel="rai4.raisat.it">
+    <title lang="it">Fuga nella giungla</title>
+  </programme>
+  <programme start="20230311160200 +0100" channel="rai4.raisat.it">
+    <title lang="it">Halt &amp; Catch Fire</title>
+    <sub-title lang="it">Stagione 3 Episodio 9</sub-title>
+    <episode-num system="onscreen">Stagione 3 Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
+  </programme>
+  <programme start="20230311165000 +0100" channel="rai4.raisat.it">
+    <title lang="it">Halt &amp; Catch Fire</title>
+    <sub-title lang="it">Stagione 3 Episodio 10</sub-title>
+    <episode-num system="onscreen">Stagione 3 Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
+  </programme>
+  <programme start="20230311173900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Scorpion</title>
+    <sub-title lang="it">Stagione 4 Episodio 12</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">3.11.0/1</episode-num>
+  </programme>
+  <programme start="20230311182000 +0100" channel="rai4.raisat.it">
+    <title lang="it">Scorpion</title>
+    <sub-title lang="it">Stagione 4 Episodio 13</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 13</episode-num>
+    <episode-num system="xmltv_ns">3.12.0/1</episode-num>
+  </programme>
+  <programme start="20230311190500 +0100" channel="rai4.raisat.it">
+    <title lang="it">Scorpion</title>
+    <sub-title lang="it">Stagione 4 Episodio 14</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 14</episode-num>
+    <episode-num system="xmltv_ns">3.13.0/1</episode-num>
+  </programme>
+  <programme start="20230311194900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Scorpion</title>
+    <sub-title lang="it">Stagione 4 Episodio 15</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 15</episode-num>
+    <episode-num system="xmltv_ns">3.14.0/1</episode-num>
+  </programme>
+  <programme start="20230311202900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Scorpion</title>
+    <sub-title lang="it">Stagione 4 Episodio 16</sub-title>
+    <episode-num system="onscreen">Stagione 4 Episodio 16</episode-num>
+    <episode-num system="xmltv_ns">3.15.0/1</episode-num>
+  </programme>
+  <programme start="20230311212000 +0100" channel="rai4.raisat.it">
+    <title lang="it">Una vita tranquilla</title>
+  </programme>
+  <programme start="20230311230900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Wonderland</title>
+    <sub-title lang="it">Il Giallo e la Nera pt.6</sub-title>
+  </programme>
+  <programme start="20230311231900 +0100" channel="rai4.raisat.it">
+    <title lang="it">Crimini</title>
+    <sub-title lang="it">Disegno di sangue</sub-title>
+  </programme>
+  <programme start="20230311060500 +0100" channel="raigulp.rai.it">
+    <title lang="it">IDEFIX E GLI IRRIDUCIBILI</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311061500 +0100" channel="raigulp.rai.it">
+    <title lang="it">IDEFIX E GLI IRRIDUCIBILI</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311063000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (III)</title>
+    <sub-title lang="it">Episodio 15</sub-title>
+    <episode-num system="onscreen">Episodio 15</episode-num>
+    <episode-num system="xmltv_ns">.14.0/1</episode-num>
+  </programme>
+  <programme start="20230311064000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (III)</title>
+    <sub-title lang="it">Episodio 16</sub-title>
+    <episode-num system="onscreen">Episodio 16</episode-num>
+    <episode-num system="xmltv_ns">.15.0/1</episode-num>
+  </programme>
+  <programme start="20230311065500 +0100" channel="raigulp.rai.it">
+    <title lang="it">ZORRO</title>
+    <sub-title lang="it">Episodio 4 - LA LEGGENDA</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311072000 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI (II)</title>
+    <sub-title lang="it">Episodio 19</sub-title>
+    <episode-num system="onscreen">Episodio 19</episode-num>
+    <episode-num system="xmltv_ns">.18.0/1</episode-num>
+  </programme>
+  <programme start="20230311073000 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI (II)</title>
+    <sub-title lang="it">Episodio 20</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311074500 +0100" channel="raigulp.rai.it">
+    <title lang="it">BABY BOSS - DI NUOVO IN AFFARI (II)</title>
+    <sub-title lang="it">EP</sub-title>
+  </programme>
+  <programme start="20230311081000 +0100" channel="raigulp.rai.it">
+    <title lang="it">REGAL ACADEMY (II)</title>
+    <sub-title lang="it">Episodio 12</sub-title>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">.11.0/1</episode-num>
+  </programme>
+  <programme start="20230311083000 +0100" channel="raigulp.rai.it">
+    <title lang="it">GREEN METEO 2022-23</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311083500 +0100" channel="raigulp.rai.it">
+    <title lang="it">MIA AND ME (IV)</title>
+    <sub-title lang="it">Episodio 16</sub-title>
+    <episode-num system="onscreen">Episodio 16</episode-num>
+    <episode-num system="xmltv_ns">.15.0/1</episode-num>
+  </programme>
+  <programme start="20230311085500 +0100" channel="raigulp.rai.it">
+    <title lang="it">LE AVVENTURE DI TOM SAWYER</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311092000 +0100" channel="raigulp.rai.it">
+    <title lang="it">CRUSH</title>
+    <sub-title lang="it">Episodio 1 - LA STORIA DI TAMINA</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311094500 +0100" channel="raigulp.rai.it">
+    <title lang="it">CRUSH</title>
+    <sub-title lang="it">Episodio 2 - LA STORIA DI TAMINA</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311101000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (II)</title>
+    <sub-title lang="it">Episodio 23</sub-title>
+    <episode-num system="onscreen">Episodio 23</episode-num>
+    <episode-num system="xmltv_ns">.22.0/1</episode-num>
+  </programme>
+  <programme start="20230311102000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (II)</title>
+    <sub-title lang="it">Episodio 24</sub-title>
+    <episode-num system="onscreen">Episodio 24</episode-num>
+    <episode-num system="xmltv_ns">.23.0/1</episode-num>
+  </programme>
+  <programme start="20230311103000 +0100" channel="raigulp.rai.it">
+    <title lang="it">WINX CLUB (VII)</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311105500 +0100" channel="raigulp.rai.it">
+    <title lang="it">WINX CLUB (VII)</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311112000 +0100" channel="raigulp.rai.it">
+    <title lang="it">MARBLEGEN</title>
+    <sub-title lang="it">Episodio 26</sub-title>
+    <episode-num system="onscreen">Episodio 26</episode-num>
+    <episode-num system="xmltv_ns">.25.0/1</episode-num>
+  </programme>
+  <programme start="20230311114500 +0100" channel="raigulp.rai.it">
+    <title lang="it">KIDS VET ACADEMY</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311120000 +0100" channel="raigulp.rai.it">
+    <title lang="it">BABY BOSS - DI NUOVO IN AFFARI (II)</title>
+    <sub-title lang="it">EP</sub-title>
+  </programme>
+  <programme start="20230311122500 +0100" channel="raigulp.rai.it">
+    <title lang="it">SEVEN AND ME (II)</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311125000 +0100" channel="raigulp.rai.it">
+    <title lang="it">BELLI DI NATURA</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311125500 +0100" channel="raigulp.rai.it">
+    <title lang="it">CORTO MALTESE</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311132000 +0100" channel="raigulp.rai.it">
+    <title lang="it">WINX CLUB (VII)</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311134500 +0100" channel="raigulp.rai.it">
+    <title lang="it">WINX CLUB (VII)</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311141000 +0100" channel="raigulp.rai.it">
+    <title lang="it">CRUSH</title>
+    <sub-title lang="it">Episodio 3 - LA STORIA DI TAMINA</sub-title>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme start="20230311143500 +0100" channel="raigulp.rai.it">
+    <title lang="it">I RACCONTI DI PARVANA</title>
+    <sub-title lang="it">THE BREADWINNER</sub-title>
+  </programme>
+  <programme start="20230311160500 +0100" channel="raigulp.rai.it">
+    <title lang="it">PAF IL CANE</title>
+    <sub-title lang="it">Episodio 62</sub-title>
+    <episode-num system="onscreen">Episodio 62</episode-num>
+    <episode-num system="xmltv_ns">.61.0/1</episode-num>
+  </programme>
+  <programme start="20230311161500 +0100" channel="raigulp.rai.it">
+    <title lang="it">MARTA ED EVA (II)</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311164000 +0100" channel="raigulp.rai.it">
+    <title lang="it">METEO SPAZIO 2022-23</title>
+    <sub-title lang="it">Episodio 19</sub-title>
+    <episode-num system="onscreen">Episodio 19</episode-num>
+    <episode-num system="xmltv_ns">.18.0/1</episode-num>
+  </programme>
+  <programme start="20230311165000 +0100" channel="raigulp.rai.it">
+    <title lang="it">LE NUOVE AVVENTURE DI PETER PAN</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311171500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI</title>
+    <sub-title lang="it">Episodio 51</sub-title>
+    <episode-num system="onscreen">Episodio 51</episode-num>
+    <episode-num system="xmltv_ns">.50.0/1</episode-num>
+  </programme>
+  <programme start="20230311172500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI</title>
+    <sub-title lang="it">Episodio 52</sub-title>
+    <episode-num system="onscreen">Episodio 52</episode-num>
+    <episode-num system="xmltv_ns">.51.0/1</episode-num>
+  </programme>
+  <programme start="20230311174000 +0100" channel="raigulp.rai.it">
+    <title lang="it">VITA DA GIUNGLA (III)</title>
+    <sub-title lang="it">Episodio 12</sub-title>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">.11.0/1</episode-num>
+  </programme>
+  <programme start="20230311175000 +0100" channel="raigulp.rai.it">
+    <title lang="it">VITA DA GIUNGLA (III)</title>
+    <sub-title lang="it">Episodio 13</sub-title>
+    <episode-num system="onscreen">Episodio 13</episode-num>
+    <episode-num system="xmltv_ns">.12.0/1</episode-num>
+  </programme>
+  <programme start="20230311180000 +0100" channel="raigulp.rai.it">
+    <title lang="it">VITA DA GIUNGLA (III)</title>
+    <sub-title lang="it">Episodio 14</sub-title>
+    <episode-num system="onscreen">Episodio 14</episode-num>
+    <episode-num system="xmltv_ns">.13.0/1</episode-num>
+  </programme>
+  <programme start="20230311181500 +0100" channel="raigulp.rai.it">
+    <title lang="it">LE AVVENTURE DI TOM SAWYER</title>
+    <sub-title lang="it">Episodio 13</sub-title>
+    <episode-num system="onscreen">Episodio 13</episode-num>
+    <episode-num system="xmltv_ns">.12.0/1</episode-num>
+  </programme>
+  <programme start="20230311184000 +0100" channel="raigulp.rai.it">
+    <title lang="it">LUCAS ETC.</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311184500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GRANI DI PEPE (XII)</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme start="20230311191000 +0100" channel="raigulp.rai.it">
+    <title lang="it">CRUSH</title>
+    <sub-title lang="it">Episodio 3 - LA STORIA DI TAMINA</sub-title>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme start="20230311193500 +0100" channel="raigulp.rai.it">
+    <title lang="it">ZORRO</title>
+    <sub-title lang="it">Episodio 20 - LA LEGGENDA</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311200000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (II)</title>
+    <sub-title lang="it">Episodio 20</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311201500 +0100" channel="raigulp.rai.it">
+    <title lang="it">MIA AND ME (IV)</title>
+    <sub-title lang="it">Episodio 17</sub-title>
+    <episode-num system="onscreen">Episodio 17</episode-num>
+    <episode-num system="xmltv_ns">.16.0/1</episode-num>
+  </programme>
+  <programme start="20230311204000 +0100" channel="raigulp.rai.it">
+    <title lang="it">MIA AND ME (IV)</title>
+    <sub-title lang="it">Episodio 18</sub-title>
+    <episode-num system="onscreen">Episodio 18</episode-num>
+    <episode-num system="xmltv_ns">.17.0/1</episode-num>
+  </programme>
+  <programme start="20230311210500 +0100" channel="raigulp.rai.it">
+    <title lang="it">JACKIE AND OOPJEN</title>
+  </programme>
+  <programme start="20230311223000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROCCA CAMBIA IL MONDO</title>
+  </programme>
+  <programme start="20230312001000 +0100" channel="raigulp.rai.it">
+    <title lang="it">POV</title>
+    <sub-title lang="it">Episodio 7 - I PRIMI ANNI (II)</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230312002000 +0100" channel="raigulp.rai.it">
+    <title lang="it">BABY BOSS - DI NUOVO IN AFFARI (II)</title>
+    <sub-title lang="it">EP</sub-title>
+  </programme>
+  <programme start="20230312004500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI</title>
+    <sub-title lang="it">Episodio 51</sub-title>
+    <episode-num system="onscreen">Episodio 51</episode-num>
+    <episode-num system="xmltv_ns">.50.0/1</episode-num>
+  </programme>
+  <programme start="20230312005500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GORMITI</title>
+    <sub-title lang="it">Episodio 52</sub-title>
+    <episode-num system="onscreen">Episodio 52</episode-num>
+    <episode-num system="xmltv_ns">.51.0/1</episode-num>
+  </programme>
+  <programme start="20230312010500 +0100" channel="raigulp.rai.it">
+    <title lang="it">LE NUOVE AVVENTURE DI PETER PAN</title>
+    <sub-title lang="it">Episodio 14</sub-title>
+    <episode-num system="onscreen">Episodio 14</episode-num>
+    <episode-num system="xmltv_ns">.13.0/1</episode-num>
+  </programme>
+  <programme start="20230312013000 +0100" channel="raigulp.rai.it">
+    <title lang="it">MARBLEGEN</title>
+    <sub-title lang="it">Episodio 25</sub-title>
+    <episode-num system="onscreen">Episodio 25</episode-num>
+    <episode-num system="xmltv_ns">.24.0/1</episode-num>
+  </programme>
+  <programme start="20230312015500 +0100" channel="raigulp.rai.it">
+    <title lang="it">JAMIE JOHNSON (VI)</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230312022000 +0100" channel="raigulp.rai.it">
+    <title lang="it">JAMIE JOHNSON (VI)</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230312024500 +0100" channel="raigulp.rai.it">
+    <title lang="it">GRANI DI PEPE (XII)</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230312031500 +0100" channel="raigulp.rai.it">
+    <title lang="it">VITA DA GIUNGLA</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312032500 +0100" channel="raigulp.rai.it">
+    <title lang="it">VITA DA GIUNGLA</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230312033000 +0100" channel="raigulp.rai.it">
+    <title lang="it">IDEFIX E GLI IRRIDUCIBILI</title>
+    <sub-title lang="it">Episodio 23</sub-title>
+    <episode-num system="onscreen">Episodio 23</episode-num>
+    <episode-num system="xmltv_ns">.22.0/1</episode-num>
+  </programme>
+  <programme start="20230312034500 +0100" channel="raigulp.rai.it">
+    <title lang="it">SPOOKSVILLE</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230312041000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ROBIN HOOD (II)</title>
+    <sub-title lang="it">Episodio 44</sub-title>
+    <episode-num system="onscreen">Episodio 44</episode-num>
+    <episode-num system="xmltv_ns">.43.0/1</episode-num>
+  </programme>
+  <programme start="20230312042500 +0100" channel="raigulp.rai.it">
+    <title lang="it">ALEX AND CO.</title>
+    <sub-title lang="it">Episodio 46</sub-title>
+    <episode-num system="onscreen">Episodio 46</episode-num>
+    <episode-num system="xmltv_ns">.45.0/1</episode-num>
+  </programme>
+  <programme start="20230312045000 +0100" channel="raigulp.rai.it">
+    <title lang="it">ALEX AND CO.</title>
+    <sub-title lang="it">Episodio 47</sub-title>
+    <episode-num system="onscreen">Episodio 47</episode-num>
+    <episode-num system="xmltv_ns">.46.0/1</episode-num>
+  </programme>
+  <programme start="20230312051500 +0100" channel="raigulp.rai.it">
+    <title lang="it">SOMOS TU Y YO (II)</title>
+    <sub-title lang="it">Episodio 85</sub-title>
+    <episode-num system="onscreen">Episodio 85</episode-num>
+    <episode-num system="xmltv_ns">.84.0/1</episode-num>
+  </programme>
+  <programme start="20230312054000 +0100" channel="raigulp.rai.it">
+    <title lang="it">SOMOS TU Y YO (II)</title>
+    <sub-title lang="it">Episodio 86</sub-title>
+    <episode-num system="onscreen">Episodio 86</episode-num>
+    <episode-num system="xmltv_ns">.85.0/1</episode-num>
+  </programme>
+  <programme start="20230311071000 +0100" channel="raimovie.rai.it">
+    <title lang="it">La settimana bianca</title>
+  </programme>
+  <programme start="20230311084000 +0100" channel="raimovie.rai.it">
+    <title lang="it">Anica</title>
+    <sub-title lang="it">Appuntamento al cinema</sub-title>
+  </programme>
+  <programme start="20230311084500 +0100" channel="raimovie.rai.it">
+    <title lang="it">Sedotta e abbandonata</title>
+  </programme>
+  <programme start="20230311105000 +0100" channel="raimovie.rai.it">
+    <title lang="it">Miseria e nobiltà</title>
+  </programme>
+  <programme start="20230311123000 +0100" channel="raimovie.rai.it">
+    <title lang="it">Proprio lui?</title>
+  </programme>
+  <programme start="20230311142500 +0100" channel="raimovie.rai.it">
+    <title lang="it">Gli Imperdibili</title>
+  </programme>
+  <programme start="20230311143000 +0100" channel="raimovie.rai.it">
+    <title lang="it">P.S. I Love You</title>
+    <sub-title lang="it">Non Ã¨ mai troppo tardi</sub-title>
+  </programme>
+  <programme start="20230311164500 +0100" channel="raimovie.rai.it">
+    <title lang="it">Rebel in the Rye</title>
+  </programme>
+  <programme start="20230311183000 +0100" channel="raimovie.rai.it">
+    <title lang="it">Charlot</title>
+    <sub-title lang="it">Chaplin</sub-title>
+  </programme>
+  <programme start="20230311211000 +0100" channel="raimovie.rai.it">
+    <title lang="it">Non sposate le mie figlie 2</title>
+  </programme>
+  <programme start="20230311225500 +0100" channel="raimovie.rai.it">
+    <title lang="it">Hugo Cabret</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">THE ASCENT OF WOMAN: 10.000 YEARS STORY</title>
+  </programme>
+  <programme start="20230311070000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">The Italian Dream. Studying Art, Music a</title>
+  </programme>
+  <programme start="20230311071500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Spot on the Map</title>
+    <sub-title lang="it">Episodio 32</sub-title>
+    <episode-num system="onscreen">Episodio 32</episode-num>
+    <episode-num system="xmltv_ns">.31.0/1</episode-num>
+  </programme>
+  <programme start="20230311073000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">PERFECT ENGLISH Perfect English</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311073500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Inglese Dr. Jack Hill and Mr. Speech: Tw</title>
+  </programme>
+  <programme start="20230311080000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
+  </programme>
+  <programme start="20230311081500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it I generi cinem</title>
+  </programme>
+  <programme start="20230311083000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">I segreti del colore Le sperimentazioni</title>
+  </programme>
+  <programme start="20230311085500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Patrimonio Immateriale ed Archeologico S</title>
+  </programme>
+  <programme start="20230311090000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Memex Magazzino 26</title>
+    <sub-title lang="it">Episodio 02</sub-title>
+    <episode-num system="onscreen">Episodio 02</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311093000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza Files: Le meraviglie de</title>
+  </programme>
+  <programme start="20230311093500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">La storia dell'elettricità La storia del</title>
+  </programme>
+  <programme start="20230311103000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">WILD ITALY</title>
+    <sub-title lang="it">Episodio 1 - L'ANTROPOCENE</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311113000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Wild Italy</title>
+    <sub-title lang="it">Serie 3 Episodio 1</sub-title>
+  </programme>
+  <programme start="20230311122000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Di là dal fiume tra gli alberi Il porto</title>
+  </programme>
+  <programme start="20230311130000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
+  </programme>
+  <programme start="20230311150000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Luoghi del con</title>
+  </programme>
+  <programme start="20230311151500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
+  </programme>
+  <programme start="20230311153000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">TGR</title>
+    <sub-title lang="it">Bellitalia</sub-title>
+  </programme>
+  <programme start="20230311160000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Memex Sperimentiamo! p. 20</title>
+    <sub-title lang="it">Congelament</sub-title>
+  </programme>
+  <programme start="20230311163000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza Files: Le meraviglie de</title>
+  </programme>
+  <programme start="20230311163500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le meraviglie delle statistiche</title>
+  </programme>
+  <programme start="20230311173000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">I segreti del colore Le sperimentazioni</title>
+  </programme>
+  <programme start="20230311180000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Digital World Una questione di informazi</title>
+  </programme>
+  <programme start="20230311183000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Invito alla lettura terza serie Bibliote</title>
+  </programme>
+  <programme start="20230311184500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Invito alla lettura terza serie Bibliote</title>
+  </programme>
+  <programme start="20230311190000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Evoluzione uma</title>
+  </programme>
+  <programme start="20230311191500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Il libro della Savana</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311201500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">La vita segreta dei laghi</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311210000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza 2022 Le Nostre Domande</title>
+  </programme>
+  <programme start="20230311213000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Progetto Scienza 2022 I luoghi della Sci</title>
+  </programme>
+  <programme start="20230311220000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Futuro 24</title>
+  </programme>
+  <programme start="20230311221500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">The Core</title>
+    <sub-title lang="it">Viaggio al centro della Terra</sub-title>
+  </programme>
+  <programme start="20230311230000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">ORDER AND DISORDER Ordine e Disordine (1</title>
+  </programme>
+  <programme start="20230312000000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Di là dal fiume tra gli alberi Il porto</title>
+  </programme>
+  <programme start="20230312004500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Le origini del</title>
+  </programme>
+  <programme start="20230312010000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">The Secret Life of Books. Serie 2 Confes</title>
+  </programme>
+  <programme start="20230312013000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Spoon River Anthology Unbelievers</title>
+  </programme>
+  <programme start="20230312014500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Figures of Speech</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230312015500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Patrimonio Immateriale ed Archeologico S</title>
+  </programme>
+  <programme start="20230312020000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
+  </programme>
+  <programme start="20230312021500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it I generi cinem</title>
+  </programme>
+  <programme start="20230312023000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">THE ASCENT OF WOMAN: 10.000 YEARS STORY</title>
+  </programme>
+  <programme start="20230312033000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Storia in brev</title>
+  </programme>
+  <programme start="20230312034500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Storia in brev</title>
+  </programme>
+  <programme start="20230312040000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Luoghi del Con</title>
+  </programme>
+  <programme start="20230312041500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
+  </programme>
+  <programme start="20230312043000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">I grandi della letteratura italiana Elsa</title>
+  </programme>
+  <programme start="20230312051500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Una lunga fede</title>
+  </programme>
+  <programme start="20230312053000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Letterature: l</title>
+  </programme>
+  <programme start="20230312054500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e pensier</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">ORDER AND DISORDER Ordine e Disordine (2</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente</title>
+    <sub-title lang="it">Falkland le isole c</sub-title>
+  </programme>
+  <programme start="20230311064000 +0100" channel="raistoria.rai.it">
+    <title lang="it">a.C.d.C. Gli ultimi re guerrieri d'Europ</title>
+  </programme>
+  <programme start="20230311074000 +0100" channel="raistoria.rai.it">
+    <title lang="it">a.C.d.C. Angkor: nuove scoperte</title>
+  </programme>
+  <programme start="20230311083500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Il giorno e la storia</title>
+  </programme>
+  <programme start="20230311085500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Scritto, letto, detto: Mimma Gasparri Pr</title>
+  </programme>
+  <programme start="20230311090500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente</title>
+    <sub-title lang="it">Falkland le isole c</sub-title>
+  </programme>
+  <programme start="20230311094500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Telegramma 2171. L'anno del Patto Atlant</title>
+  </programme>
+  <programme start="20230311103500 +0100" channel="raistoria.rai.it">
+    <title lang="it">MAXI Il grande processo alla mafia. Pale</title>
+  </programme>
+  <programme start="20230311113000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Il giorno e la storia</title>
+  </programme>
+  <programme start="20230311120000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Roma Imago Urbis. L'immortalità</title>
+  </programme>
+  <programme start="20230311130000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Varieta' Hai visto mai?</title>
+  </programme>
+  <programme start="20230311140000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Il giorno e la storia</title>
+  </programme>
+  <programme start="20230311142000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente</title>
+    <sub-title lang="it">Falkland le isole c</sub-title>
+  </programme>
+  <programme start="20230311150000 +0100" channel="raistoria.rai.it">
+    <title lang="it">La guerra al tavolo della pace. La confe</title>
+  </programme>
+  <programme start="20230311160000 +0100" channel="raistoria.rai.it">
+    <title lang="it">La lotta dell'uomo per la sopravvivenza.</title>
+  </programme>
+  <programme start="20230311170000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Vivere in pace</title>
+  </programme>
+  <programme start="20230311183000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Storie contemporanee. Guerra e montagna</title>
+  </programme>
+  <programme start="20230311190000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Rai News Giorno</title>
+  </programme>
+  <programme start="20230311193500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Il vento dell Est Il Muro di Berlino</title>
+  </programme>
+  <programme start="20230311195500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Gli Imperdibili</title>
+  </programme>
+  <programme start="20230311200000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Il giorno e la storia</title>
+  </programme>
+  <programme start="20230311202000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Scritto, letto, detto: Mimma Gasparri</title>
+  </programme>
+  <programme start="20230311203000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente. Giovanni Paolo II co</title>
+  </programme>
+  <programme start="20230311211000 +0100" channel="raistoria.rai.it">
+    <title lang="it">L'impiegato</title>
+  </programme>
+  <programme start="20230311224500 +0100" channel="raistoria.rai.it">
+    <title lang="it">Life animated Prima TV per Rai</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="raistoria.rai.it">
+    <title lang="it">Passato e Presente. Giovanni Paolo II co</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311060500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311061000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311061500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311062000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311062500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+  <programme start="20230311063000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311063500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 8</sub-title>
+    <episode-num system="onscreen">Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">.7.0/1</episode-num>
+  </programme>
+  <programme start="20230311064000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 9</sub-title>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">.8.0/1</episode-num>
+  </programme>
+  <programme start="20230311064500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 10</sub-title>
+    <episode-num system="onscreen">Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">.9.0/1</episode-num>
+  </programme>
+  <programme start="20230311065000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230311065500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (V)</title>
+    <sub-title lang="it">Episodio 12</sub-title>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">.11.0/1</episode-num>
+  </programme>
+  <programme start="20230311070000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing (III) 53</title>
+    <sub-title lang="it">Episodio 66 - 78 ep</sub-title>
+    <episode-num system="onscreen">Episodio 66</episode-num>
+    <episode-num system="xmltv_ns">.65.0/1</episode-num>
+  </programme>
+  <programme start="20230311070500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing (III) 53</title>
+    <sub-title lang="it">Episodio 67 - 78 ep</sub-title>
+    <episode-num system="onscreen">Episodio 67</episode-num>
+    <episode-num system="xmltv_ns">.66.0/1</episode-num>
+  </programme>
+  <programme start="20230311071000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing (III) 53</title>
+    <sub-title lang="it">Episodio 68 - 78 ep</sub-title>
+    <episode-num system="onscreen">Episodio 68</episode-num>
+    <episode-num system="xmltv_ns">.67.0/1</episode-num>
+  </programme>
+  <programme start="20230311072000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing (III) 53</title>
+    <sub-title lang="it">Episodio 69 - 78 ep</sub-title>
+    <episode-num system="onscreen">Episodio 69</episode-num>
+    <episode-num system="xmltv_ns">.68.0/1</episode-num>
+  </programme>
+  <programme start="20230311072500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bumbi</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311073500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 41</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 41</episode-num>
+    <episode-num system="xmltv_ns">1.40.0/1</episode-num>
+  </programme>
+  <programme start="20230311074000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 42</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 42</episode-num>
+    <episode-num system="xmltv_ns">1.41.0/1</episode-num>
+  </programme>
+  <programme start="20230311075000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 43</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 43</episode-num>
+    <episode-num system="xmltv_ns">1.42.0/1</episode-num>
+  </programme>
+  <programme start="20230311075500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 44</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 44</episode-num>
+    <episode-num system="xmltv_ns">1.43.0/1</episode-num>
+  </programme>
+  <programme start="20230311080500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 38</sub-title>
+    <episode-num system="onscreen">Episodio 38</episode-num>
+    <episode-num system="xmltv_ns">.37.0/1</episode-num>
+  </programme>
+  <programme start="20230311081500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 39</sub-title>
+    <episode-num system="onscreen">Episodio 39</episode-num>
+    <episode-num system="xmltv_ns">.38.0/1</episode-num>
+  </programme>
+  <programme start="20230311082000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 40</sub-title>
+    <episode-num system="onscreen">Episodio 40</episode-num>
+    <episode-num system="xmltv_ns">.39.0/1</episode-num>
+  </programme>
+  <programme start="20230311083000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 41</sub-title>
+    <episode-num system="onscreen">Episodio 41</episode-num>
+    <episode-num system="xmltv_ns">.40.0/1</episode-num>
+  </programme>
+  <programme start="20230311083500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 42</sub-title>
+    <episode-num system="onscreen">Episodio 42</episode-num>
+    <episode-num system="xmltv_ns">.41.0/1</episode-num>
+  </programme>
+  <programme start="20230311084500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311085000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230311090000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme start="20230311090500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Super Spikeball</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230311092000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Super Spikeball</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme start="20230311093500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Lampadino e Caramella</title>
+    <sub-title lang="it">Stagione 2 Episodio 7</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311094000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Lampadino e Caramella</title>
+    <sub-title lang="it">Stagione 2 Episodio 8</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+  </programme>
+  <programme start="20230311094500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pinocchio &amp; Friends</title>
+    <sub-title lang="it">Episodio 19</sub-title>
+    <episode-num system="onscreen">Episodio 19</episode-num>
+    <episode-num system="xmltv_ns">.18.0/1</episode-num>
+  </programme>
+  <programme start="20230311095500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pinocchio &amp; Friends</title>
+    <sub-title lang="it">Episodio 20</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311101000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pirata e Capitano</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311102000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pirata e Capitano</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311103000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Melevisione 2011</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230311105500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing 1</title>
+    <sub-title lang="it">Episodio 25 - 26 ep.</sub-title>
+    <episode-num system="onscreen">Episodio 25</episode-num>
+    <episode-num system="xmltv_ns">.24.0/1</episode-num>
+  </programme>
+  <programme start="20230311110000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing 1</title>
+    <sub-title lang="it">Episodio 26 - 26 ep.</sub-title>
+    <episode-num system="onscreen">Episodio 26</episode-num>
+    <episode-num system="xmltv_ns">.25.0/1</episode-num>
+  </programme>
+  <programme start="20230311111000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing</title>
+    <sub-title lang="it">Episodio 27</sub-title>
+    <episode-num system="onscreen">Episodio 27</episode-num>
+    <episode-num system="xmltv_ns">.26.0/1</episode-num>
+  </programme>
+  <programme start="20230311111500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bing</title>
+    <sub-title lang="it">Episodio 28</sub-title>
+    <episode-num system="onscreen">Episodio 28</episode-num>
+    <episode-num system="xmltv_ns">.27.0/1</episode-num>
+  </programme>
+  <programme start="20230311112500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Gigantosaurus 2</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311113500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Gigantosaurus 2</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311114500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Nefertina sul Nilo</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme start="20230311115500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Nefertina sul Nilo</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311121000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pocoyo 4</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311121500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pocoyo 4</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311122500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pablo</title>
+    <sub-title lang="it">Episodio 28</sub-title>
+    <episode-num system="onscreen">Episodio 28</episode-num>
+    <episode-num system="xmltv_ns">.27.0/1</episode-num>
+  </programme>
+  <programme start="20230311123500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Alice &amp; Lewis</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme start="20230311124500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Alice &amp; Lewis</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311130000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 49</sub-title>
+    <episode-num system="onscreen">Episodio 49</episode-num>
+    <episode-num system="xmltv_ns">.48.0/1</episode-num>
+  </programme>
+  <programme start="20230311130500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 50</sub-title>
+    <episode-num system="onscreen">Episodio 50</episode-num>
+    <episode-num system="xmltv_ns">.49.0/1</episode-num>
+  </programme>
+  <programme start="20230311131500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso 2</title>
+    <sub-title lang="it">Episodio 51</sub-title>
+    <episode-num system="onscreen">Episodio 51</episode-num>
+    <episode-num system="xmltv_ns">.50.0/1</episode-num>
+  </programme>
+  <programme start="20230311132000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Le storie di paura di Masha</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311133000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Nina &amp; Olga</title>
+    <sub-title lang="it">Episodio 27</sub-title>
+    <episode-num system="onscreen">Episodio 27</episode-num>
+    <episode-num system="xmltv_ns">.26.0/1</episode-num>
+  </programme>
+  <programme start="20230311134000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Nina &amp; Olga</title>
+    <sub-title lang="it">Episodio 28</sub-title>
+    <episode-num system="onscreen">Episodio 28</episode-num>
+    <episode-num system="xmltv_ns">.27.0/1</episode-num>
+  </programme>
+  <programme start="20230311135000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Trulli tales</title>
+    <sub-title lang="it">Episodio 17</sub-title>
+    <episode-num system="onscreen">Episodio 17</episode-num>
+    <episode-num system="xmltv_ns">.16.0/1</episode-num>
+  </programme>
+  <programme start="20230311140000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Trulli tales</title>
+    <sub-title lang="it">Episodio 18</sub-title>
+    <episode-num system="onscreen">Episodio 18</episode-num>
+    <episode-num system="xmltv_ns">.17.0/1</episode-num>
+  </programme>
+  <programme start="20230311141000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">CALIMERO II</title>
+  </programme>
+  <programme start="20230311142000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">CALIMERO II</title>
+  </programme>
+  <programme start="20230311143000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Summer &amp; Todd</title>
+    <sub-title lang="it">Episodio 2 - L'allegra fattoria</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311143500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Summer &amp; Todd</title>
+    <sub-title lang="it">Episodio 2 - L'allegra fattoria</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311144500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">MOFY TERZA STAGIONE</title>
+    <sub-title lang="it">Episodio 19</sub-title>
+    <episode-num system="onscreen">Episodio 19</episode-num>
+    <episode-num system="xmltv_ns">.18.0/1</episode-num>
+  </programme>
+  <programme start="20230311145000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">MOFY TERZA STAGIONE</title>
+    <sub-title lang="it">Episodio 20</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311145500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">MOFY TERZA STAGIONE</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311150000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Oreste, che Storia!</title>
+    <sub-title lang="it">Episodio 45</sub-title>
+    <episode-num system="onscreen">Episodio 45</episode-num>
+    <episode-num system="xmltv_ns">.44.0/1</episode-num>
+  </programme>
+  <programme start="20230311151000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha Nursery Rhymes</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230311151500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">44 Gatti</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311152500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">44 Gatti</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230311154000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Gli acchiappagiochi</title>
+    <sub-title lang="it">Episodio 14</sub-title>
+    <episode-num system="onscreen">Episodio 14</episode-num>
+    <episode-num system="xmltv_ns">.13.0/1</episode-num>
+  </programme>
+  <programme start="20230311155000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso</title>
+    <sub-title lang="it">Episodio 10</sub-title>
+    <episode-num system="onscreen">Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">.9.0/1</episode-num>
+  </programme>
+  <programme start="20230311160000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230311160500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Masha e Orso</title>
+    <sub-title lang="it">Episodio 12</sub-title>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">.11.0/1</episode-num>
+  </programme>
+  <programme start="20230311161500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Le canzoni di Masha</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230311162000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bumbi</title>
+    <sub-title lang="it">Episodio 18</sub-title>
+    <episode-num system="onscreen">Episodio 18</episode-num>
+    <episode-num system="xmltv_ns">.17.0/1</episode-num>
+  </programme>
+  <programme start="20230311163000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 41</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 41</episode-num>
+    <episode-num system="xmltv_ns">1.40.0/1</episode-num>
+  </programme>
+  <programme start="20230311163500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 42</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 42</episode-num>
+    <episode-num system="xmltv_ns">1.41.0/1</episode-num>
+  </programme>
+  <programme start="20230311164500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 43</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 43</episode-num>
+    <episode-num system="xmltv_ns">1.42.0/1</episode-num>
+  </programme>
+  <programme start="20230311165000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Bluey</title>
+    <sub-title lang="it">Stagione 2 Episodio 44</sub-title>
+    <episode-num system="onscreen">Stagione 2 Episodio 44</episode-num>
+    <episode-num system="xmltv_ns">1.43.0/1</episode-num>
+  </programme>
+  <programme start="20230311170000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Superpapà</title>
+    <sub-title lang="it">Episodio 26</sub-title>
+    <episode-num system="onscreen">Episodio 26</episode-num>
+    <episode-num system="xmltv_ns">.25.0/1</episode-num>
+  </programme>
+  <programme start="20230311170500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Superpapà</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311171000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Superpapà</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230311171500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Le avventure di Paddington</title>
+    <sub-title lang="it">Episodio 26</sub-title>
+    <episode-num system="onscreen">Episodio 26</episode-num>
+    <episode-num system="xmltv_ns">.25.0/1</episode-num>
+  </programme>
+  <programme start="20230311173500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Spidey e i suoi fantastici amici</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230311180000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 37</sub-title>
+    <episode-num system="onscreen">Episodio 37</episode-num>
+    <episode-num system="xmltv_ns">.36.0/1</episode-num>
+  </programme>
+  <programme start="20230311180500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 38</sub-title>
+    <episode-num system="onscreen">Episodio 38</episode-num>
+    <episode-num system="xmltv_ns">.37.0/1</episode-num>
+  </programme>
+  <programme start="20230311181500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 39</sub-title>
+    <episode-num system="onscreen">Episodio 39</episode-num>
+    <episode-num system="xmltv_ns">.38.0/1</episode-num>
+  </programme>
+  <programme start="20230311182000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Mumfie</title>
+    <sub-title lang="it">Episodio 40</sub-title>
+    <episode-num system="onscreen">Episodio 40</episode-num>
+    <episode-num system="xmltv_ns">.39.0/1</episode-num>
+  </programme>
+  <programme start="20230311183000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj masks (III) eps 5</title>
+    <sub-title lang="it">Episodio 9 - 15</sub-title>
+    <episode-num system="onscreen">Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">.8.0/1</episode-num>
+  </programme>
+  <programme start="20230311184000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj masks (III) eps 5</title>
+    <sub-title lang="it">Episodio 10 - 15</sub-title>
+    <episode-num system="onscreen">Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">.9.0/1</episode-num>
+  </programme>
+  <programme start="20230311185000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Milo</title>
+    <sub-title lang="it">Episodio 15</sub-title>
+    <episode-num system="onscreen">Episodio 15</episode-num>
+    <episode-num system="xmltv_ns">.14.0/1</episode-num>
+  </programme>
+  <programme start="20230311190000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Milo</title>
+    <sub-title lang="it">Episodio 16</sub-title>
+    <episode-num system="onscreen">Episodio 16</episode-num>
+    <episode-num system="xmltv_ns">.15.0/1</episode-num>
+  </programme>
+  <programme start="20230311191000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Alice &amp; Lewis</title>
+    <sub-title lang="it">Episodio 51</sub-title>
+    <episode-num system="onscreen">Episodio 51</episode-num>
+    <episode-num system="xmltv_ns">.50.0/1</episode-num>
+  </programme>
+  <programme start="20230311192000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Alice &amp; Lewis</title>
+    <sub-title lang="it">Episodio 52</sub-title>
+    <episode-num system="onscreen">Episodio 52</episode-num>
+    <episode-num system="xmltv_ns">.51.0/1</episode-num>
+  </programme>
+  <programme start="20230311193500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Topolino strepitose avventure</title>
+  </programme>
+  <programme start="20230311200000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">MINNIE'S BOW TOONS YR1</title>
+    <sub-title lang="it">Episodio 4</sub-title>
+    <episode-num system="onscreen">Episodio 4</episode-num>
+    <episode-num system="xmltv_ns">.3.0/1</episode-num>
+  </programme>
+  <programme start="20230311200500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">MIRA ROYAL DETECTIVE II Prima Visione RA</title>
+  </programme>
+  <programme start="20230311202500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">L'Ape Maia 2</title>
+    <sub-title lang="it">Le Olimpiadi di miele</sub-title>
+  </programme>
+  <programme start="20230311214500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Summer &amp; Todd</title>
+    <sub-title lang="it">Episodio 1 - L'allegra fattoria</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311215000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Summer &amp; Todd</title>
+    <sub-title lang="it">Episodio 1 - L'allegra fattoria</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230311220000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">CALIMERO II</title>
+  </programme>
+  <programme start="20230311221000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">CALIMERO II</title>
+  </programme>
+  <programme start="20230311222000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">CALIMERO II</title>
+  </programme>
+  <programme start="20230311223000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Moominvalley</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230311225000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">TUTTI A NANNA CON YOYO</title>
+  </programme>
+  <programme start="20230311230000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">TUTTI A NANNA CON YOYO</title>
+  </programme>
+  <programme start="20230311231500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Brave Bunnies</title>
+    <sub-title lang="it">Episodio 41</sub-title>
+    <episode-num system="onscreen">Episodio 41</episode-num>
+    <episode-num system="xmltv_ns">.40.0/1</episode-num>
+  </programme>
+  <programme start="20230311232000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Brave Bunnies</title>
+    <sub-title lang="it">Episodio 42</sub-title>
+    <episode-num system="onscreen">Episodio 42</episode-num>
+    <episode-num system="xmltv_ns">.41.0/1</episode-num>
+  </programme>
+  <programme start="20230311232500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Brave Bunnies</title>
+    <sub-title lang="it">Episodio 43</sub-title>
+    <episode-num system="onscreen">Episodio 43</episode-num>
+    <episode-num system="xmltv_ns">.42.0/1</episode-num>
+  </programme>
+  <programme start="20230311233500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Brave Bunnies</title>
+    <sub-title lang="it">Episodio 44</sub-title>
+    <episode-num system="onscreen">Episodio 44</episode-num>
+    <episode-num system="xmltv_ns">.43.0/1</episode-num>
+  </programme>
+  <programme start="20230311234000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Lupo</title>
+    <sub-title lang="it">Episodio 19</sub-title>
+    <episode-num system="onscreen">Episodio 19</episode-num>
+    <episode-num system="xmltv_ns">.18.0/1</episode-num>
+  </programme>
+  <programme start="20230311235000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Lupo</title>
+    <sub-title lang="it">Episodio 20</sub-title>
+    <episode-num system="onscreen">Episodio 20</episode-num>
+    <episode-num system="xmltv_ns">.19.0/1</episode-num>
+  </programme>
+  <programme start="20230311235500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Lupo</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312000500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Gli acchiappagiochi</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312001000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Gli acchiappagiochi</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230312002000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pablo</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312003000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pablo</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230312004500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Leo e Tig 2</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312005500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Leo e Tig 2</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230312011000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Fittizio ANIMAZIONE RAI CINEMA 15066144</title>
+  </programme>
+  <programme start="20230312011500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Melevisione 06 07</title>
+    <sub-title lang="it">Episodio 37</sub-title>
+    <episode-num system="onscreen">Episodio 37</episode-num>
+    <episode-num system="xmltv_ns">.36.0/1</episode-num>
+  </programme>
+  <programme start="20230312014000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Moominvalley</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312020000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 51</sub-title>
+    <episode-num system="onscreen">Episodio 51</episode-num>
+    <episode-num system="xmltv_ns">.50.0/1</episode-num>
+  </programme>
+  <programme start="20230312020500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 52</sub-title>
+    <episode-num system="onscreen">Episodio 52</episode-num>
+    <episode-num system="xmltv_ns">.51.0/1</episode-num>
+  </programme>
+  <programme start="20230312021000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 1</sub-title>
+    <episode-num system="onscreen">Episodio 1</episode-num>
+    <episode-num system="xmltv_ns">.0.0/1</episode-num>
+  </programme>
+  <programme start="20230312021500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 2</sub-title>
+    <episode-num system="onscreen">Episodio 2</episode-num>
+    <episode-num system="xmltv_ns">.1.0/1</episode-num>
+  </programme>
+  <programme start="20230312022000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 3</sub-title>
+    <episode-num system="onscreen">Episodio 3</episode-num>
+    <episode-num system="xmltv_ns">.2.0/1</episode-num>
+  </programme>
+  <programme start="20230312022500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj Masks 3 eps 40_52</title>
+    <sub-title lang="it">Episodio 10</sub-title>
+    <episode-num system="onscreen">Episodio 10</episode-num>
+    <episode-num system="xmltv_ns">.9.0/1</episode-num>
+  </programme>
+  <programme start="20230312023500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj Masks 3 eps 40_52</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230312024500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj Masks 3 eps 40_52</title>
+    <sub-title lang="it">Episodio 12</sub-title>
+    <episode-num system="onscreen">Episodio 12</episode-num>
+    <episode-num system="xmltv_ns">.11.0/1</episode-num>
+  </programme>
+  <programme start="20230312030000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pj Masks 3 eps 40_52</title>
+    <sub-title lang="it">Episodio 13</sub-title>
+    <episode-num system="onscreen">Episodio 13</episode-num>
+    <episode-num system="xmltv_ns">.12.0/1</episode-num>
+  </programme>
+  <programme start="20230312031000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (VI)</title>
+    <sub-title lang="it">Episodio 5</sub-title>
+    <episode-num system="onscreen">Episodio 5</episode-num>
+    <episode-num system="xmltv_ns">.4.0/1</episode-num>
+  </programme>
+  <programme start="20230312031500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (VI)</title>
+    <sub-title lang="it">Episodio 6</sub-title>
+    <episode-num system="onscreen">Episodio 6</episode-num>
+    <episode-num system="xmltv_ns">.5.0/1</episode-num>
+  </programme>
+  <programme start="20230312032000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Peppa pig (VI)</title>
+    <sub-title lang="it">Episodio 7</sub-title>
+    <episode-num system="onscreen">Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">.6.0/1</episode-num>
+  </programme>
+  <programme start="20230312032500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Ape Maia 3D</title>
+    <sub-title lang="it">Episodio 31</sub-title>
+    <episode-num system="onscreen">Episodio 31</episode-num>
+    <episode-num system="xmltv_ns">.30.0/1</episode-num>
+  </programme>
+  <programme start="20230312033500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Ape Maia 3D</title>
+    <sub-title lang="it">Episodio 32</sub-title>
+    <episode-num system="onscreen">Episodio 32</episode-num>
+    <episode-num system="xmltv_ns">.31.0/1</episode-num>
+  </programme>
+  <programme start="20230312035000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Ape Maia 3D</title>
+    <sub-title lang="it">Episodio 33</sub-title>
+    <episode-num system="onscreen">Episodio 33</episode-num>
+    <episode-num system="xmltv_ns">.32.0/1</episode-num>
+  </programme>
+  <programme start="20230312040000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pip e Posy</title>
+    <sub-title lang="it">Episodio 41</sub-title>
+    <episode-num system="onscreen">Episodio 41</episode-num>
+    <episode-num system="xmltv_ns">.40.0/1</episode-num>
+  </programme>
+  <programme start="20230312040500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pip e Posy</title>
+    <sub-title lang="it">Episodio 42</sub-title>
+    <episode-num system="onscreen">Episodio 42</episode-num>
+    <episode-num system="xmltv_ns">.41.0/1</episode-num>
+  </programme>
+  <programme start="20230312041500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pip e Posy</title>
+    <sub-title lang="it">Episodio 43</sub-title>
+    <episode-num system="onscreen">Episodio 43</episode-num>
+    <episode-num system="xmltv_ns">.42.0/1</episode-num>
+  </programme>
+  <programme start="20230312042000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Pip e Posy</title>
+    <sub-title lang="it">Episodio 44</sub-title>
+    <episode-num system="onscreen">Episodio 44</episode-num>
+    <episode-num system="xmltv_ns">.43.0/1</episode-num>
+  </programme>
+  <programme start="20230312043000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Moominvalley</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230312045500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Shaun vita da pecora</title>
+    <sub-title lang="it">Stagione 3 Episodio 7</sub-title>
+    <episode-num system="onscreen">Stagione 3 Episodio 7</episode-num>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+  </programme>
+  <programme start="20230312050500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Shaun vita da pecora</title>
+    <sub-title lang="it">Stagione 3 Episodio 8</sub-title>
+    <episode-num system="onscreen">Stagione 3 Episodio 8</episode-num>
+    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
+  </programme>
+  <programme start="20230312051000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Shaun vita da pecora</title>
+    <sub-title lang="it">Stagione 3 Episodio 9</sub-title>
+    <episode-num system="onscreen">Stagione 3 Episodio 9</episode-num>
+    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
+  </programme>
+  <programme start="20230312052000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 21</sub-title>
+    <episode-num system="onscreen">Episodio 21</episode-num>
+    <episode-num system="xmltv_ns">.20.0/1</episode-num>
+  </programme>
+  <programme start="20230312052500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Molang 5</title>
+    <sub-title lang="it">Episodio 22</sub-title>
+    <episode-num system="onscreen">Episodio 22</episode-num>
+    <episode-num system="xmltv_ns">.21.0/1</episode-num>
+  </programme>
+  <programme start="20230312053000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Winx Club 6</title>
+    <sub-title lang="it">Episodio 11</sub-title>
+    <episode-num system="onscreen">Episodio 11</episode-num>
+    <episode-num system="xmltv_ns">.10.0/1</episode-num>
+  </programme>
+  <programme start="20230312055500 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Fittizio ANIMAZIONE RAI CINEMA 15066137</title>
+  </programme>
+  <programme start="20230311060000 +0100" channel="yoyo.raisat.it">
+    <title lang="it">Il giorno in cui Henry incontrÃ² 4... EP.</title>
+  </programme>
+</tv>

@@ -551,6 +551,28 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme start="20230306230000" channel="C59.api.telerama.fr" stop="20230306230500">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230306230500" channel="C59.api.telerama.fr" stop="20230307004000">
+    <title>FRS: Das Kino der Nation</title>
+    <sub-title>Bilder und Töne aus dem Schweizerfilm 1940 bis 1968</sub-title>
+    <desc lang="fr">Kurz vor dem 75. Geburtstag von Filmregisseur Franz Schnyder (FRS) drehte der junge Schweizer Filmemacher Christoph Kühn 1984 einen faszinierenden Dokumentarfilm über den "grossen alten Mann" des Schweizer Kinos, dessen Lebenswerk auch die berühmten und von ganzen Generationen geschätzten Gotthelf-Adaptionen umfassen. Die Produktion ist darüber hinaus die Geschichte der Bekanntschaft zwischen Franz Schnyder und Christoph Kühn; sie schlägt eine Brücke zwischen Altem und Neuem im Schweizer Film. Am 8.</desc>
+    <category lang="fr">documentaire autre</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/149b4c019ed42163f9b739d493cc2a2d13dbd3f2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme start="20230305235500" channel="C183.api.telerama.fr" stop="20230306002000">
     <title>Géopolitis</title>
     <desc lang="fr">Pour mieux comprendre les grands enjeux internationaux, ce magazine de géopolitique décode les dessous de l'actualité politique.</desc>
@@ -931,6 +953,18 @@
     <category lang="fr">magazine de géopolitique</category>
     <length units="minutes">95</length>
     <icon src="https://focus.telerama.fr/1111x625/2021/10/11/008b3d9446f2b6aaef1dc49844938b252e43f752.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306233500" channel="C183.api.telerama.fr" stop="20230307003000">
+    <title>Les conquistadors de l'espace</title>
+    <desc lang="fr">Des constellations de milliers de satellites commencent à tourner en orbite autour de la Terre. Destinées à fournir un accès planétaire à Internet, elles menacent en fait l'équilibre géopolitique mondial. Alors que les États-Unis s'approprient cette partie de l'espace, le reste du monde tente de réagir pour garder son indépendance.</desc>
+    <category lang="fr">documentaire géopolitique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/20/022fcfdd63ba8638dde67f1e33fbc7fc4bc3f5d8.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -1542,6 +1576,44 @@ Le résultat échappe aux catégories, suspend toute réaction automatique. Car 
       <value>-12</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
     </rating>
+  </programme>
+  <programme start="20230306234500" channel="C202.api.telerama.fr" stop="20230307003000">
+    <title>Marcella</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Alors que Grace Gibson est portée disparue, Marcella se souvient vaguement lui avoir rendu visite la veille au soir pour lui parler de Jason. Malheureusement, ses pertes de mémoire l'empêchent de dérouler le fil des événements. La jeune femme est rappelée à l'ordre par ses supérieurs qui lui demandent d'arrêter de harceler Peter Cullen. Marcella est persuadée que Cullen est sujet à des troubles de la personnalité... - Critique : Marcella (prononcez à l’italienne s’il vous plaît) est une femme flic géniale mais tourmentée, portant une parka et des pulls hideux, à la poursuite d’un tueur — mais aussi d’elle-même — aux méthodes sordides, dans un Londres aux couleurs glaciales. Pas de doute, nous sommes bien dans une ambiance nordic noir. Et pour cause : c’est le créateur de The Bridge-Bron, Hans Rosenfeldt, qui est aux manettes. Il apporte son savoir-faire indéniable dans la construction du récit et la manière dont les nombreux protagonistes (et potentiels coupables) s’y imbriquent, en laissant toujours un léger temps de retard au téléspectateur pour que ce dernier reste sur le qui-vive et s’échine à reconstituer le puzzle.
+
+Anna Friel est formidable dans ce rôle de flic sur le retour, jamais remise de la perte de son enfant, obsédée par une vieille affaire, trompée par un mari arriviste, et qui a une fâcheuse tendance à perdre le contrôle lorsqu’elle est poussée à bout. Cela paraît beaucoup pour un seul personnage, mais elle s’en sort à merveille. Il plane sur elle, et sur la série, les ombres de Walter White et de Breaking bad puisqu’il est possible que Marcella ait franchi la ligne jaune en commettant l’irréparable… Malgré les quelques aberrations d’une enquête parfois tirée par les cheveux, la série est prenante et l’ambiguïté du personnage nous tient en haleine. Pour Marcella, point de dolce vita.</desc>
+    <credits>
+      <director>Charles Martin</director>
+      <actor>Anna Friel</actor>
+      <actor>Sinéad Cusack</actor>
+      <actor>Jamie Bamber</actor>
+      <actor>Robert Whitelock</actor>
+      <actor>Richard Cordery</actor>
+      <actor>Jack Doolan</actor>
+      <actor>Harry Lloyd</actor>
+      <actor>Ray Panthaki</actor>
+      <actor>Nicholas Pinnock</actor>
+      <actor>Laura Carmichael</actor>
+      <actor>Tobias Santelmann</actor>
+      <actor>Ben Cura</actor>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Nicola Larder</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/20/196f33e62cebe2d203876ec163fc10cd2e7dcf16.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20230306234500" channel="C202.api.telerama.fr" stop="20230307003000">
     <title>Marcella</title>

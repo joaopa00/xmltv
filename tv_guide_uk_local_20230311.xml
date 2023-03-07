@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="178.tvguide.co.uk">
+    <display-name lang="en">STV Central</display-name>
+  </channel>
+  <channel id="185.tvguide.co.uk">
+    <display-name lang="en">Magic</display-name>
+  </channel>
+  <channel id="182.tvguide.co.uk">
+    <display-name lang="en">Kiss TV</display-name>
+  </channel>
+  <channel id="267.tvguide.co.uk">
+    <display-name lang="en">E4 Extra</display-name>
+  </channel>
+  <channel id="279.tvguide.co.uk">
+    <display-name lang="en">The Box</display-name>
+  </channel>
+  <channel id="320.tvguide.co.uk">
+    <display-name lang="en">Yesterday</display-name>
+  </channel>
+  <channel id="422.tvguide.co.uk">
+    <display-name lang="en">Really</display-name>
+  </channel>
+  <channel id="432.tvguide.co.uk">
+    <display-name lang="en">Dave</display-name>
+  </channel>
+  <channel id="454.tvguide.co.uk">
+    <display-name lang="en">DMAX</display-name>
+  </channel>
+  <channel id="559.tvguide.co.uk">
+    <display-name lang="en">Quest</display-name>
+  </channel>
+  <channel id="596.tvguide.co.uk">
+    <display-name lang="en">Food Network</display-name>
+  </channel>
+  <channel id="871.tvguide.co.uk">
+    <display-name lang="en">Drama</display-name>
+  </channel>
+  <channel id="1013.tvguide.co.uk">
+    <display-name lang="en">Blaze</display-name>
+  </channel>
+  <channel id="1014.tvguide.co.uk">
+    <display-name lang="en">Quest Red</display-name>
+  </channel>
+  <channel id="1154.tvguide.co.uk">
+    <display-name lang="en">Birmingham TV</display-name>
+  </channel>
+  <channel id="1157.tvguide.co.uk">
+    <display-name lang="en">Bristol TV</display-name>
+  </channel>
+  <channel id="1171.tvguide.co.uk">
+    <display-name lang="en">Cardiff TV</display-name>
+  </channel>
+  <channel id="1210.tvguide.co.uk">
+    <display-name lang="en">Leeds TV</display-name>
+  </channel>
+  <channel id="1212.tvguide.co.uk">
+    <display-name lang="en">Liverpool TV</display-name>
+  </channel>
+  <channel id="1255.tvguide.co.uk">
+    <display-name lang="en">Tyne &amp; Wear TV</display-name>
+  </channel>
+  <programme start="20230311020000 +0000" channel="267.tvguide.co.uk" stop="20230311070000 +0000">
+    <title lang="en">Rude Tube</title>
+    <sub-title lang="en">Gods of Geek</sub-title>
+    <desc lang="en">Alex Zane presents a rundown of inventors who are rewriting the scientific rulebook with their DIY experiments, from rocket-powered shopping trolleys to the toilet brush revolver.</desc>
+    <category lang="en">General</category>
+    <url>https://www.tvguide.co.uk/detail/2785630/81995908/rude-tube</url>
+    <episode-num system="xmltv_ns">6.6/8.</episode-num>
+    <star-rating>
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+</tv>

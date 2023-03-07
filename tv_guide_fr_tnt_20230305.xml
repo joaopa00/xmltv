@@ -155,16 +155,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304222500" channel="C4.api.telerama.fr" stop="20230305003000">
-    <title>Quelle époque !</title>
-    <desc lang="fr">Léa Salamé présente un talk-show drôle et festif, à la fois magazine de société et divertissement, dont l'objectif est de raconter et interroger l'époque. "Quelle époque !" est conçu comme un lieu de débats entre les personnalités qui marquent l'actualité culturelle, sociétale, politique ou médiatique, dans la vie réelle comme sur les réseaux sociaux.</desc>
-    <category lang="fr">talk-show</category>
-    <length units="minutes">125</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/10/02/51f3241e12136c6d4477a442bb6bcd0b9995fbd7_C29646210E9BB7A99AA959D723D996B2.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305234500" channel="C4.api.telerama.fr" stop="20230305235000">
     <title>Météo 2</title>
     <desc lang="fr">Le point, plusieurs fois par jour, sur l'évolution de la météo, grâce à des cartes et des explications.</desc>
@@ -361,30 +351,6 @@ Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du f
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme start="20230304220000" channel="C119.api.telerama.fr" stop="20230305004500">
-    <title>La petite histoire de France</title>
-    <desc lang="fr">Les péripéties de trois personnages oubliés de l'Histoire : François, le cousin de Jeanne d'Arc, Philippe Honoré de Roche Saint-Pierre, le cousin de Louis XIV, et Renata Bonaparte, la cousine de Napoléon. Ces trois parcours permettent de redécouvrir trois époques de l'histoire de France...</desc>
-    <credits>
-      <actor>Philippe Béglia</actor>
-      <actor>Sébastien Castro</actor>
-      <actor>Charline Paul</actor>
-      <actor>François Levantal</actor>
-      <actor>David Salles</actor>
-      <actor>Karina Marimon</actor>
-      <actor>Ophélia Kolb</actor>
-      <actor>Alban Ivanov</actor>
-      <actor>Anne-Sophie Girard</actor>
-      <actor>Franck Migeon</actor>
-      <actor>Fatsah Bouyahmed</actor>
-      <actor>Grant Lawrens</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">165</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/12/19/f278071539f3ab109d01aa7703b994ee82f93f13.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme start="20230305231000" channel="C119.api.telerama.fr" stop="20230306050000">
     <title>Programmes de la nuit</title>
     <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
@@ -552,17 +518,6 @@ Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du f
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
     </rating>
   </programme>
-  <programme start="20230304220000" channel="C1401.api.telerama.fr" stop="20230305002000">
-    <title>MMA : UFC Classiques</title>
-    <sub-title>Les plus grandes soirées de l'UFC (épisode 19)</sub-title>
-    <category lang="fr">sport : mma</category>
-    <length units="minutes">140</length>
-    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/c01b8846601d17f41bd965669e0602c51ae12e14.jpg" />
-    <rating system="CSA">
-      <value>-16</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
-    </rating>
-  </programme>
   <programme start="20230305234000" channel="C1401.api.telerama.fr" stop="20230306005500">
     <title>L'Equipe du soir</title>
     <category lang="fr">sport : multisports</category>
@@ -602,18 +557,6 @@ Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du f
     <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme start="20230304224000" channel="C1399.api.telerama.fr" stop="20230305002500">
-    <title>Héritages</title>
-    <sub-title>Paix à son âme</sub-title>
-    <desc lang="fr">Héritages va vous plonger dans des histoires incroyables sur fond d'arnaques et de conflits de successions. Vous allez découvrir le combat de familles qui se déchirent en France pour leur héritage.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">105</length>
-    <icon src="https://focus.telerama.fr/1111x625/2022/01/07/d29216ce09d6370605237caf6f73ebdba3ab9479.jpg" />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme start="20230304224000" channel="C1399.api.telerama.fr" stop="20230305002500">

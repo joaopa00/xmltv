@@ -1,9 +1,9 @@
 Code 200
 Content-Length 66915
 Content-Type text/html;charset=UTF-8
-MD5 e98972c0f33a46f5613bc2f1cec36085
+MD5 ddc9d0b2b03dd8dde13eb8f129ec6847
 Url https://www.tvguide.co.uk/channellistings.asp?ch=917&cTime=03%2F11%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677903665
+X-HCT-LastUpdated 1678168400
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677903665
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -474,7 +474,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.1</span>
+		</span><span class="programmeheading">3.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -516,7 +516,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.1</span>
+		</span><span class="programmeheading">3.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -558,7 +558,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.1</span>
+		</span><span class="programmeheading">3.2</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -936,7 +936,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">10</span>
+		</span><span class="programmeheading">7</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -978,7 +978,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">10</span>
+		</span><span class="programmeheading">7</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1020,7 +1020,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">6.8</span>
+		</span><span class="programmeheading">6.9</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1062,7 +1062,7 @@ X-HCT-LastUpdated 1677903665
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7</span>
+		</span><span class="programmeheading">6.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

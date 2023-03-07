@@ -1,9 +1,9 @@
 Code 200
-Content-Length 70052
+Content-Length 69836
 Content-Type text/html;charset=UTF-8
-MD5 94bb3db76b6c2346de022b20c964c9da
+MD5 b61f864433aa27e729e4e26a4521b5f4
 Url https://www.tvguide.co.uk/channellistings.asp?ch=917&cTime=03%2F10%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677903656
+X-HCT-LastUpdated 1678155008
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677903656
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -836,14 +836,14 @@ X-HCT-LastUpdated 1677903656
 	</tr><tr>
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">6:00pm </span><br>
-		 <a href="https://www.tvguide.co.uk/detail/4007210/81982672/emergency-helicopter-medics"  title="Click to rate and review"><span class="programmeheading" >Emergency Helicopter Medics</span><br>
-<b><span class="season">Season 1 </span> <span class="season">Episode 10 of 10</span></b><br><span class="tvchannel">Car Crash Emergencies</span>
-		<span class="programmetext">Steph is trapped with multiple injuries after a bad smash near Alnwick in Northumberland. An accident with a bonfire leaves Paul with serious burns, while in Norfolk's Thetford Forest it's difficult for the medics to reach horse-rider Alice, who has badly broken her ankle</span></a><br>
-<span class="tvchannel">Category </span><span class="programmetext">News/Current Affairs</span></a><br>
+		 <a href="https://www.tvguide.co.uk/detail/2761258/82111265/a-place-in-the-sun"  title="Click to rate and review"><span class="programmeheading" >A Place in the Sun</span><br>
+<b><span class="season">Season 2017 </span></b><br><span class="tvchannel">2017: Costa del Sol</span>
+		<span class="programmetext">Laura Hamilton helps Linda and Alan Keir, who want to buy a holiday home in the Costa del Sol to escape the climate of the Scottish Highlands. They look at five properties on their budget of £150,000</span></a><br>
+<span class="tvchannel">Category </span><span class="programmetext">Leisure/Hobbies</span></a><br>
 
-	<span class='tvchannel'>(Subtitles)</span>  <span class='tvchannel'>(Audio Described)</span> 
+	<span class='tvchannel'>(Subtitles)</span> 
 <div class="buttons"> 
-	<a href="https://www.tvguide.co.uk/detail/4007210/81982672/emergency-helicopter-medics"  title="Comment on Emergency Helicopter Medics">Comment on Emergency Helicopter Medics</a>
+	<a href="https://www.tvguide.co.uk/detail/2761258/82111265/a-place-in-the-sun"  title="Comment on A Place in the Sun">Comment on A Place in the Sun</a>
 </div>
 
 
@@ -852,7 +852,7 @@ X-HCT-LastUpdated 1677903656
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7.1</span>
+		</span><span class="programmeheading">6.1</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1019,8 +1019,8 @@ X-HCT-LastUpdated 1677903656
 		<td width="97" height="133" align="center">
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
-		<td align="center"><span class="programmetext">Not Yet Rated<br>
-		</span><span class="programmeheading"></span>
+		<td align="center"><span class="programmetext">Rating<br>
+		</span><span class="programmeheading">9.5</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1062,7 +1062,7 @@ X-HCT-LastUpdated 1677903656
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7</span>
+		</span><span class="programmeheading">6.8</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1104,7 +1104,7 @@ X-HCT-LastUpdated 1677903656
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">7</span>
+		</span><span class="programmeheading">6.8</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1146,7 +1146,7 @@ X-HCT-LastUpdated 1677903656
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">3.3</span>
+		</span><span class="programmeheading">4.5</span>
 		</td>
 		</tr></table>
 	</td></tr>

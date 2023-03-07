@@ -1,15 +1,15 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 f0236f2e9918880117506b92347e5c04
+MD5 385a5b90779723c582795832d2b4a469
 Url https://www.tvguide.co.uk/detail/5032010/81989438/reporting-scotland-weather
-X-HCT-LastUpdated 1677905992
+X-HCT-LastUpdated 1678157723
 
 
 <!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
 <title>TV Guide - TVguide.co.uk</title>
-<meta property="og:title" content="Reporting Scotland (11/03/2023 - Evening) on BBC One Scotland, Sat 11 Mar 5:30pm - TV Guide UK TVGuide.co.uk"/>
+<meta property="og:title" content="Reporting Scotland (11/03/2023 - Evening) on BBC One Scotland, Sat 11 Mar 5:35pm - TV Guide UK TVGuide.co.uk"/>
 <meta property="og:image" content="https://images.tvguide.co.uk/pa/640/e870d9b3-7d0e-57a2-834d-5eb11e0d6685.jpg"/>
 <meta property="og:description" content="TV Guide, The UK's No 1 TV guide showing your TV listings in an easy to read grid format. Visit us to check Sports, News, Freeview, Freesat, Sky TV, Virgin TV, History, Discovery, TLC, BBC, and more."/>
 <meta property="og:url" content="https://www.tvguide.co.uk/detail/5032010/81989438/reporting-scotland-weather"/>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677905992
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -480,7 +480,7 @@ $('#articleCarousel').carousel({
             
 			<div style="clear:both; margin-bottom:10px;">
  <div style="margin-bottom:7px;"><span class="channelno">Sky:977</span><span class="channelno" style="margin-right:0">Freesat:960</span></div>Sat 11 Mar<br>
-				5:30pm-5:33pm 
+				5:35pm-5:38pm 
                 <span style="color:#999">
 					 (3 minutes)<br>
                     
@@ -498,10 +498,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Reporting+Scotland&dates=20230311T173000Z/20230311T173300Z&details=%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Scotland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Reporting+Scotland&dates=20230311T173500Z/20230311T173800Z&details=%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Scotland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Reporting+Scotland&dates=20230311T173000Z/20230311T173300Z&details=%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Scotland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Reporting+Scotland&dates=20230311T173500Z/20230311T173800Z&details=%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+One+Scotland&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
                 Add to Google Calendar</a>
             </td>
 		</tr>
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663432562" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664294950" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663432562" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664294950" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -712,7 +712,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663432562</div>
+<div style="color:#000000">664294950</div>
 
 
 <script>

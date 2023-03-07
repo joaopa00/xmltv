@@ -930,7 +930,7 @@
     <episode-num system="onscreen">Episodio 8</episode-num>
     <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
-  <programme start="20230307083000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307083500 +0100" channel="raigulp.rai.it">
     <title lang="it">MIA AND ME (IV)</title>
     <sub-title lang="it">Episodio 12</sub-title>
     <episode-num system="onscreen">Episodio 12</episode-num>
@@ -960,41 +960,41 @@
     <episode-num system="onscreen">Episodio 15</episode-num>
     <episode-num system="xmltv_ns">.14.0/1</episode-num>
   </programme>
-  <programme start="20230307102000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307102500 +0100" channel="raigulp.rai.it">
     <title lang="it">ROBIN HOOD (II)</title>
     <sub-title lang="it">Episodio 16</sub-title>
     <episode-num system="onscreen">Episodio 16</episode-num>
     <episode-num system="xmltv_ns">.15.0/1</episode-num>
   </programme>
-  <programme start="20230307103000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307104000 +0100" channel="raigulp.rai.it">
     <title lang="it">WINX CLUB (VI)</title>
     <sub-title lang="it">Episodio 19</sub-title>
     <episode-num system="onscreen">Episodio 19</episode-num>
     <episode-num system="xmltv_ns">.18.0/1</episode-num>
   </programme>
-  <programme start="20230307105500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307110000 +0100" channel="raigulp.rai.it">
     <title lang="it">WINX CLUB (VI)</title>
     <sub-title lang="it">Episodio 20</sub-title>
     <episode-num system="onscreen">Episodio 20</episode-num>
     <episode-num system="xmltv_ns">.19.0/1</episode-num>
   </programme>
-  <programme start="20230307112000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307112500 +0100" channel="raigulp.rai.it">
     <title lang="it">MARBLEGEN</title>
     <sub-title lang="it">Episodio 22</sub-title>
     <episode-num system="onscreen">Episodio 22</episode-num>
     <episode-num system="xmltv_ns">.21.0/1</episode-num>
   </programme>
-  <programme start="20230307114500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307115000 +0100" channel="raigulp.rai.it">
     <title lang="it">KIDS VET ACADEMY (II)</title>
     <sub-title lang="it">Episodio 12</sub-title>
     <episode-num system="onscreen">Episodio 12</episode-num>
     <episode-num system="xmltv_ns">.11.0/1</episode-num>
   </programme>
-  <programme start="20230307120000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307120500 +0100" channel="raigulp.rai.it">
     <title lang="it">BABY BOSS - DI NUOVO IN AFFARI (II)</title>
     <sub-title lang="it">EP</sub-title>
   </programme>
-  <programme start="20230307122500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307123000 +0100" channel="raigulp.rai.it">
     <title lang="it">SEVEN AND ME (II)</title>
     <sub-title lang="it">Episodio 18</sub-title>
     <episode-num system="onscreen">Episodio 18</episode-num>
@@ -1006,7 +1006,7 @@
     <episode-num system="onscreen">Episodio 23</episode-num>
     <episode-num system="xmltv_ns">.22.0/1</episode-num>
   </programme>
-  <programme start="20230307125500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307130000 +0100" channel="raigulp.rai.it">
     <title lang="it">CORTO MALTESE</title>
     <sub-title lang="it">Episodio 18</sub-title>
     <episode-num system="onscreen">Episodio 18</episode-num>
@@ -1054,43 +1054,43 @@
     <episode-num system="onscreen">Episodio 18</episode-num>
     <episode-num system="xmltv_ns">.17.0/1</episode-num>
   </programme>
-  <programme start="20230307161500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307161000 +0100" channel="raigulp.rai.it">
     <title lang="it">MARTA ED EVA</title>
     <sub-title lang="it">Episodio 17</sub-title>
     <episode-num system="onscreen">Episodio 17</episode-num>
     <episode-num system="xmltv_ns">.16.0/1</episode-num>
   </programme>
-  <programme start="20230307164000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307163500 +0100" channel="raigulp.rai.it">
     <title lang="it">METEO SPAZIO 2022-23</title>
     <sub-title lang="it">Episodio 19</sub-title>
     <episode-num system="onscreen">Episodio 19</episode-num>
     <episode-num system="xmltv_ns">.18.0/1</episode-num>
   </programme>
-  <programme start="20230307165000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307164500 +0100" channel="raigulp.rai.it">
     <title lang="it">LE NUOVE AVVENTURE DI PETER PAN</title>
     <sub-title lang="it">Episodio 17</sub-title>
     <episode-num system="onscreen">Episodio 17</episode-num>
     <episode-num system="xmltv_ns">.16.0/1</episode-num>
   </programme>
-  <programme start="20230307171500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307171000 +0100" channel="raigulp.rai.it">
     <title lang="it">GORMITI</title>
     <sub-title lang="it">Episodio 43</sub-title>
     <episode-num system="onscreen">Episodio 43</episode-num>
     <episode-num system="xmltv_ns">.42.0/1</episode-num>
   </programme>
-  <programme start="20230307172500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307172000 +0100" channel="raigulp.rai.it">
     <title lang="it">GORMITI</title>
     <sub-title lang="it">Episodio 44</sub-title>
     <episode-num system="onscreen">Episodio 44</episode-num>
     <episode-num system="xmltv_ns">.43.0/1</episode-num>
   </programme>
-  <programme start="20230307174000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307173500 +0100" channel="raigulp.rai.it">
     <title lang="it">VITA DA GIUNGLA (III)</title>
     <sub-title lang="it">Episodio 2</sub-title>
     <episode-num system="onscreen">Episodio 2</episode-num>
     <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme start="20230307175000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307174500 +0100" channel="raigulp.rai.it">
     <title lang="it">VITA DA GIUNGLA (III)</title>
     <sub-title lang="it">Episodio 3</sub-title>
     <episode-num system="onscreen">Episodio 3</episode-num>
@@ -1108,7 +1108,7 @@
     <episode-num system="onscreen">Episodio 9</episode-num>
     <episode-num system="xmltv_ns">.8.0/1</episode-num>
   </programme>
-  <programme start="20230307184000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307183500 +0100" channel="raigulp.rai.it">
     <title lang="it">LUCAS ETC.</title>
     <sub-title lang="it">Episodio 51</sub-title>
     <episode-num system="onscreen">Episodio 51</episode-num>
@@ -1120,7 +1120,7 @@
     <episode-num system="onscreen">Episodio 2</episode-num>
     <episode-num system="xmltv_ns">.1.0/1</episode-num>
   </programme>
-  <programme start="20230307191000 +0100" channel="raigulp.rai.it">
+  <programme start="20230307191500 +0100" channel="raigulp.rai.it">
     <title lang="it">CRUSH</title>
     <sub-title lang="it">Episodio 7 - LA STORIA DI TAMINA</sub-title>
     <episode-num system="onscreen">Episodio 7</episode-num>
@@ -1132,7 +1132,7 @@
     <episode-num system="onscreen">Episodio 16</episode-num>
     <episode-num system="xmltv_ns">.15.0/1</episode-num>
   </programme>
-  <programme start="20230307200500 +0100" channel="raigulp.rai.it">
+  <programme start="20230307200000 +0100" channel="raigulp.rai.it">
     <title lang="it">ROBIN HOOD (II)</title>
     <sub-title lang="it">Episodio 16</sub-title>
     <episode-num system="onscreen">Episodio 16</episode-num>
@@ -1178,7 +1178,7 @@
     <title lang="it">BABY BOSS - DI NUOVO IN AFFARI (II)</title>
     <sub-title lang="it">EP</sub-title>
   </programme>
-  <programme start="20230308004500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308004000 +0100" channel="raigulp.rai.it">
     <title lang="it">GORMITI</title>
     <sub-title lang="it">Episodio 43</sub-title>
     <episode-num system="onscreen">Episodio 43</episode-num>
@@ -1214,55 +1214,55 @@
     <episode-num system="onscreen">Episodio 1</episode-num>
     <episode-num system="xmltv_ns">.0.0/1</episode-num>
   </programme>
-  <programme start="20230308024500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308025000 +0100" channel="raigulp.rai.it">
     <title lang="it">GRANI DI PEPE (XII)</title>
     <sub-title lang="it">Episodio 7</sub-title>
     <episode-num system="onscreen">Episodio 7</episode-num>
     <episode-num system="xmltv_ns">.6.0/1</episode-num>
   </programme>
-  <programme start="20230308031500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308032000 +0100" channel="raigulp.rai.it">
     <title lang="it">VITA DA GIUNGLA</title>
     <sub-title lang="it">Episodio 13</sub-title>
     <episode-num system="onscreen">Episodio 13</episode-num>
     <episode-num system="xmltv_ns">.12.0/1</episode-num>
   </programme>
-  <programme start="20230308032500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308033000 +0100" channel="raigulp.rai.it">
     <title lang="it">VITA DA GIUNGLA</title>
     <sub-title lang="it">Episodio 14</sub-title>
     <episode-num system="onscreen">Episodio 14</episode-num>
     <episode-num system="xmltv_ns">.13.0/1</episode-num>
   </programme>
-  <programme start="20230308033000 +0100" channel="raigulp.rai.it">
+  <programme start="20230308034500 +0100" channel="raigulp.rai.it">
     <title lang="it">IDEFIX E GLI IRRIDUCIBILI</title>
     <sub-title lang="it">Episodio 19</sub-title>
     <episode-num system="onscreen">Episodio 19</episode-num>
     <episode-num system="xmltv_ns">.18.0/1</episode-num>
   </programme>
-  <programme start="20230308034500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308035500 +0100" channel="raigulp.rai.it">
     <title lang="it">SPOOKSVILLE</title>
     <sub-title lang="it">Episodio 19</sub-title>
     <episode-num system="onscreen">Episodio 19</episode-num>
     <episode-num system="xmltv_ns">.18.0/1</episode-num>
   </programme>
-  <programme start="20230308041000 +0100" channel="raigulp.rai.it">
+  <programme start="20230308042000 +0100" channel="raigulp.rai.it">
     <title lang="it">ROBIN HOOD (II)</title>
     <sub-title lang="it">Episodio 40</sub-title>
     <episode-num system="onscreen">Episodio 40</episode-num>
     <episode-num system="xmltv_ns">.39.0/1</episode-num>
   </programme>
-  <programme start="20230308042500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308043500 +0100" channel="raigulp.rai.it">
     <title lang="it">ALEX AND CO.</title>
     <sub-title lang="it">Episodio 38</sub-title>
     <episode-num system="onscreen">Episodio 38</episode-num>
     <episode-num system="xmltv_ns">.37.0/1</episode-num>
   </programme>
-  <programme start="20230308045000 +0100" channel="raigulp.rai.it">
+  <programme start="20230308045500 +0100" channel="raigulp.rai.it">
     <title lang="it">ALEX AND CO.</title>
     <sub-title lang="it">Episodio 39</sub-title>
     <episode-num system="onscreen">Episodio 39</episode-num>
     <episode-num system="xmltv_ns">.38.0/1</episode-num>
   </programme>
-  <programme start="20230308051500 +0100" channel="raigulp.rai.it">
+  <programme start="20230308052000 +0100" channel="raigulp.rai.it">
     <title lang="it">SOMOS TU Y YO (II)</title>
     <sub-title lang="it">Episodio 77</sub-title>
     <episode-num system="onscreen">Episodio 77</episode-num>
@@ -1313,26 +1313,26 @@
   <programme start="20230307060000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
   </programme>
-  <programme start="20230307070000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307070500 +0100" channel="raiscuola.rai.it">
     <title lang="it">The Italian Dream. Studying Art, Music a</title>
   </programme>
-  <programme start="20230307071500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307072000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Figures of Speech</title>
     <sub-title lang="it">Episodio 11</sub-title>
     <episode-num system="onscreen">Episodio 11</episode-num>
     <episode-num system="xmltv_ns">.10.0/1</episode-num>
   </programme>
-  <programme start="20230307072500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307073500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Vertical city Chicago</title>
     <sub-title lang="it">Sears Tower Ep.</sub-title>
   </programme>
-  <programme start="20230307075500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307080000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Patrimonio Immateriale ed Archeologico S</title>
   </programme>
-  <programme start="20230307080000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307080500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
   </programme>
-  <programme start="20230307081500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307082000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
   </programme>
   <programme start="20230307083000 +0100" channel="raiscuola.rai.it">
@@ -1347,87 +1347,90 @@
     <episode-num system="onscreen">Episodio 08</episode-num>
     <episode-num system="xmltv_ns">.7.0/1</episode-num>
   </programme>
-  <programme start="20230307093000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307092500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Vita dallo Spazio Asteroidi e Meteoriti</title>
   </programme>
-  <programme start="20230307103000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307102000 +0100" channel="raiscuola.rai.it">
     <title lang="it">L'uomo dei boschi La Cevenne bosco della</title>
   </programme>
-  <programme start="20230307113000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307111000 +0100" channel="raiscuola.rai.it">
     <title lang="it">I grandi eventi della natura (ep. 4): La</title>
   </programme>
-  <programme start="20230307122000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307120000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Di là dal fiume tra gli alberi L'isola d</title>
   </programme>
-  <programme start="20230307130000 +0100" channel="raiscuola.rai.it">
-    <title lang="it">THE ASCENT OF WOMAN: 10.000 YEARS STORY</title>
+  <programme start="20230307125500 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le donne nella storia Il mondo antico -</title>
   </programme>
-  <programme start="20230307140000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307135500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza Files: Le meraviglie de</title>
   </programme>
-  <programme start="20230307140500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307140000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le meraviglie delle statistiche</title>
   </programme>
   <programme start="20230307150000 +0100" channel="raiscuola.rai.it">
     <title lang="it">#MAESTRI P.6 #Maestri pt 6</title>
   </programme>
-  <programme start="20230307154500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307153500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e pensier</title>
   </programme>
-  <programme start="20230307160000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307155000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Le serie di RaiCultura.it Mito e pensier</title>
+  </programme>
+  <programme start="20230307161000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Memex Sperimentiamo! p. 17</title>
     <sub-title lang="it">Lenti</sub-title>
   </programme>
   <programme start="20230307163000 +0100" channel="raiscuola.rai.it">
-    <title lang="it">ORDER AND DISORDER Ordine e Disordine (1</title>
+    <title lang="it">Ordine e Disordine (1Â° parte): L'energia</title>
   </programme>
   <programme start="20230307173000 +0100" channel="raiscuola.rai.it">
     <title lang="it">I segreti del colore Dipingere sul muro</title>
   </programme>
-  <programme start="20230307180000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307175500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Digital World Il computer tra passato e</title>
   </programme>
-  <programme start="20230307183000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307182000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Invito alla lettura 2 Literacy disciplin</title>
   </programme>
-  <programme start="20230307184500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307184000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Invito alla lettura 2 L'abitudine alla l</title>
   </programme>
-  <programme start="20230307190000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307185500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Le origini del</title>
   </programme>
-  <programme start="20230307191500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307191000 +0100" channel="raiscuola.rai.it">
     <title lang="it">L'uomo dei boschi</title>
     <sub-title lang="it">Episodio 5</sub-title>
     <episode-num system="onscreen">Episodio 5</episode-num>
     <episode-num system="xmltv_ns">.4.0/1</episode-num>
   </programme>
-  <programme start="20230307201500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307200500 +0100" channel="raiscuola.rai.it">
     <title lang="it">I grandi eventi della natura (ep. 4): La</title>
   </programme>
-  <programme start="20230307210000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307205500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza Storie della Scienza -</title>
   </programme>
-  <programme start="20230307220000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307214500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Progetto Scienza 2022 Verso il futuro -</title>
   </programme>
-  <programme start="20230307230000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307225000 +0100" channel="raiscuola.rai.it">
     <title lang="it">TGR/LEONARDO 22/23</title>
   </programme>
-  <programme start="20230307231500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230307230500 +0100" channel="raiscuola.rai.it">
     <title lang="it">The Core</title>
     <sub-title lang="it">Viaggio al centro della Terra</sub-title>
   </programme>
-  <programme start="20230308000500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308000000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Di là dal fiume tra gli alberi Il porto</title>
   </programme>
   <programme start="20230308005000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Le origini del</title>
   </programme>
-  <programme start="20230308010000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308010500 +0100" channel="raiscuola.rai.it">
     <title lang="it">The Secret Life of Books. Serie 1 Franke</title>
   </programme>
-  <programme start="20230308013000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308013500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Spoon River Anthology Sleepers</title>
   </programme>
   <programme start="20230308014500 +0100" channel="raiscuola.rai.it">
@@ -1436,13 +1439,13 @@
     <episode-num system="onscreen">Episodio 1</episode-num>
     <episode-num system="xmltv_ns">.0.0/1</episode-num>
   </programme>
-  <programme start="20230308015500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308020000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Patrimonio Immateriale ed Archeologico S</title>
   </programme>
-  <programme start="20230308020000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308020500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
   </programme>
-  <programme start="20230308021500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308022000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Invito all'asc</title>
   </programme>
   <programme start="20230308023000 +0100" channel="raiscuola.rai.it">
@@ -1454,13 +1457,13 @@
   <programme start="20230308034500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it L'attualità di</title>
   </programme>
-  <programme start="20230308040000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308035500 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Il restauro ci</title>
   </programme>
-  <programme start="20230308041500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308041000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Mito e Pensier</title>
   </programme>
-  <programme start="20230308043000 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308042500 +0100" channel="raiscuola.rai.it">
     <title lang="it">I grandi della letteratura italiana Dant</title>
   </programme>
   <programme start="20230308051500 +0100" channel="raiscuola.rai.it">
@@ -1469,7 +1472,10 @@
   <programme start="20230308053000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it Luoghi del con</title>
   </programme>
-  <programme start="20230308054500 +0100" channel="raiscuola.rai.it">
+  <programme start="20230308054000 +0100" channel="raiscuola.rai.it">
+    <title lang="it">Big Cities Tokyo: Mi prenderÃ² cura di te</title>
+  </programme>
+  <programme start="20230308055000 +0100" channel="raiscuola.rai.it">
     <title lang="it">Le serie di RaiCultura.it I generi cinem</title>
   </programme>
   <programme start="20230307060000 +0100" channel="raiscuola.rai.it">

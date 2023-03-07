@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 5ed7d5dcd9ddedd0b0138d4479420790
+MD5 fd302c17f67af6a8a394fea9ddb725bc
 Url https://www.tvguide.co.uk/detail/4739734/81984747/breakfast-with-stephen-and-anne
-X-HCT-LastUpdated 1677900004
+X-HCT-LastUpdated 1678151778
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677900004
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -480,9 +480,9 @@ $('#articleCarousel').carousel({
             
 			<div style="clear:both; margin-bottom:10px;">
  <div style="margin-bottom:7px;"><span class="channelno">Virgin:604</span></div>Fri 10 Mar<br>
-				6:00am-9:30am 
+				6:00am-10:00am 
                 <span style="color:#999">
-					 (3 hours 30 minutes)<br>
+					 (4 hours)<br>
                     
                 </span>
             </div>
@@ -498,10 +498,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Breakfast+with+Stephen+and+Anne&dates=20230310T060000Z/20230310T093000Z&details=It%27s+Stephen+and+Anne+here%2E+Join+us+for+the+weekend+breakfast+show+Britain+is+turning+to%2E+News+from+around+our+great+country+and+the+world+is+live+here+on+GB+News+Breakfast%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=GB+News+HD&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Breakfast+with+Stephen+and+Anne&dates=20230310T060000Z/20230310T100000Z&details=It%27s+Stephen+and+Anne+here%2E+Join+us+for+the+weekend+breakfast+show+Britain+is+turning+to%2E+News+from+around+our+great+country+and+the+world+is+live+here+on+GB+News+Breakfast%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=GB+News+HD&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Breakfast+with+Stephen+and+Anne&dates=20230310T060000Z/20230310T093000Z&details=It%27s+Stephen+and+Anne+here%2E+Join+us+for+the+weekend+breakfast+show+Britain+is+turning+to%2E+News+from+around+our+great+country+and+the+world+is+live+here+on+GB+News+Breakfast%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=GB+News+HD&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20Breakfast+with+Stephen+and+Anne&dates=20230310T060000Z/20230310T100000Z&details=It%27s+Stephen+and+Anne+here%2E+Join+us+for+the+weekend+breakfast+show+Britain+is+turning+to%2E+News+from+around+our+great+country+and+the+world+is+live+here+on+GB+News+Breakfast%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=GB+News+HD&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
                 Add to Google Calendar</a>
             </td>
 		</tr>
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663429092" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664144527" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663429092" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664144527" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -701,7 +701,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663429092</div>
+<div style="color:#000000">664144527</div>
 
 
 <script>

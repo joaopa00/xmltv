@@ -1,0 +1,280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20230312234000 +0100" channel="C59.api.telerama.fr" stop="20230313003000 +0100">
+    <title>Sternstunde Kunst</title>
+    <desc lang="fr">Die schweizerisch-japanische Regisseurin Aya Domenig porträtiert fünf Kunstschaffende, die sich in ihren Werken mit Hartnäckigkeit und auch Humor gegen das Verdrängen und Vergessen der Atomkatastrophe von Fukushima wehren.</desc>
+    <category lang="fr">documentaire beaux-arts</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/67fb1593e580cf034684545abf0db81b28eb0242.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313003000 +0100" channel="C59.api.telerama.fr" stop="20230313023000 +0100">
+    <title>Le prestige</title>
+    <desc lang="fr">Etablis à Londres, Robert Angier et Alfred Borden se vouent une haine farouche. En effet, ces deux magiciens très doués ne supportent pas l'ombre qu'ils se font mutuellement. Chacun entreprend alors de montrer sa supériorité sur l'autre. Pour ce faire, ils utilisent les arcanes les plus sombres de leur art... - Critique : | Genre : vertigineux. Le cinéma s'intéresse, curieusement, aux magiciens. Cela donne de l'importance à ce Prestige, le moins connu des films de Christopher Nolan, qui y dirigeait Christian Bale après avoir fait de lui le nouveau Batman. Le voilà dans le rôle d'un prestidigitateur qui en affronte un autre, d'abord par pure jalousie, puis par la force d'une sorte d'envoûtement. Un crescendo qui épouse la logique même de la magie, comme on nous l'explique dans la scène d'ouverture : au début, une simple promesse (« Regardez cette colombe ! »), puis vient le tour (la colombe disparaît), et enfin l'apothéose merveilleuse, qu'on appelle « le prestige » : la colombe réapparaît. Christopher Nolan a transposé ce beau programme dans la fiction, mais en brouil­lant les pistes, notamment la chronologie de l'histoire, comme pour rappeler qu'il est aussi l'auteur du tordu Memento (2000). Le Prestige est donc à la fois un joli film grand public, offrant un spectacle permanent sur fond d'Angleterre victorienne, et un film d'auteur un peu artificiellement torturé dans sa narration, mais hanté par une vraie fascination pour les étranges pouvoirs du chiffre 2. Le duo de magiciens se désaccorde en effet lorsque l'un d'eux réussit un tour où il semble se dédoubler. Pour Christopher Nolan, qui travaille avec son frère Jonathan, il y a là toutes sortes de perspectives de vertige, qu'il explore tour à tour, jusqu'au prestige, qui vaut le détour. — Frédéric Strauss</desc>
+    <credits>
+      <actor>Michael Caine</actor>
+      <actor>Ziggy Stardust</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Christian Bale</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Andy Serkis</actor>
+      <actor>Christopher Neame</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Hugh Jackman</actor>
+      <actor>Piper Perabo</actor>
+      <actor>Jim Piddock</actor>
+      <actor>Sam Mahurin</actor>
+      <writer>Christopher Nolan</writer>
+      <writer>Jonathan Nolan</writer>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">film : thriller</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/6d8d9adf-904c-4ee7-a5ce-bdabcf26151c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230313023000 +0100" channel="C59.api.telerama.fr" stop="20230313033000 +0100">
+    <title>Sternstunde Philosophie</title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/7765ecacfaf647c05a5307ee81f0d5bd59673cf9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313033000 +0100" channel="C59.api.telerama.fr" stop="20230313041500 +0100">
+    <title>Kuppelkids</title>
+    <desc lang="fr">Kinder auf Partnersuche: Vier Elternteile wagen in der neuen Reihe "SRF Kuppelkids" das Experiment und legen ihr Liebesglück in die Hände ihrer Kinder. Mit ihrem unverstellten Blick wollen die Kinder versuchen, ihren alleinerziehenden Eltern einen neuen Partner oder eine neue Partnerin zu finden.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/27/07446bedcc626d4162a6e9f8fb688acef9880d6c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313041500 +0100" channel="C59.api.telerama.fr" stop="20230313042000 +0100">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Bückerflug</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230313042000 +0100" channel="C59.api.telerama.fr" stop="20230313051000 +0100">
+    <title>Hypermarchés, la chute de l'empire</title>
+    <sub-title>Auslaufmodell Supermarkt</sub-title>
+    <desc lang="fr">Le modèle de l'hypermarché a-t-il fait son temps ? Ce concept révolutionnaire du "tout sous le même toit", popularisé en 1963 par Carrefour, a conquis le monde entier. Aujourd'hui pourtant, le pionnier français, comme ses concurrents, a un genou à terre. En cause notamment, la crise du gigantisme, associé à une déshumanisation du commerce et à la surconsommation, pointée du doigt à l'heure des grands défis écologiques, mais aussi la concurrence du e-commerce. Désormais, tout le secteur cherche à sauver ce qui peut l'être, quitte à verser dans des pratiques à la limite de la légalité. Pour obtenir des prix toujours plus bas, sans lesquels elles seraient désertées, les grandes enseignes mettent les fournisseurs de plus en plus sous pression.</desc>
+    <category lang="fr">documentaire economie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/30/cbcc54a28616279c63fa0ac187297de7f73e4e69.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230312230500 +0100" channel="C183.api.telerama.fr" stop="20230313003500 +0100">
+    <title>Enquête sur un double assassinat : Jan Kuciak</title>
+    <desc lang="fr">Jeune journaliste d'investigation slovaque, Jan Kuciak a été assassiné le 21 février 2018 de même que sa compagne, Martina Kusnirova, à la veille de leur mariage. Il enquêtait sur des affaires de fraude fiscale concernant des oligarques influents, qui révélaient une infiltration par la mafia calabraise. Secouant l'opinion publique, ce double meurtre a entraîné des manifestations dans tout le pays et a conduit à la démission du gouvernement de Robert Fico. L'enquête policière, efficace, a permis d'identifier les tueurs, dévoilant la corruption qui gangrenait la Slovaquie au plus haut niveau. Lié au pouvoir, l'homme d'affaires Marian Kocner a finalement été accusé d'avoir commandité l'assassinat.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/10/e9828a610a29b75bb0560b7963a546724fc255c6.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230313003500 +0100" channel="C183.api.telerama.fr" stop="20230313010000 +0100">
+    <title>Géopolitis</title>
+    <desc lang="fr">Pour mieux comprendre les grands enjeux internationaux, ce magazine de géopolitique décode les dessous de l'actualité politique.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/10/8b3befefd6aa88e6d44a299537f421621b78f6fe.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313010000 +0100" channel="C183.api.telerama.fr" stop="20230313015000 +0100">
+    <title>Mise au point</title>
+    <desc lang="fr">"Mise au Point" propose des enquêtes, des reportages et des interviews portant sur différents thèmes d'actualité.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/29/48238c0486eb9d5be5ef2d6f865de3fd020555d7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313015000 +0100" channel="C183.api.telerama.fr" stop="20230313022000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313022000 +0100" channel="C183.api.telerama.fr" stop="20230313055500 +0100">
+    <title>Sport dimanche</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">215</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230312234000 +0100" channel="C202.api.telerama.fr" stop="20230313004000 +0100">
+    <title>The Pact *2021</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les relations entre Nancy et Richard se détériorent un peu plus lorsque Nancy découvre une terrible vérité à propos de son mari. De leur côté, Cat et Tish tentent de régler le problème généré par l'addiction de Louie. Celle-ci reprend contact avec Arwel, qui commet un acte désespéré. Alors que la police fait une avancée majeure dans l'enquête, Max met la pression sur Anna... - Critique : Jack Evans est le genre de patron qui donnerait des envies de meurtre à toutes ses employées… Depuis que son père, fondateur de la brasserie locale, apprécié du personnel, a pris sa retraite, ce tyran, amateur d’excès, d’alcool, de drogues dures et de voitures de sport, est aux commandes… Au grand désarroi d’Anna, Louie, Cat et Nancy. Lorsque le corps de leur patron est retrouvé sans vie dans les bois après une soirée d’entreprise arrosée, les quatre collègues regrettent une plaisanterie qui a mal tourné.
+
+Sorte de Big Little Lies (thriller haletant resserré autour de cinq mères de famille américaines), transposée à une communauté galloise plus modeste, soudée autour d’une usine, The Pact tient en haleine sans toutefois créer la surprise. Les relations entre les quatre amies sont à l’origine de plusieurs retournements de situations et cliffhangers plus ou moins convaincants qui, au mieux, intriguent ou, au pis, lassent.</desc>
+    <credits>
+      <director>Rebecca Johnson</director>
+      <actor>Rakie Ayola</actor>
+      <actor>Laura Fraser</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Jason Hughes</actor>
+      <actor>Hesmondhalgh Julie</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Mark Lewis</actor>
+      <actor>Eiry Thomas</actor>
+      <actor>Gabrielle Creevy</actor>
+      <actor>Abbie Hern</actor>
+      <actor>Aled ap Steffan</actor>
+      <actor>Heledd Gwynn</actor>
+      <writer>Pete Mctighe</writer>
+      <writer>McTighe Pete</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série de suspense</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/24/412a640adc0049f5abe913ab97bcbdbafcad5c2e.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230313004000 +0100" channel="C202.api.telerama.fr" stop="20230313013500 +0100">
+    <title>A Very English Scandal</title>
+    <sub-title>Un passé encombrant</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Alors que la carrière politique de Jeremy gagne du terrain, il est plus que jamais déterminé à se débarrasser de Norman pour de bon...</desc>
+    <credits>
+      <director>Stephen Frears</director>
+      <actor>Hugh Grant</actor>
+      <actor>Patrick Barlow</actor>
+      <actor>Jason Watkins</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Ben Whishaw</actor>
+      <actor>Monica Dolan</actor>
+      <actor>Lucy Briggs-Owen</actor>
+      <actor>Morgan Watkins</actor>
+      <actor>Naomi Battrick</actor>
+      <actor>Alice Orr-Ewing</actor>
+      <actor>Patricia Hodge</actor>
+      <actor>Paul Hilton</actor>
+      <writer>Russell T.</writer>
+      <writer>John Preston</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/26/1feaad73540263a70ab7defe1149aceb7b091e8a_73ED87C5492167A99D691FD644B06C05.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313013500 +0100" channel="C202.api.telerama.fr" stop="20230313022900 +0100">
+    <title>Sport dimanche</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">54</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/d8659acaa21c8c5a66c4f04899e82972fa099b93.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313022900 +0100" channel="C202.api.telerama.fr" stop="20230313023000 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230313023000 +0100" channel="C202.api.telerama.fr" stop="20230313050000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

@@ -1,9 +1,9 @@
 Code 200
-Content-Length 70027
+Content-Length 70071
 Content-Type text/html;charset=UTF-8
-MD5 a97420e94a1763ad480c1f7652d2e949
+MD5 f8e77edbcd746ede41ee73f70ea0c195
 Url https://www.tvguide.co.uk/channellistings.asp?ch=164&cTime=03%2F09%2F2023%2000%3A00%3A00
-X-HCT-LastUpdated 1677902335
+X-HCT-LastUpdated 1678154107
 
 
 <!DOCTYPE html>
@@ -103,7 +103,7 @@ X-HCT-LastUpdated 1677902335
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -651,7 +651,7 @@ X-HCT-LastUpdated 1677902335
 		<td height="133" align="left" valign="top" width="523">
 <span class="season">4:00pm </span><br>
 		 <a href="https://www.tvguide.co.uk/detail/5027642/81957514/tipping-point"  title="Click to rate and review"><span class="programmeheading" >Tipping Point</span><br>
-<b><span class="season">Season 12 </span></b><br>
+<b><span class="season">Season 12 </span> <span class="season">Episode 164 of </span></b><br>
 		<span class="programmetext">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</span></a><br>
 <span class="tvchannel">Category </span><span class="programmetext">General</span></a><br>
 
@@ -858,7 +858,7 @@ X-HCT-LastUpdated 1677902335
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">2.9</span>
+		</span><span class="programmeheading">2.8</span>
 		</td>
 		</tr></table>
 	</td></tr>
@@ -1116,7 +1116,7 @@ X-HCT-LastUpdated 1677902335
 		<table border="1" cellpadding="2" style="border-collapse: collapse" width="79" height="62" id="table2" bordercolor="#9E9E9E">
 		<tr>
 		<td align="center"><span class="programmetext">Rating<br>
-		</span><span class="programmeheading">1.6</span>
+		</span><span class="programmeheading">1.8</span>
 		</td>
 		</tr></table>
 	</td></tr>

@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 a62abc520104a37f5b1ee9830ded1b1b
+MD5 960809687cba0b35814a7f647a1f0edd
 Url https://www.tvguide.co.uk/detail/5025001/81911749/house-of-lords
-X-HCT-LastUpdated 1677879692
+X-HCT-LastUpdated 1678132037
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677879692
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            3 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -480,9 +480,9 @@ $('#articleCarousel').carousel({
             
 			<div style="clear:both; margin-bottom:10px;">
  <div style="margin-bottom:7px;"><span class="channelno">Freeview:232</span><span class="channelno">Sky:504</span><span class="channelno">Virgin:605</span><span class="channelno">BT:232</span><span class="channelno" style="margin-right:0">Freesat:201</span></div>Tue 7 Mar<br>
-				11:40pm-7:00am 
+				11:40pm-6:00am 
                 <span style="color:#999">
-					 (7 hours 20 minutes)<br>
+					 (6 hours 20 minutes)<br>
                     
                 </span>
             </div>
@@ -498,10 +498,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20House+of+Lords&dates=20230307T234000Z/20230308T070000Z&details=Business+in+the+House+of+Lords+from+Tuesday+7+March%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+Parliament&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20House+of+Lords&dates=20230307T234000Z/20230308T060000Z&details=Business+in+the+House+of+Lords+including+the+second+day+of+the+report+stage+of+the+National+Security+Bill+and+a+short+debate+on+peace+in+the+Middle+East%2C+from+Tuesday+7+March%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+Parliament&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20House+of+Lords&dates=20230307T234000Z/20230308T070000Z&details=Business+in+the+House+of+Lords+from+Tuesday+7+March%2E%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+Parliament&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
+            	<a href="https://www.google.com/calendar/event?action=TEMPLATE&text=TV:%20House+of+Lords&dates=20230307T234000Z/20230308T060000Z&details=Business+in+the+House+of+Lords+including+the+second+day+of+the+report+stage+of+the+National+Security+Bill+and+a+short+debate+on+peace+in+the+Middle+East%2C+from+Tuesday+7+March%0A%0AReminder set courtesy of http://www.tvguide.co.uk&location=BBC+Parliament&trp=true&sprop=&sprop=name:" target="_blank" title="Add to Google Calendar"  rel="nofollow" style="margin:0" >
                 Add to Google Calendar</a>
             </td>
 		</tr>
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663394766" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664367440" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663394766" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664367440" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -648,7 +648,7 @@ $('#articleCarousel').carousel({
             
                 
             
-            <span class="programmetext">Business in the House of Lords from Tuesday 7 March.<br><br></span>
+            <span class="programmetext">Business in the House of Lords including the second day of the report stage of the National Security Bill and a short debate on peace in the Middle East, from Tuesday 7 March<br><br></span>
             <span class="tvchannel">Category: </span>
             <span class="programmetext">Social/Political/Economics</span><br><br>
 
@@ -721,7 +721,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663394766</div>
+<div style="color:#000000">664367440</div>
 
 
 <script>

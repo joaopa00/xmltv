@@ -970,6 +970,28 @@ Le Doudou se réduit alors à une succession de rencontres avec des personnages 
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme start="20230306230300" channel="C164.api.telerama.fr" stop="20230306234900">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Un décryptage précieux des codes de la consommation et du marketing afin d'éclairer les consommateurs au quotidien. Les chroniqueurs dénichent les bons plans du moment et aident ainsi les téléspectateurs à économiser de l'argent.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">46</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/04/1c8cd18258f0bcc3ef4524c4624f4c5d088ca178.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230306234900" channel="C164.api.telerama.fr" stop="20230307000000">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">Découvrez, en 11 minutes et 30 secondes, les phénomènes de la météo, l'avenir du climat chez nous et à l'autre bout du monde grâce à des initiatives positives, des personnes engagées mais aussi des idées innovantes et durables.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/433077f3608d6cb6f2c24b040fc7ec50a7e5d42a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme start="20230305231500" channel="C168.api.telerama.fr" stop="20230306000500">
     <title>Proven Innocent</title>
     <sub-title>Une femme qui dérange</sub-title>
@@ -1317,6 +1339,15 @@ Le Doudou se réduit alors à une succession de rencontres avec des personnages 
     <length units="minutes">40</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/04/04/0128cc000d1d114edb6c5e2596ab9ca693125fe2.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20230306233500" channel="C168.api.telerama.fr" stop="20230307013500">
+    <title>Nuit blanche</title>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/04/e1f0836bf1ed565dc69f37b81297860ffb5f5720.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -1769,6 +1800,39 @@ Le Doudou se réduit alors à une succession de rencontres avec des personnages 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
+  <programme start="20230306231900" channel="C187.api.telerama.fr" stop="20230306234700">
+    <title>Formule 1 : Grand Prix de Bahreïn</title>
+    <category lang="fr">sport : formule 1</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/06/19/8a42e9746ff9f7e647786012664f9111879e88b1.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306234700" channel="C187.api.telerama.fr" stop="20230306235600">
+    <title>Vews</title>
+    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">9</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/16/2a587f921a43fdb133aeee70d5e59411150cd35b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306235600" channel="C187.api.telerama.fr" stop="20230307014800">
+    <title>La tribune</title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">112</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/5f2b357749057ebc73cff9a86cee1697625c509c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
   <programme start="20230305233000" channel="C377.api.telerama.fr" stop="20230306013000">
     <title>La boutique</title>
     <desc lang="fr">Secrets de beauté, magie des bijoux, créations de mode, cuisine conviviale et gourmande, entretien et décoration de la maison, etc. La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique.</desc>
@@ -2007,6 +2071,18 @@ Le Doudou se réduit alors à une succession de rencontres avec des personnages 
     <star-rating>
       <value>4/5</value>
     </star-rating>
+  </programme>
+  <programme start="20230306230500" channel="C377.api.telerama.fr" stop="20230307000000">
+    <title>Les apprentis aventuriers</title>
+    <sub-title>Episode 17</sub-title>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/05/3203c8fe096757020296704ac1654d3163181eeb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
   </programme>
   <programme start="20230306230500" channel="C377.api.telerama.fr" stop="20230307000000">
     <title>Les apprentis aventuriers</title>
@@ -2635,6 +2711,39 @@ La grande vertu du film consiste à rappeler, par la seule force de ces vidéos,
     <category lang="fr">magazine religieux</category>
     <length units="minutes">10</length>
     <icon src="https://focus.telerama.fr/1111x625/2022/05/02/6fedf34b78fd12edd54f0fb89b889544a4729f70.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306230600" channel="C892.api.telerama.fr" stop="20230306231600">
+    <title>OpinionS : UCM</title>
+    <desc lang="fr">Le principal magazine de politique Belge du moment.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/c21e6383f50b98af543ce8f62b43791aa05f0bc3.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306231600" channel="C892.api.telerama.fr" stop="20230306232600">
+    <title>Opinions, Les coulisses du PS</title>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/09/362f62111c19b1fccb3a3d1b23d962086f71c348.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20230306232600" channel="C892.api.telerama.fr" stop="20230307000100">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/17/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />

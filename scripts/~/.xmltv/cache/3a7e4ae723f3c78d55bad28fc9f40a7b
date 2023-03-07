@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 0460a6250a75fc6f6c04dd3bf18457cd
+MD5 c7e51a94ea34d3a17afcd1a86c004c2a
 Url https://www.tvguide.co.uk/detail/5016821/81938160/gogglebox
-X-HCT-LastUpdated 1677881771
+X-HCT-LastUpdated 1678134156
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677881771
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            3 March 2023
+            6 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -512,10 +512,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663332468" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664164910" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663332468" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664164910" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -571,15 +571,15 @@ $('#articleCarousel').carousel({
     
 	<div id="divCentre">
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
-        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">6.9</div>
+        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">6.8</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>2334 votes
+            	USER RATING<br>2371 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
                     <script language="javascript" src="https://cdn.tvguide.co.uk/_ui/rateit/jquery.rateit.min.js"></script>
                     <div id="rateit" class="rateit tvgstars" data-rateit-starwidth="16" data-rateit-starheight="15" data-rateit-resetable="false" data-rateit-max="10" 
-                    	data-rateit-step="1" data-rateit-value="6.9"></div>
+                    	data-rateit-step="1" data-rateit-value="6.8"></div>
                     <script type="text/javascript">
                         $('#rateit').on('beforerated', function (e, value) {
                           if (!confirm('Are you sure you want to rate this item: ' +  value + ' out of 10?')) {
@@ -608,7 +608,7 @@ $('#articleCarousel').carousel({
                     </script>  
             </div>
             <div style="width:auto; margin:0 10px; height:50px; color:#FFF; font-size:28px; text-align:center; line-height:50px; float:left;">
-            224
+            223
             </div>
             <div style="height:32px; padding:0; margin:9px 0; float:left; width:145px;line-height:16px;">
             	SHOW REVIEWS<br>
@@ -632,7 +632,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Gogglebox"/>
-                                <meta itemprop="votes" content="2334"/>
+                                <meta itemprop="votes" content="2371"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -640,9 +640,9 @@ $('#articleCarousel').carousel({
                                         Rating<br></span>
                                     <span class="programmeheading" itemprop="average" 
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
-                                        6.9</span><br>
+                                        6.8</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        2334 votes</span>
+                                        2371 votes</span>
                                  </span>
                             </span>
                         
@@ -694,15 +694,6 @@ $('#articleCarousel').carousel({
                 <span class="tvchannel">Cbw</span> &nbsp;
                 <span class="datetime">9:14pm Wed 9 Jun
                     <a class="report-abuse" onClick="commentmail('444347')">Report Abuse</a>
-                </span>
-            </p>
-    		
-            <p>
-                <span class="tvchannel">Annoying Viewers</span><br>
-                <span class="commenttext">Why do people watch this show and then complain about it? Don't like it? Then don't watch it! I for one love it!</span></a><br>
-                <span class="tvchannel">Wendy</span> &nbsp;
-                <span class="datetime">5:33am Sat 24 Apr
-                    <a class="report-abuse" onClick="commentmail('443160')">Report Abuse</a>
                 </span>
             </p>
     		
@@ -777,6 +768,15 @@ $('#articleCarousel').carousel({
                     <a class="report-abuse" onClick="commentmail('425984')">Report Abuse</a>
                 </span>
             </p>
+    		
+            <p>
+                <span class="tvchannel">Agree 100%</span><br>
+                <span class="commenttext">I am getting fed up with the constant f****** as well!  The Siddiquis are one of my favourite families and they seem to be able to get through a programme without swearing. That new family,the Lambards are the most offensive!</span></a><br>
+                <span class="tvchannel">RosM</span> &nbsp;
+                <span class="datetime">1:59pm Sat 1 Jun
+                    <a class="report-abuse" onClick="commentmail('425939')">Report Abuse</a>
+                </span>
+            </p>
             
 	</div>
     
@@ -820,7 +820,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663332468</div>
+<div style="color:#000000">664164910</div>
 
 
 <script>

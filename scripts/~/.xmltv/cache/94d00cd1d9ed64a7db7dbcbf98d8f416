@@ -1,8 +1,8 @@
 Code 200
 Content-Type text/html;charset=UTF-8,text/html;charset=UTF-8
-MD5 6d555126d94e2de578ab189324c4056f
+MD5 5ddcde90ba4a6f5b55695627c881cf61
 Url https://www.tvguide.co.uk/detail/1795855/81972667/teleshopping
-X-HCT-LastUpdated 1677902493
+X-HCT-LastUpdated 1678154283
 
 
 <!DOCTYPE html>
@@ -104,7 +104,7 @@ X-HCT-LastUpdated 1677902493
 	<div id="top-bar">
     	<div id="top-bar-max-width" style="width:1300px;">
             <div id="top-bar-left">
-            4 March 2023
+            7 March 2023
             
                 &nbsp;<span class="grey">|</span>&nbsp; 
                 
@@ -335,97 +335,7 @@ input:checked + .slider:before { -webkit-transform: translateX(10px); -ms-transf
 <div style="width:100%;min-width:1300px;height:84px;padding:0 0 10px 0;z-index:99;">
 	<div id="popStories">News</div>
 	<div id="articleCarousel" style='z-index:99;'> 
-    	<ul>
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/23113928/netflixmar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-netflix-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-netflix-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Netflix in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/21122343/nowtvmar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-now-tv-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-now-tv-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to NOW TV in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/22110908/disneymar23-1-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-disney-march-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-disney-march-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Disney+ in March 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/22134544/eastenders2-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/shock-murder-awaits-christmas-eastenders-soap-premieres-epic-flash-forward/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/shock-murder-awaits-christmas-eastenders-soap-premieres-epic-flash-forward/" target="_blank" class="div-blog-article-text-title">Shock murder awaits this Christmas on EastEnders as soap premieres epic flash-forward</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/08111129/trafficked-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/trafficked-mariana-van-zeller-brand-new-season-national-geographic/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/trafficked-mariana-van-zeller-brand-new-season-national-geographic/" target="_blank" class="div-blog-article-text-title">Discover the devastating human cost of MDMA and more in brand new Trafficked with Mariana ...</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/09152316/SkyKids-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/everything-need-know-new-channel-sky-kids/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/everything-need-know-new-channel-sky-kids/" target="_blank" class="div-blog-article-text-title">Everything you need to know about new channel Sky Kids</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2020/02/03110112/AirCraftInvestigation5-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/brand-new-air-crash-investigation-explores-deadly-corporate-airlines-5966-crash/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/brand-new-air-crash-investigation-explores-deadly-corporate-airlines-5966-crash/" target="_blank" class="div-blog-article-text-title">Brand new Air Crash Investigation explores the deadly Corporate Airlines 5966 crash</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/02/01113111/yourplaceormine-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-netflix-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-netflix-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Netflix in February 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/01/12111959/nowtvfeb2023-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-now-tv-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-now-tv-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to NOW TV in February 2023</a>
-            </div>
-        </div>
-    </li>
-
-    <li>
-        <div class="div-blog-article">
-            <div class="div-blog-article-img" style="background-image:url(https://cdn.tvguide.co.uk/wp-content/uploads/2023/01/24120512/disneyfebruary2023-600x180.jpg);" onclick="window.open('//news.tvguide.co.uk/best-additions-disney-february-2023/');"></div>
-            <div class="div-blog-article-text">
-                <a href="//news.tvguide.co.uk/best-additions-disney-february-2023/" target="_blank" class="div-blog-article-text-title">The best additions to Disney+ in February 2023</a>
-            </div>
-        </div>
-    </li>
- </ul>
+    	<ul> </ul>
 	</div>
 </div>
 
@@ -512,10 +422,10 @@ $('#articleCarousel').carousel({
 	<table border="0" cellspacing="0" cellpadding="0" style="margin-top:3px; background-color:#1A1A1A; width:360px;" class="tblButtons">
         <tr>
 			<td height="22" width="35">
-            	<a href="/vcalendar.vcs?id=663391855" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
+            	<a href="/vcalendar.vcs?id=664357780" target="_blank" title="Add to Outlook or iCal" rel="nofollow" ><img src="https://cdn.tvguide.co.uk/_ui/images/icons/cal_25x22.png" height="22" width="25"></a>
             </td>
         	<td height="22" style="text-align:left;"> 
-            	<a href="/vcalendar.vcs?id=663391855" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
+            	<a href="/vcalendar.vcs?id=664357780" target="_blank" title="Add to Outlook or iCal"  rel="nofollow" style="margin:0" >
                 Add to Outlook or iCal</a>
             </td>
 		</tr>
@@ -557,15 +467,15 @@ $('#articleCarousel').carousel({
     
 	<div id="divCentre">
         <div style="background-color:#212121; padding:5px; font-size:12px; color:#FFF;">
-        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">3</div>
+        	<div style="width:55px; height:50px; background-color:#000; font-size:28px; text-align:center; line-height:50px; float:left" class="blue">3.1</div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:74px;border-right:1px solid #3D3D3B; line-height:16px;">
-            	USER RATING<br>2056 votes
+            	USER RATING<br>2057 votes
             </div>
             <div style="height:32px; padding:0 10px; margin:9px 0; float:left; width:170px;border-right:1px solid #3D3D3B; line-height:16px;">RATE NOW<br>
 
                     <script language="javascript" src="https://cdn.tvguide.co.uk/_ui/rateit/jquery.rateit.min.js"></script>
                     <div id="rateit" class="rateit tvgstars" data-rateit-starwidth="16" data-rateit-starheight="15" data-rateit-resetable="false" data-rateit-max="10" 
-                    	data-rateit-step="1" data-rateit-value="3"></div>
+                    	data-rateit-step="1" data-rateit-value="3.1"></div>
                     <script type="text/javascript">
                         $('#rateit').on('beforerated', function (e, value) {
                           if (!confirm('Are you sure you want to rate this item: ' +  value + ' out of 10?')) {
@@ -618,7 +528,7 @@ $('#articleCarousel').carousel({
                  	
                             <span itemscope itemtype="https://data-vocabulary.org/Review-aggregate">   
                                 <meta itemprop="itemreviewed" content="Teleshopping"/>
-                                <meta itemprop="votes" content="2056"/>
+                                <meta itemprop="votes" content="2057"/>
                                 <span itemprop="rating" itemscope itemtype="https://data-vocabulary.org/Rating">    
                                     <meta itemprop="best" content="10"/>
                                     <meta itemprop="worst" content="0"/>
@@ -626,9 +536,9 @@ $('#articleCarousel').carousel({
                                         Rating<br></span>
                                     <span class="programmeheading" itemprop="average" 
                                     	style="color:#8cd9f8; font-weight:bold; font-size:40px; line-height:40px;">
-                                        3</span><br>
+                                        3.1</span><br>
                                     <span class="programmetext" style="color:#8cd9f8">
-                                        2056 votes</span>
+                                        2057 votes</span>
                                  </span>
                             </span>
                         
@@ -721,7 +631,7 @@ $('#articleCarousel').carousel({
 
 
 
-<div style="color:#000000">663391855</div>
+<div style="color:#000000">664357780</div>
 
 
 <script>

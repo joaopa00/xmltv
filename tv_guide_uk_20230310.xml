@@ -71,4 +71,46 @@
       <value>8.5/10</value>
     </star-rating>
   </programme>
+  <programme start="20230309230000" channel="1013.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Curse of Skinwalker Ranch</title>
+    <sub-title lang="en">Shocking Revelations</sub-title>
+    <desc lang="en">The team members get an otherworldly surprise as they shoot electricity into the soil of Skinwalker Ranch using high-powered Tesla Coils.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4329094/81953569/curse-of-skinwalker-ranch</url>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <star-rating>
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309230000" channel="1154.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81965370/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309230000" channel="1157.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81961414/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230309230000" channel="1171.tvguide.co.uk" stop="20230310000000">
+    <title lang="en">Piers Morgan Uncensored</title>
+    <desc lang="en">The host presents his unmissable verdict on the day's global events with an hour of fearless debate, straight-talking interviews with the world's leading figures, and plenty of fun.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <url>https://www.tvguide.co.uk/detail/4648015/81959363/piers-morgan-uncensored</url>
+    <star-rating>
+      <value>0.2/10</value>
+    </star-rating>
+  </programme>
 </tv>
